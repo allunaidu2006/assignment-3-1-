@@ -1,0 +1,1291 @@
+match_id,season,match_date,team_a,team_b,venue,goals_a,goals_b,outcome,is_completed,status,minute,possession_a,possession_b,shots_a,shots_b
+EPL-2022-1001,2022-23,2022-08-08 15:00:00,Crystal Palace,Arsenal,Selhurst Park,4,0,team_a,True,completed,90,50.6,49.4,12,14
+EPL-2022-1002,2022-23,2022-08-08 20:00:00,Chelsea,Ipswich,Stamford Bridge,0,2,team_b,True,completed,90,57.0,43.0,12,5
+EPL-2022-1003,2022-23,2022-08-08 20:00:00,Southampton,Manchester United,St. Mary's Stadium,0,2,team_b,True,completed,90,60.0,40.0,8,8
+EPL-2022-1004,2022-23,2022-08-07 15:00:00,Fulham,Leicester,Craven Cottage,0,0,draw,True,completed,90,55.6,44.4,14,7
+EPL-2022-1005,2022-23,2022-08-08 20:00:00,Leicester,Bournemouth,King Power Stadium,1,0,team_a,True,completed,90,48.6,51.4,14,15
+EPL-2022-1006,2022-23,2022-08-06 12:00:00,Crystal Palace,Liverpool,Selhurst Park,2,1,team_a,True,completed,90,42.9,57.1,11,20
+EPL-2022-1007,2022-23,2022-08-06 17:00:00,Crystal Palace,Wolves,Selhurst Park,2,1,team_a,True,completed,90,49.0,51.0,11,12
+EPL-2022-1008,2022-23,2022-08-06 12:00:00,Brighton,Newcastle,Amex Stadium,0,1,team_b,True,completed,90,59.7,40.3,12,13
+EPL-2022-1009,2022-23,2022-08-06 15:00:00,Aston Villa,Bournemouth,Villa Park,0,3,team_b,True,completed,90,59.0,41.0,16,15
+EPL-2022-1010,2022-23,2022-08-07 15:00:00,Chelsea,Wolves,Stamford Bridge,0,1,team_b,True,completed,90,65.1,34.9,15,8
+EPL-2022-1011,2022-23,2022-08-13 20:00:00,Bournemouth,Wolves,Vitality Stadium,0,1,team_b,True,completed,90,43.3,56.7,15,12
+EPL-2022-1012,2022-23,2022-08-15 15:00:00,Liverpool,Nottm Forest,Anfield,3,2,team_a,True,completed,90,62.2,37.8,16,11
+EPL-2022-1013,2022-23,2022-08-13 20:00:00,Chelsea,Liverpool,Stamford Bridge,6,1,team_a,True,completed,90,56.7,43.3,19,17
+EPL-2022-1014,2022-23,2022-08-14 15:00:00,Ipswich,West Ham,Portman Road,1,0,team_a,True,completed,90,42.7,57.3,10,12
+EPL-2022-1015,2022-23,2022-08-14 17:00:00,Fulham,Manchester City,Craven Cottage,3,0,team_a,True,completed,90,58.4,41.6,14,16
+EPL-2022-1016,2022-23,2022-08-15 20:00:00,Leicester,Southampton,King Power Stadium,1,2,team_b,True,completed,90,50.2,49.8,16,10
+EPL-2022-1017,2022-23,2022-08-13 12:00:00,Newcastle,Manchester United,St. James' Park,0,4,team_b,True,completed,90,59.5,40.5,15,10
+EPL-2022-1018,2022-23,2022-08-15 17:00:00,Bournemouth,West Ham,Vitality Stadium,1,2,team_b,True,completed,90,43.5,56.5,19,12
+EPL-2022-1019,2022-23,2022-08-14 17:00:00,Crystal Palace,Manchester City,Selhurst Park,0,1,team_b,True,completed,90,47.2,52.8,17,12
+EPL-2022-1020,2022-23,2022-08-14 15:00:00,Southampton,Brentford,St. Mary's Stadium,3,0,team_a,True,completed,90,53.1,46.9,14,6
+EPL-2022-1021,2022-23,2022-08-22 15:00:00,Wolves,Brentford,Molineux Stadium,3,1,team_a,True,completed,90,48.4,51.6,10,11
+EPL-2022-1022,2022-23,2022-08-22 17:00:00,Everton,Liverpool,Goodison Park,1,0,team_a,True,completed,90,46.0,54.0,10,16
+EPL-2022-1023,2022-23,2022-08-22 17:00:00,Everton,Brentford,Goodison Park,0,1,team_b,True,completed,90,46.0,54.0,14,12
+EPL-2022-1024,2022-23,2022-08-22 17:00:00,Brentford,Everton,Gtech Community Stadium,2,0,team_a,True,completed,90,49.7,50.3,12,12
+EPL-2022-1025,2022-23,2022-08-22 20:00:00,Everton,Aston Villa,Goodison Park,1,0,team_a,True,completed,90,46.1,53.9,11,12
+EPL-2022-1026,2022-23,2022-08-21 12:00:00,Arsenal,Nottm Forest,Emirates Stadium,1,5,team_b,True,completed,90,60.6,39.4,16,11
+EPL-2022-1027,2022-23,2022-08-22 17:00:00,Liverpool,Southampton,Anfield,4,0,team_a,True,completed,90,64.6,35.4,22,8
+EPL-2022-1028,2022-23,2022-08-22 20:00:00,Southampton,Bournemouth,St. Mary's Stadium,0,0,draw,True,completed,90,59.5,40.5,10,8
+EPL-2022-1029,2022-23,2022-08-21 17:00:00,Newcastle,Tottenham,St. James' Park,2,2,draw,True,completed,90,50.1,49.9,14,13
+EPL-2022-1030,2022-23,2022-08-20 15:00:00,Newcastle,Bournemouth,St. James' Park,0,2,team_b,True,completed,90,50.8,49.2,11,10
+EPL-2022-1031,2022-23,2022-08-28 12:00:00,Tottenham,Fulham,Tottenham Hotspur Stadium,5,1,team_a,True,completed,90,60.5,39.5,21,10
+EPL-2022-1032,2022-23,2022-08-29 20:00:00,Nottm Forest,Aston Villa,City Ground,1,2,team_b,True,completed,90,44.9,55.1,11,10
+EPL-2022-1033,2022-23,2022-08-29 12:00:00,Tottenham,Ipswich,Tottenham Hotspur Stadium,2,0,team_a,True,completed,90,65.7,34.3,13,10
+EPL-2022-1034,2022-23,2022-08-27 15:00:00,Tottenham,Southampton,Tottenham Hotspur Stadium,2,2,draw,True,completed,90,64.6,35.4,20,12
+EPL-2022-1035,2022-23,2022-08-27 15:00:00,Crystal Palace,Aston Villa,Selhurst Park,3,1,team_a,True,completed,90,53.0,47.0,10,15
+EPL-2022-1036,2022-23,2022-08-27 20:00:00,Liverpool,Newcastle,Anfield,3,2,team_a,True,completed,90,67.0,33.0,23,13
+EPL-2022-1037,2022-23,2022-08-28 20:00:00,Arsenal,Crystal Palace,Emirates Stadium,3,3,draw,True,completed,90,67.0,33.0,21,13
+EPL-2022-1038,2022-23,2022-08-27 20:00:00,Newcastle,Leicester,St. James' Park,1,2,team_b,True,completed,90,54.4,45.6,14,9
+EPL-2022-1039,2022-23,2022-08-29 20:00:00,Aston Villa,Nottm Forest,Villa Park,4,0,team_a,True,completed,90,58.5,41.5,15,12
+EPL-2022-1040,2022-23,2022-08-27 17:00:00,Tottenham,Bournemouth,Tottenham Hotspur Stadium,4,4,draw,True,completed,90,57.8,42.2,17,12
+EPL-2022-1041,2022-23,2022-09-05 12:00:00,Everton,Nottm Forest,Goodison Park,0,0,draw,True,completed,90,39.7,60.3,12,11
+EPL-2022-1042,2022-23,2022-09-05 15:00:00,Manchester United,Ipswich,Old Trafford,2,0,team_a,True,completed,90,58.5,41.5,12,10
+EPL-2022-1043,2022-23,2022-09-04 17:00:00,Everton,Arsenal,Goodison Park,1,0,team_a,True,completed,90,44.5,55.5,15,10
+EPL-2022-1044,2022-23,2022-09-03 20:00:00,Ipswich,Manchester City,Portman Road,3,1,team_a,True,completed,90,44.7,55.3,16,11
+EPL-2022-1045,2022-23,2022-09-05 20:00:00,Everton,Bournemouth,Goodison Park,1,3,team_b,True,completed,90,43.7,56.3,14,11
+EPL-2022-1046,2022-23,2022-09-04 20:00:00,West Ham,Ipswich,London Stadium,0,0,draw,True,completed,90,47.5,52.5,17,7
+EPL-2022-1047,2022-23,2022-09-04 15:00:00,Brentford,Manchester United,Gtech Community Stadium,1,2,team_b,True,completed,90,46.3,53.7,16,8
+EPL-2022-1048,2022-23,2022-09-04 17:00:00,Tottenham,Nottm Forest,Tottenham Hotspur Stadium,4,0,team_a,True,completed,90,63.0,37.0,18,7
+EPL-2022-1049,2022-23,2022-09-04 15:00:00,Manchester United,Leicester,Old Trafford,1,0,team_a,True,completed,90,61.8,38.2,19,5
+EPL-2022-1050,2022-23,2022-09-04 12:00:00,Brighton,Southampton,Amex Stadium,1,3,team_b,True,completed,90,57.0,43.0,18,7
+EPL-2022-1051,2022-23,2022-09-11 15:00:00,Bournemouth,Manchester City,Vitality Stadium,0,5,team_b,True,completed,90,43.6,56.4,16,16
+EPL-2022-1052,2022-23,2022-09-10 20:00:00,Arsenal,West Ham,Emirates Stadium,3,3,draw,True,completed,90,60.9,39.1,19,10
+EPL-2022-1053,2022-23,2022-09-11 17:00:00,Leicester,Newcastle,King Power Stadium,0,2,team_b,True,completed,90,52.0,48.0,15,8
+EPL-2022-1054,2022-23,2022-09-12 12:00:00,Crystal Palace,Brentford,Selhurst Park,3,1,team_a,True,completed,90,54.0,46.0,14,9
+EPL-2022-1055,2022-23,2022-09-12 12:00:00,Manchester City,Aston Villa,Etihad Stadium,8,4,team_a,True,completed,90,71.4,28.6,14,8
+EPL-2022-1056,2022-23,2022-09-10 15:00:00,Liverpool,Manchester City,Anfield,2,2,draw,True,completed,90,69.1,30.9,24,13
+EPL-2022-1057,2022-23,2022-09-10 15:00:00,Southampton,Wolves,St. Mary's Stadium,1,0,team_a,True,completed,90,55.7,44.3,9,9
+EPL-2022-1058,2022-23,2022-09-11 17:00:00,Brighton,Tottenham,Amex Stadium,2,2,draw,True,completed,90,65.2,34.8,14,10
+EPL-2022-1059,2022-23,2022-09-10 17:00:00,Tottenham,Everton,Tottenham Hotspur Stadium,1,0,team_a,True,completed,90,56.3,43.7,12,10
+EPL-2022-1060,2022-23,2022-09-12 20:00:00,Fulham,Manchester United,Craven Cottage,3,2,team_a,True,completed,90,52.8,47.2,13,9
+EPL-2022-1061,2022-23,2022-09-19 15:00:00,Wolves,Manchester City,Molineux Stadium,3,0,team_a,True,completed,90,45.2,54.8,13,12
+EPL-2022-1062,2022-23,2022-09-19 12:00:00,Bournemouth,Ipswich,Vitality Stadium,3,0,team_a,True,completed,90,47.2,52.8,16,9
+EPL-2022-1063,2022-23,2022-09-17 17:00:00,Manchester United,Manchester City,Old Trafford,2,2,draw,True,completed,90,50.2,49.8,17,18
+EPL-2022-1064,2022-23,2022-09-17 20:00:00,Ipswich,Fulham,Portman Road,3,0,team_a,True,completed,90,51.5,48.5,14,9
+EPL-2022-1065,2022-23,2022-09-18 15:00:00,Crystal Palace,Tottenham,Selhurst Park,1,1,draw,True,completed,90,50.8,49.2,13,17
+EPL-2022-1066,2022-23,2022-09-18 20:00:00,West Ham,Chelsea,London Stadium,0,0,draw,True,completed,90,46.2,53.8,18,13
+EPL-2022-1067,2022-23,2022-09-18 15:00:00,Manchester United,Wolves,Old Trafford,0,2,team_b,True,completed,90,60.0,40.0,12,10
+EPL-2022-1068,2022-23,2022-09-18 15:00:00,Manchester City,Crystal Palace,Etihad Stadium,1,1,draw,True,completed,90,71.0,29.0,23,12
+EPL-2022-1069,2022-23,2022-09-18 12:00:00,Aston Villa,Brighton,Villa Park,3,0,team_a,True,completed,90,56.9,43.1,16,11
+EPL-2022-1070,2022-23,2022-09-18 15:00:00,Wolves,Southampton,Molineux Stadium,1,0,team_a,True,completed,90,48.3,51.7,13,10
+EPL-2022-1071,2022-23,2022-09-25 17:00:00,Bournemouth,Everton,Vitality Stadium,2,0,team_a,True,completed,90,49.7,50.3,18,9
+EPL-2022-1072,2022-23,2022-09-24 15:00:00,Southampton,Ipswich,St. Mary's Stadium,1,1,draw,True,completed,90,58.6,41.4,15,12
+EPL-2022-1073,2022-23,2022-09-24 20:00:00,Aston Villa,West Ham,Villa Park,3,2,team_a,True,completed,90,58.8,41.2,18,13
+EPL-2022-1074,2022-23,2022-09-24 12:00:00,Chelsea,Tottenham,Stamford Bridge,3,0,team_a,True,completed,90,57.5,42.5,18,12
+EPL-2022-1075,2022-23,2022-09-25 17:00:00,Leicester,Everton,King Power Stadium,0,0,draw,True,completed,90,47.7,52.3,16,11
+EPL-2022-1076,2022-23,2022-09-25 17:00:00,Tottenham,Arsenal,Tottenham Hotspur Stadium,2,1,team_a,True,completed,90,59.2,40.8,19,14
+EPL-2022-1077,2022-23,2022-09-25 17:00:00,Wolves,Nottm Forest,Molineux Stadium,1,0,team_a,True,completed,90,46.8,53.2,12,10
+EPL-2022-1078,2022-23,2022-09-24 15:00:00,Tottenham,Chelsea,Tottenham Hotspur Stadium,5,0,team_a,True,completed,90,57.3,42.7,19,13
+EPL-2022-1079,2022-23,2022-09-26 17:00:00,Nottm Forest,Liverpool,City Ground,4,4,draw,True,completed,90,50.8,49.2,11,16
+EPL-2022-1080,2022-23,2022-09-24 17:00:00,Aston Villa,Southampton,Villa Park,2,2,draw,True,completed,90,53.2,46.8,11,13
+EPL-2022-1081,2022-23,2022-10-01 17:00:00,Manchester United,Crystal Palace,Old Trafford,2,0,team_a,True,completed,90,50.5,49.5,11,14
+EPL-2022-1082,2022-23,2022-10-02 15:00:00,Leicester,Liverpool,King Power Stadium,1,3,team_b,True,completed,90,49.7,50.3,15,13
+EPL-2022-1083,2022-23,2022-10-01 17:00:00,Arsenal,Ipswich,Emirates Stadium,2,1,team_a,True,completed,90,62.6,37.4,20,9
+EPL-2022-1084,2022-23,2022-10-01 12:00:00,Everton,Crystal Palace,Goodison Park,3,1,team_a,True,completed,90,41.0,59.0,16,7
+EPL-2022-1085,2022-23,2022-10-01 20:00:00,Arsenal,Manchester City,Emirates Stadium,5,2,team_a,True,completed,90,62.9,37.1,22,11
+EPL-2022-1086,2022-23,2022-10-01 15:00:00,Chelsea,Newcastle,Stamford Bridge,1,0,team_a,True,completed,90,63.7,36.3,16,9
+EPL-2022-1087,2022-23,2022-10-01 12:00:00,West Ham,Tottenham,London Stadium,2,0,team_a,True,completed,90,47.7,52.3,15,12
+EPL-2022-1088,2022-23,2022-10-03 20:00:00,West Ham,Manchester City,London Stadium,7,0,team_a,True,completed,90,46.4,53.6,16,15
+EPL-2022-1089,2022-23,2022-10-03 20:00:00,Newcastle,Brighton,St. James' Park,4,1,team_a,True,completed,90,52.7,47.3,20,9
+EPL-2022-1090,2022-23,2022-10-03 12:00:00,Nottm Forest,Manchester City,City Ground,1,0,team_a,True,completed,90,50.4,49.6,11,14
+EPL-2022-1091,2022-23,2022-10-09 12:00:00,West Ham,Manchester United,London Stadium,0,2,team_b,True,completed,90,42.9,57.1,11,16
+EPL-2022-1092,2022-23,2022-10-08 15:00:00,Nottm Forest,Fulham,City Ground,2,1,team_a,True,completed,90,39.0,61.0,15,14
+EPL-2022-1093,2022-23,2022-10-09 12:00:00,Newcastle,Everton,St. James' Park,1,1,draw,True,completed,90,51.8,48.2,15,13
+EPL-2022-1094,2022-23,2022-10-08 15:00:00,Fulham,Nottm Forest,Craven Cottage,3,2,team_a,True,completed,90,59.1,40.9,19,8
+EPL-2022-1095,2022-23,2022-10-09 12:00:00,Nottm Forest,West Ham,City Ground,2,1,team_a,True,completed,90,45.5,54.5,10,10
+EPL-2022-1096,2022-23,2022-10-08 12:00:00,Brighton,Bournemouth,Amex Stadium,1,0,team_a,True,completed,90,56.7,43.3,16,11
+EPL-2022-1097,2022-23,2022-10-09 12:00:00,Manchester City,West Ham,Etihad Stadium,5,1,team_a,True,completed,90,67.6,32.4,18,12
+EPL-2022-1098,2022-23,2022-10-09 20:00:00,Brighton,Wolves,Amex Stadium,1,3,team_b,True,completed,90,61.3,38.7,21,6
+EPL-2022-1099,2022-23,2022-10-09 17:00:00,Fulham,Newcastle,Craven Cottage,3,5,team_b,True,completed,90,55.2,44.8,10,9
+EPL-2022-1100,2022-23,2022-10-08 12:00:00,Brentford,Tottenham,Gtech Community Stadium,2,0,team_a,True,completed,90,55.0,45.0,13,9
+EPL-2022-1101,2022-23,2022-10-15 20:00:00,Ipswich,Manchester United,Portman Road,3,1,team_a,True,completed,90,46.2,53.8,14,12
+EPL-2022-1102,2022-23,2022-10-15 20:00:00,Leicester,Ipswich,King Power Stadium,3,0,team_a,True,completed,90,49.6,50.4,15,5
+EPL-2022-1103,2022-23,2022-10-16 17:00:00,Ipswich,Southampton,Portman Road,0,0,draw,True,completed,90,44.9,55.1,12,6
+EPL-2022-1104,2022-23,2022-10-15 17:00:00,Brighton,Liverpool,Amex Stadium,8,1,team_a,True,completed,90,60.9,39.1,19,16
+EPL-2022-1105,2022-23,2022-10-17 20:00:00,Chelsea,Arsenal,Stamford Bridge,5,0,team_a,True,completed,90,63.8,36.2,20,10
+EPL-2022-1106,2022-23,2022-10-16 12:00:00,Manchester City,Wolves,Etihad Stadium,5,3,team_a,True,completed,90,65.8,34.2,19,7
+EPL-2022-1107,2022-23,2022-10-16 12:00:00,West Ham,Crystal Palace,London Stadium,0,2,team_b,True,completed,90,48.9,51.1,17,13
+EPL-2022-1108,2022-23,2022-10-16 12:00:00,Aston Villa,Fulham,Villa Park,1,0,team_a,True,completed,90,53.3,46.7,16,14
+EPL-2022-1109,2022-23,2022-10-17 20:00:00,Brentford,Nottm Forest,Gtech Community Stadium,2,0,team_a,True,completed,90,52.1,47.9,12,9
+EPL-2022-1110,2022-23,2022-10-17 15:00:00,Manchester City,Manchester United,Etihad Stadium,5,2,team_a,True,completed,90,73.1,26.9,21,15
+EPL-2022-1111,2022-23,2022-10-22 12:00:00,Ipswich,Nottm Forest,Portman Road,2,0,team_a,True,completed,90,51.7,48.3,16,8
+EPL-2022-1112,2022-23,2022-10-24 15:00:00,Everton,Tottenham,Goodison Park,2,1,team_a,True,completed,90,41.7,58.3,9,17
+EPL-2022-1113,2022-23,2022-10-23 12:00:00,Chelsea,Brentford,Stamford Bridge,0,0,draw,True,completed,90,56.7,43.3,13,13
+EPL-2022-1114,2022-23,2022-10-22 15:00:00,Manchester United,Newcastle,Old Trafford,1,0,team_a,True,completed,90,56.0,44.0,15,16
+EPL-2022-1115,2022-23,2022-10-24 17:00:00,West Ham,Liverpool,London Stadium,2,3,team_b,True,completed,90,46.0,54.0,16,19
+EPL-2022-1116,2022-23,2022-10-22 20:00:00,Crystal Palace,Ipswich,Selhurst Park,0,0,draw,True,completed,90,48.6,51.4,15,7
+EPL-2022-1117,2022-23,2022-10-24 15:00:00,Manchester City,Bournemouth,Etihad Stadium,1,1,draw,True,completed,90,72.4,27.6,18,13
+EPL-2022-1118,2022-23,2022-10-23 17:00:00,Wolves,Leicester,Molineux Stadium,0,0,draw,True,completed,90,53.8,46.2,13,9
+EPL-2022-1119,2022-23,2022-10-24 20:00:00,Arsenal,Fulham,Emirates Stadium,1,2,team_b,True,completed,90,67.4,32.6,20,15
+EPL-2022-1120,2022-23,2022-10-23 17:00:00,Aston Villa,Liverpool,Villa Park,3,1,team_a,True,completed,90,55.0,45.0,19,18
+EPL-2022-1121,2022-23,2022-10-30 17:00:00,Nottm Forest,Leicester,City Ground,1,1,draw,True,completed,90,49.4,50.6,11,11
+EPL-2022-1122,2022-23,2022-10-29 20:00:00,Nottm Forest,Brentford,City Ground,0,1,team_b,True,completed,90,39.5,60.5,15,12
+EPL-2022-1123,2022-23,2022-10-30 15:00:00,Fulham,Arsenal,Craven Cottage,4,1,team_a,True,completed,90,53.9,46.1,10,12
+EPL-2022-1124,2022-23,2022-10-31 17:00:00,West Ham,Newcastle,London Stadium,3,1,team_a,True,completed,90,51.4,48.6,16,9
+EPL-2022-1125,2022-23,2022-10-31 20:00:00,Brighton,West Ham,Amex Stadium,1,1,draw,True,completed,90,56.2,43.8,14,12
+EPL-2022-1126,2022-23,2022-10-31 15:00:00,Fulham,Aston Villa,Craven Cottage,1,1,draw,True,completed,90,48.9,51.1,14,13
+EPL-2022-1127,2022-23,2022-10-31 20:00:00,Bournemouth,Arsenal,Vitality Stadium,5,2,team_a,True,completed,90,50.8,49.2,15,18
+EPL-2022-1128,2022-23,2022-10-30 17:00:00,Leicester,Brentford,King Power Stadium,1,0,team_a,True,completed,90,49.5,50.5,15,14
+EPL-2022-1129,2022-23,2022-10-29 12:00:00,Southampton,Manchester City,St. Mary's Stadium,3,2,team_a,True,completed,90,52.8,47.2,12,14
+EPL-2022-1130,2022-23,2022-10-31 12:00:00,Nottm Forest,Manchester United,City Ground,0,0,draw,True,completed,90,44.2,55.8,9,9
+EPL-2022-1131,2022-23,2022-11-06 15:00:00,West Ham,Southampton,London Stadium,0,0,draw,True,completed,90,49.3,50.7,9,5
+EPL-2022-1132,2022-23,2022-11-06 12:00:00,Chelsea,Brighton,Stamford Bridge,1,0,team_a,True,completed,90,57.5,42.5,17,15
+EPL-2022-1133,2022-23,2022-11-05 15:00:00,Wolves,Liverpool,Molineux Stadium,1,1,draw,True,completed,90,50.4,49.6,18,14
+EPL-2022-1134,2022-23,2022-11-05 15:00:00,Arsenal,Manchester United,Emirates Stadium,2,4,team_b,True,completed,90,57.9,42.1,19,11
+EPL-2022-1135,2022-23,2022-11-06 15:00:00,Southampton,Leicester,St. Mary's Stadium,2,1,team_a,True,completed,90,52.8,47.2,12,12
+EPL-2022-1136,2022-23,2022-11-06 12:00:00,Nottm Forest,Crystal Palace,City Ground,1,0,team_a,True,completed,90,49.8,50.2,15,10
+EPL-2022-1137,2022-23,2022-11-07 15:00:00,Chelsea,Crystal Palace,Stamford Bridge,2,0,team_a,True,completed,90,54.9,45.1,17,10
+EPL-2022-1138,2022-23,2022-11-07 20:00:00,Nottm Forest,Newcastle,City Ground,2,0,team_a,True,completed,90,47.3,52.7,15,12
+EPL-2022-1139,2022-23,2022-11-05 20:00:00,Tottenham,Brentford,Tottenham Hotspur Stadium,2,0,team_a,True,completed,90,65.2,34.8,13,9
+EPL-2022-1140,2022-23,2022-11-06 17:00:00,Southampton,Arsenal,St. Mary's Stadium,0,0,draw,True,completed,90,56.9,43.1,12,10
+EPL-2022-1141,2022-23,2022-11-14 20:00:00,Brighton,Manchester United,Amex Stadium,3,2,team_a,True,completed,90,59.3,40.7,21,8
+EPL-2022-1142,2022-23,2022-11-14 20:00:00,Everton,Manchester City,Goodison Park,2,3,team_b,True,completed,90,48.0,52.0,13,14
+EPL-2022-1143,2022-23,2022-11-14 17:00:00,Liverpool,Crystal Palace,Anfield,3,3,draw,True,completed,90,61.6,38.4,18,10
+EPL-2022-1144,2022-23,2022-11-14 15:00:00,Chelsea,Bournemouth,Stamford Bridge,2,0,team_a,True,completed,90,61.5,38.5,12,11
+EPL-2022-1145,2022-23,2022-11-13 12:00:00,Manchester United,Brentford,Old Trafford,3,2,team_a,True,completed,90,57.0,43.0,13,7
+EPL-2022-1146,2022-23,2022-11-13 17:00:00,Aston Villa,Newcastle,Villa Park,3,2,team_a,True,completed,90,60.0,40.0,13,11
+EPL-2022-1147,2022-23,2022-11-12 17:00:00,Fulham,Tottenham,Craven Cottage,3,1,team_a,True,completed,90,54.4,45.6,14,11
+EPL-2022-1148,2022-23,2022-11-13 20:00:00,Manchester United,Everton,Old Trafford,3,2,team_a,True,completed,90,61.6,38.4,15,11
+EPL-2022-1149,2022-23,2022-11-12 20:00:00,Southampton,Nottm Forest,St. Mary's Stadium,2,0,team_a,True,completed,90,61.6,38.4,10,8
+EPL-2022-1150,2022-23,2022-11-14 20:00:00,Wolves,Bournemouth,Molineux Stadium,0,1,team_b,True,completed,90,55.6,44.4,17,12
+EPL-2022-1151,2022-23,2022-11-19 20:00:00,Everton,Newcastle,Goodison Park,3,1,team_a,True,completed,90,38.2,61.8,17,9
+EPL-2022-1152,2022-23,2022-11-20 17:00:00,Bournemouth,Crystal Palace,Vitality Stadium,1,0,team_a,True,completed,90,51.1,48.9,14,12
+EPL-2022-1153,2022-23,2022-11-21 17:00:00,Everton,Wolves,Goodison Park,1,0,team_a,True,completed,90,39.3,60.7,12,13
+EPL-2022-1154,2022-23,2022-11-19 17:00:00,Aston Villa,Tottenham,Villa Park,5,1,team_a,True,completed,90,62.0,38.0,14,10
+EPL-2022-1155,2022-23,2022-11-21 20:00:00,Newcastle,Southampton,St. James' Park,3,1,team_a,True,completed,90,59.9,40.1,15,11
+EPL-2022-1156,2022-23,2022-11-19 15:00:00,Brentford,Crystal Palace,Gtech Community Stadium,3,3,draw,True,completed,90,43.5,56.5,9,10
+EPL-2022-1157,2022-23,2022-11-20 12:00:00,Tottenham,Brighton,Tottenham Hotspur Stadium,2,2,draw,True,completed,90,56.2,43.8,20,11
+EPL-2022-1158,2022-23,2022-11-20 20:00:00,Manchester City,Brighton,Etihad Stadium,4,2,team_a,True,completed,90,66.5,33.5,22,15
+EPL-2022-1159,2022-23,2022-11-21 15:00:00,Crystal Palace,Brighton,Selhurst Park,4,0,team_a,True,completed,90,52.6,47.4,10,16
+EPL-2022-1160,2022-23,2022-11-21 20:00:00,West Ham,Everton,London Stadium,2,0,team_a,True,completed,90,52.3,47.7,13,6
+EPL-2022-1161,2022-23,2022-11-28 17:00:00,Ipswich,Tottenham,Portman Road,1,1,draw,True,completed,90,42.6,57.4,14,12
+EPL-2022-1162,2022-23,2022-11-27 12:00:00,Manchester City,Ipswich,Etihad Stadium,3,1,team_a,True,completed,90,73.8,26.2,19,12
+EPL-2022-1163,2022-23,2022-11-28 17:00:00,Manchester City,Liverpool,Etihad Stadium,4,2,team_a,True,completed,90,62.7,37.3,18,15
+EPL-2022-1164,2022-23,2022-11-26 20:00:00,Fulham,Ipswich,Craven Cottage,1,1,draw,True,completed,90,49.1,50.9,13,4
+EPL-2022-1165,2022-23,2022-11-26 17:00:00,West Ham,Nottm Forest,London Stadium,1,2,team_b,True,completed,90,43.9,56.1,11,8
+EPL-2022-1166,2022-23,2022-11-26 15:00:00,Everton,Southampton,Goodison Park,0,1,team_b,True,completed,90,45.0,55.0,12,10
+EPL-2022-1167,2022-23,2022-11-26 12:00:00,Manchester United,Brighton,Old Trafford,2,0,team_a,True,completed,90,53.3,46.7,13,11
+EPL-2022-1168,2022-23,2022-11-28 17:00:00,Leicester,Aston Villa,King Power Stadium,2,2,draw,True,completed,90,51.6,48.4,9,8
+EPL-2022-1169,2022-23,2022-11-26 12:00:00,Fulham,Brighton,Craven Cottage,1,1,draw,True,completed,90,52.3,47.7,13,14
+EPL-2022-1170,2022-23,2022-11-26 15:00:00,Tottenham,Crystal Palace,Tottenham Hotspur Stadium,3,0,team_a,True,completed,90,58.2,41.8,14,12
+EPL-2022-1171,2022-23,2022-12-05 12:00:00,Brentford,Newcastle,Gtech Community Stadium,2,0,team_a,True,completed,90,51.9,48.1,16,15
+EPL-2022-1172,2022-23,2022-12-04 12:00:00,Ipswich,Leicester,Portman Road,2,0,team_a,True,completed,90,45.4,54.6,10,5
+EPL-2022-1173,2022-23,2022-12-05 17:00:00,Leicester,Manchester United,King Power Stadium,1,0,team_a,True,completed,90,47.5,52.5,8,8
+EPL-2022-1174,2022-23,2022-12-04 20:00:00,Arsenal,Wolves,Emirates Stadium,1,0,team_a,True,completed,90,62.1,37.9,14,13
+EPL-2022-1175,2022-23,2022-12-05 20:00:00,Newcastle,Arsenal,St. James' Park,2,3,team_b,True,completed,90,49.9,50.1,12,15
+EPL-2022-1176,2022-23,2022-12-05 15:00:00,Newcastle,Ipswich,St. James' Park,2,0,team_a,True,completed,90,49.8,50.2,15,12
+EPL-2022-1177,2022-23,2022-12-05 17:00:00,Everton,Chelsea,Goodison Park,1,0,team_a,True,completed,90,42.6,57.4,18,17
+EPL-2022-1178,2022-23,2022-12-04 20:00:00,Wolves,Aston Villa,Molineux Stadium,1,0,team_a,True,completed,90,50.1,49.9,15,9
+EPL-2022-1179,2022-23,2022-12-05 12:00:00,Brentford,Brighton,Gtech Community Stadium,4,0,team_a,True,completed,90,53.2,46.8,17,12
+EPL-2022-1180,2022-23,2022-12-04 20:00:00,Brighton,Manchester City,Amex Stadium,4,2,team_a,True,completed,90,66.7,33.3,18,16
+EPL-2022-1181,2022-23,2022-12-11 20:00:00,Chelsea,West Ham,Stamford Bridge,2,3,team_b,True,completed,90,59.0,41.0,13,11
+EPL-2022-1182,2022-23,2022-12-11 17:00:00,Southampton,Liverpool,St. Mary's Stadium,1,0,team_a,True,completed,90,58.0,42.0,13,14
+EPL-2022-1183,2022-23,2022-12-12 20:00:00,Nottm Forest,Bournemouth,City Ground,2,0,team_a,True,completed,90,39.8,60.2,9,8
+EPL-2022-1184,2022-23,2022-12-11 12:00:00,Leicester,Fulham,King Power Stadium,3,0,team_a,True,completed,90,50.9,49.1,13,9
+EPL-2022-1185,2022-23,2022-12-12 12:00:00,Leicester,West Ham,King Power Stadium,0,1,team_b,True,completed,90,49.0,51.0,16,14
+EPL-2022-1186,2022-23,2022-12-11 12:00:00,Liverpool,Leicester,Anfield,2,2,draw,True,completed,90,63.9,36.1,21,5
+EPL-2022-1187,2022-23,2022-12-11 17:00:00,Everton,Ipswich,Goodison Park,0,0,draw,True,completed,90,42.2,57.8,18,12
+EPL-2022-1188,2022-23,2022-12-10 15:00:00,Crystal Palace,Leicester,Selhurst Park,4,0,team_a,True,completed,90,49.9,50.1,12,6
+EPL-2022-1189,2022-23,2022-12-11 17:00:00,Crystal Palace,West Ham,Selhurst Park,2,1,team_a,True,completed,90,43.4,56.6,13,9
+EPL-2022-1190,2022-23,2022-12-11 12:00:00,Wolves,Brighton,Molineux Stadium,0,1,team_b,True,completed,90,51.3,48.7,13,9
+EPL-2022-1191,2022-23,2022-12-17 17:00:00,Liverpool,Chelsea,Anfield,3,2,team_a,True,completed,90,67.4,32.6,19,14
+EPL-2022-1192,2022-23,2022-12-18 12:00:00,Ipswich,Brentford,Portman Road,1,3,team_b,True,completed,90,42.2,57.8,9,12
+EPL-2022-1193,2022-23,2022-12-17 15:00:00,Newcastle,West Ham,St. James' Park,0,0,draw,True,completed,90,57.9,42.1,11,7
+EPL-2022-1194,2022-23,2022-12-19 15:00:00,West Ham,Leicester,London Stadium,1,1,draw,True,completed,90,45.5,54.5,16,10
+EPL-2022-1195,2022-23,2022-12-17 17:00:00,Crystal Palace,Fulham,Selhurst Park,2,0,team_a,True,completed,90,45.7,54.3,14,8
+EPL-2022-1196,2022-23,2022-12-17 15:00:00,Fulham,Brentford,Craven Cottage,3,0,team_a,True,completed,90,49.9,50.1,19,6
+EPL-2022-1197,2022-23,2022-12-19 12:00:00,Fulham,Liverpool,Craven Cottage,4,1,team_a,True,completed,90,51.3,48.7,16,19
+EPL-2022-1198,2022-23,2022-12-19 20:00:00,Nottm Forest,Arsenal,City Ground,3,0,team_a,True,completed,90,44.0,56.0,11,18
+EPL-2022-1199,2022-23,2022-12-17 17:00:00,Brentford,Fulham,Gtech Community Stadium,4,2,team_a,True,completed,90,48.2,51.8,13,14
+EPL-2022-1200,2022-23,2022-12-19 17:00:00,Manchester City,Southampton,Etihad Stadium,1,2,team_b,True,completed,90,62.5,37.5,20,5
+EPL-2022-1201,2022-23,2022-12-24 15:00:00,Newcastle,Crystal Palace,St. James' Park,3,1,team_a,True,completed,90,52.6,47.4,14,8
+EPL-2022-1202,2022-23,2022-12-25 17:00:00,Brighton,Leicester,Amex Stadium,2,3,team_b,True,completed,90,59.9,40.1,12,12
+EPL-2022-1203,2022-23,2022-12-26 20:00:00,Arsenal,Aston Villa,Emirates Stadium,3,2,team_a,True,completed,90,59.1,40.9,19,16
+EPL-2022-1204,2022-23,2022-12-26 15:00:00,Arsenal,Liverpool,Emirates Stadium,2,1,team_a,True,completed,90,63.0,37.0,18,13
+EPL-2022-1205,2022-23,2022-12-25 12:00:00,Manchester United,Fulham,Old Trafford,2,0,team_a,True,completed,90,55.2,44.8,18,8
+EPL-2022-1206,2022-23,2022-12-25 20:00:00,Bournemouth,Southampton,Vitality Stadium,3,0,team_a,True,completed,90,49.9,50.1,16,9
+EPL-2022-1207,2022-23,2022-12-24 20:00:00,Manchester City,Brentford,Etihad Stadium,1,5,team_b,True,completed,90,62.3,37.7,19,8
+EPL-2022-1208,2022-23,2022-12-26 20:00:00,Aston Villa,Chelsea,Villa Park,4,3,team_a,True,completed,90,61.0,39.0,16,10
+EPL-2022-1209,2022-23,2022-12-25 12:00:00,Fulham,Southampton,Craven Cottage,1,0,team_a,True,completed,90,50.9,49.1,19,11
+EPL-2022-1210,2022-23,2022-12-26 12:00:00,Bournemouth,Leicester,Vitality Stadium,1,0,team_a,True,completed,90,47.7,52.3,14,10
+EPL-2022-1211,2022-23,2022-12-31 17:00:00,Tottenham,Leicester,Tottenham Hotspur Stadium,1,0,team_a,True,completed,90,64.3,35.7,13,13
+EPL-2022-1212,2022-23,2023-01-02 12:00:00,Wolves,Ipswich,Molineux Stadium,2,1,team_a,True,completed,90,50.4,49.6,12,9
+EPL-2022-1213,2022-23,2023-01-01 15:00:00,Manchester City,Chelsea,Etihad Stadium,3,4,team_b,True,completed,90,64.8,35.2,16,13
+EPL-2022-1214,2022-23,2022-12-31 15:00:00,Southampton,Brighton,St. Mary's Stadium,1,2,team_b,True,completed,90,57.2,42.8,9,11
+EPL-2022-1215,2022-23,2023-01-02 20:00:00,Tottenham,Manchester United,Tottenham Hotspur Stadium,2,0,team_a,True,completed,90,60.6,39.4,21,15
+EPL-2022-1216,2022-23,2023-01-02 17:00:00,West Ham,Arsenal,London Stadium,2,0,team_a,True,completed,90,51.4,48.6,14,12
+EPL-2022-1217,2022-23,2023-01-01 12:00:00,Wolves,Everton,Molineux Stadium,4,0,team_a,True,completed,90,49.6,50.4,13,10
+EPL-2022-1218,2022-23,2023-01-02 12:00:00,Southampton,Fulham,St. Mary's Stadium,2,1,team_a,True,completed,90,54.2,45.8,9,11
+EPL-2022-1219,2022-23,2023-01-01 20:00:00,Bournemouth,Brighton,Vitality Stadium,1,1,draw,True,completed,90,43.5,56.5,15,13
+EPL-2022-1220,2022-23,2022-12-31 12:00:00,Brentford,Wolves,Gtech Community Stadium,0,1,team_b,True,completed,90,50.4,49.6,17,12
+EPL-2022-1221,2022-23,2023-01-08 12:00:00,Liverpool,Tottenham,Anfield,5,1,team_a,True,completed,90,64.4,35.6,24,12
+EPL-2022-1222,2022-23,2023-01-08 20:00:00,Southampton,Everton,St. Mary's Stadium,1,0,team_a,True,completed,90,56.0,44.0,8,13
+EPL-2022-1223,2022-23,2023-01-07 17:00:00,Chelsea,Manchester City,Stamford Bridge,3,1,team_a,True,completed,90,65.8,34.2,13,19
+EPL-2022-1224,2022-23,2023-01-09 15:00:00,Liverpool,Arsenal,Anfield,8,8,draw,True,completed,90,59.5,40.5,22,17
+EPL-2022-1225,2022-23,2023-01-09 15:00:00,Liverpool,Fulham,Anfield,3,1,team_a,True,completed,90,63.4,36.6,19,13
+EPL-2022-1226,2022-23,2023-01-08 17:00:00,West Ham,Aston Villa,London Stadium,1,1,draw,True,completed,90,49.1,50.9,9,13
+EPL-2022-1227,2022-23,2023-01-07 17:00:00,Wolves,Chelsea,Molineux Stadium,0,3,team_b,True,completed,90,45.1,54.9,15,13
+EPL-2022-1228,2022-23,2023-01-08 15:00:00,West Ham,Wolves,London Stadium,1,2,team_b,True,completed,90,45.0,55.0,18,8
+EPL-2022-1229,2022-23,2023-01-08 17:00:00,Crystal Palace,Newcastle,Selhurst Park,3,3,draw,True,completed,90,53.6,46.4,15,10
+EPL-2022-1230,2022-23,2023-01-09 12:00:00,Tottenham,Manchester City,Tottenham Hotspur Stadium,5,2,team_a,True,completed,90,58.7,41.3,18,16
+EPL-2022-1231,2022-23,2023-01-14 12:00:00,West Ham,Brighton,London Stadium,2,0,team_a,True,completed,90,48.8,51.2,15,17
+EPL-2022-1232,2022-23,2023-01-15 12:00:00,Crystal Palace,Everton,Selhurst Park,4,1,team_a,True,completed,90,46.4,53.6,11,9
+EPL-2022-1233,2022-23,2023-01-15 20:00:00,Arsenal,Brighton,Emirates Stadium,0,1,team_b,True,completed,90,59.3,40.7,15,11
+EPL-2022-1234,2022-23,2023-01-14 17:00:00,Newcastle,Nottm Forest,St. James' Park,3,2,team_a,True,completed,90,59.1,40.9,12,13
+EPL-2022-1235,2022-23,2023-01-16 12:00:00,Liverpool,West Ham,Anfield,3,0,team_a,True,completed,90,66.9,33.1,24,8
+EPL-2022-1236,2022-23,2023-01-16 20:00:00,Fulham,Wolves,Craven Cottage,2,1,team_a,True,completed,90,49.9,50.1,12,8
+EPL-2022-1237,2022-23,2023-01-16 20:00:00,Fulham,Bournemouth,Craven Cottage,2,1,team_a,True,completed,90,48.5,51.5,15,10
+EPL-2022-1238,2022-23,2023-01-15 17:00:00,Aston Villa,Crystal Palace,Villa Park,3,0,team_a,True,completed,90,60.0,40.0,18,9
+EPL-2022-1239,2022-23,2023-01-16 15:00:00,Wolves,Fulham,Molineux Stadium,0,0,draw,True,completed,90,47.7,52.3,16,10
+EPL-2022-1240,2022-23,2023-01-15 20:00:00,Crystal Palace,Nottm Forest,Selhurst Park,2,2,draw,True,completed,90,47.5,52.5,13,11
+EPL-2022-1241,2022-23,2023-01-23 20:00:00,Brighton,Everton,Amex Stadium,6,0,team_a,True,completed,90,67.6,32.4,15,8
+EPL-2022-1242,2022-23,2023-01-22 12:00:00,Manchester City,Arsenal,Etihad Stadium,5,3,team_a,True,completed,90,69.7,30.3,19,18
+EPL-2022-1243,2022-23,2023-01-21 12:00:00,Nottm Forest,Everton,City Ground,0,1,team_b,True,completed,90,42.4,57.6,10,10
+EPL-2022-1244,2022-23,2023-01-22 15:00:00,Leicester,Arsenal,King Power Stadium,3,0,team_a,True,completed,90,52.0,48.0,9,13
+EPL-2022-1245,2022-23,2023-01-22 17:00:00,Ipswich,Liverpool,Portman Road,2,1,team_a,True,completed,90,51.2,48.8,13,12
+EPL-2022-1246,2022-23,2023-01-22 17:00:00,Aston Villa,Ipswich,Villa Park,2,1,team_a,True,completed,90,53.8,46.2,12,9
+EPL-2022-1247,2022-23,2023-01-21 12:00:00,Brentford,West Ham,Gtech Community Stadium,2,1,team_a,True,completed,90,46.8,53.2,10,11
+EPL-2022-1248,2022-23,2023-01-21 15:00:00,Brentford,Ipswich,Gtech Community Stadium,2,0,team_a,True,completed,90,43.5,56.5,16,6
+EPL-2022-1249,2022-23,2023-01-23 20:00:00,West Ham,Fulham,London Stadium,1,0,team_a,True,completed,90,46.4,53.6,9,8
+EPL-2022-1250,2022-23,2023-01-21 17:00:00,Bournemouth,Newcastle,Vitality Stadium,0,0,draw,True,completed,90,45.6,54.4,12,16
+EPL-2022-1251,2022-23,2023-01-30 20:00:00,Aston Villa,Wolves,Villa Park,1,2,team_b,True,completed,90,52.3,47.7,15,9
+EPL-2022-1252,2022-23,2023-01-29 12:00:00,Bournemouth,Liverpool,Vitality Stadium,1,0,team_a,True,completed,90,43.6,56.4,16,19
+EPL-2022-1253,2022-23,2023-01-28 12:00:00,Brentford,Aston Villa,Gtech Community Stadium,2,1,team_a,True,completed,90,53.0,47.0,16,16
+EPL-2022-1254,2022-23,2023-01-28 15:00:00,Crystal Palace,Southampton,Selhurst Park,3,1,team_a,True,completed,90,50.6,49.4,13,11
+EPL-2022-1255,2022-23,2023-01-28 17:00:00,Ipswich,Bournemouth,Portman Road,1,2,team_b,True,completed,90,42.9,57.1,13,9
+EPL-2022-1256,2022-23,2023-01-30 12:00:00,Aston Villa,Arsenal,Villa Park,4,0,team_a,True,completed,90,57.3,42.7,16,11
+EPL-2022-1257,2022-23,2023-01-30 12:00:00,Manchester City,Newcastle,Etihad Stadium,3,2,team_a,True,completed,90,66.7,33.3,21,8
+EPL-2022-1258,2022-23,2023-01-30 20:00:00,Newcastle,Brentford,St. James' Park,3,1,team_a,True,completed,90,60.8,39.2,15,6
+EPL-2022-1259,2022-23,2023-01-29 12:00:00,Wolves,Crystal Palace,Molineux Stadium,3,1,team_a,True,completed,90,48.1,51.9,10,11
+EPL-2022-1260,2022-23,2023-01-28 12:00:00,Bournemouth,Chelsea,Vitality Stadium,0,0,draw,True,completed,90,47.2,52.8,15,11
+EPL-2022-1261,2022-23,2023-02-06 20:00:00,Bournemouth,Manchester United,Vitality Stadium,4,0,team_a,True,completed,90,54.8,45.2,17,10
+EPL-2022-1262,2022-23,2023-02-04 12:00:00,Arsenal,Everton,Emirates Stadium,2,2,draw,True,completed,90,65.6,34.4,20,6
+EPL-2022-1263,2022-23,2023-02-05 15:00:00,Southampton,Chelsea,St. Mary's Stadium,4,0,team_a,True,completed,90,50.5,49.5,11,9
+EPL-2022-1264,2022-23,2023-02-05 17:00:00,Southampton,Newcastle,St. Mary's Stadium,2,2,draw,True,completed,90,56.2,43.8,16,15
+EPL-2022-1265,2022-23,2023-02-05 12:00:00,Tottenham,Liverpool,Tottenham Hotspur Stadium,3,2,team_a,True,completed,90,64.0,36.0,15,16
+EPL-2022-1266,2022-23,2023-02-05 12:00:00,Liverpool,Ipswich,Anfield,2,2,draw,True,completed,90,69.4,30.6,20,8
+EPL-2022-1267,2022-23,2023-02-04 17:00:00,Arsenal,Newcastle,Emirates Stadium,2,2,draw,True,completed,90,62.2,37.8,19,15
+EPL-2022-1268,2022-23,2023-02-05 17:00:00,Liverpool,Brighton,Anfield,3,2,team_a,True,completed,90,70.7,29.3,22,16
+EPL-2022-1269,2022-23,2023-02-05 17:00:00,Fulham,Chelsea,Craven Cottage,0,0,draw,True,completed,90,57.6,42.4,16,10
+EPL-2022-1270,2022-23,2023-02-05 15:00:00,Fulham,Everton,Craven Cottage,2,0,team_a,True,completed,90,54.5,45.5,15,7
+EPL-2022-1271,2022-23,2023-02-11 17:00:00,Aston Villa,Everton,Villa Park,3,0,team_a,True,completed,90,58.9,41.1,15,13
+EPL-2022-1272,2022-23,2023-02-13 20:00:00,Nottm Forest,Ipswich,City Ground,0,2,team_b,True,completed,90,41.0,59.0,15,9
+EPL-2022-1273,2022-23,2023-02-12 12:00:00,Leicester,Manchester City,King Power Stadium,4,0,team_a,True,completed,90,50.7,49.3,13,17
+EPL-2022-1274,2022-23,2023-02-12 12:00:00,Bournemouth,Brentford,Vitality Stadium,1,2,team_b,True,completed,90,43.9,56.1,16,11
+EPL-2022-1275,2022-23,2023-02-13 15:00:00,Crystal Palace,Bournemouth,Selhurst Park,0,2,team_b,True,completed,90,53.4,46.6,11,14
+EPL-2022-1276,2022-23,2023-02-11 15:00:00,Manchester United,Arsenal,Old Trafford,1,0,team_a,True,completed,90,50.8,49.2,16,15
+EPL-2022-1277,2022-23,2023-02-12 12:00:00,Everton,Brighton,Goodison Park,2,3,team_b,True,completed,90,45.3,54.7,16,14
+EPL-2022-1278,2022-23,2023-02-12 20:00:00,Newcastle,Fulham,St. James' Park,3,0,team_a,True,completed,90,58.2,41.8,20,9
+EPL-2022-1279,2022-23,2023-02-13 17:00:00,Ipswich,Wolves,Portman Road,0,1,team_b,True,completed,90,44.8,55.2,11,9
+EPL-2022-1280,2022-23,2023-02-11 12:00:00,Leicester,Crystal Palace,King Power Stadium,2,1,team_a,True,completed,90,50.8,49.2,15,14
+EPL-2022-1281,2022-23,2023-02-19 12:00:00,Aston Villa,Leicester,Villa Park,2,3,team_b,True,completed,90,54.1,45.9,15,12
+EPL-2022-1282,2022-23,2023-02-18 17:00:00,Wolves,Newcastle,Molineux Stadium,3,3,draw,True,completed,90,52.3,47.7,16,11
+EPL-2022-1283,2022-23,2023-02-18 15:00:00,Bournemouth,Fulham,Vitality Stadium,2,0,team_a,True,completed,90,53.2,46.8,17,9
+EPL-2022-1284,2022-23,2023-02-20 20:00:00,Fulham,West Ham,Craven Cottage,2,2,draw,True,completed,90,60.0,40.0,15,11
+EPL-2022-1285,2022-23,2023-02-20 12:00:00,Brentford,Arsenal,Gtech Community Stadium,5,4,team_a,True,completed,90,49.6,50.4,13,14
+EPL-2022-1286,2022-23,2023-02-18 15:00:00,Brentford,Chelsea,Gtech Community Stadium,1,1,draw,True,completed,90,52.5,47.5,17,12
+EPL-2022-1287,2022-23,2023-02-18 15:00:00,Chelsea,Everton,Stamford Bridge,2,1,team_a,True,completed,90,63.5,36.5,15,13
+EPL-2022-1288,2022-23,2023-02-18 17:00:00,Arsenal,Brentford,Emirates Stadium,2,1,team_a,True,completed,90,63.6,36.4,18,13
+EPL-2022-1289,2022-23,2023-02-20 15:00:00,Manchester United,Tottenham,Old Trafford,3,2,team_a,True,completed,90,57.3,42.7,12,10
+EPL-2022-1290,2022-23,2023-02-19 20:00:00,Bournemouth,Nottm Forest,Vitality Stadium,1,0,team_a,True,completed,90,55.0,45.0,17,13
+EPL-2022-1291,2022-23,2023-02-26 20:00:00,West Ham,Bournemouth,London Stadium,1,1,draw,True,completed,90,50.9,49.1,10,9
+EPL-2022-1292,2022-23,2023-02-26 12:00:00,Ipswich,Chelsea,Portman Road,5,0,team_a,True,completed,90,45.4,54.6,15,14
+EPL-2022-1293,2022-23,2023-02-25 15:00:00,Newcastle,Aston Villa,St. James' Park,0,2,team_b,True,completed,90,58.2,41.8,13,14
+EPL-2022-1294,2022-23,2023-02-27 12:00:00,Arsenal,Bournemouth,Emirates Stadium,1,2,team_b,True,completed,90,67.0,33.0,21,9
+EPL-2022-1295,2022-23,2023-02-26 15:00:00,West Ham,Brentford,London Stadium,1,0,team_a,True,completed,90,42.9,57.1,12,11
+EPL-2022-1296,2022-23,2023-02-27 17:00:00,Southampton,Crystal Palace,St. Mary's Stadium,1,1,draw,True,completed,90,60.2,39.8,12,9
+EPL-2022-1297,2022-23,2023-02-27 17:00:00,Brentford,Manchester City,Gtech Community Stadium,4,0,team_a,True,completed,90,44.5,55.5,13,19
+EPL-2022-1298,2022-23,2023-02-25 15:00:00,Manchester United,Chelsea,Old Trafford,1,2,team_b,True,completed,90,57.1,42.9,20,11
+EPL-2022-1299,2022-23,2023-02-25 17:00:00,Nottm Forest,Brighton,City Ground,1,3,team_b,True,completed,90,49.1,50.9,17,9
+EPL-2022-1300,2022-23,2023-02-25 12:00:00,Wolves,West Ham,Molineux Stadium,0,2,team_b,True,completed,90,44.5,55.5,18,10
+EPL-2022-1301,2022-23,2023-03-06 15:00:00,Leicester,Wolves,King Power Stadium,2,0,team_a,True,completed,90,51.2,48.8,14,6
+EPL-2022-1302,2022-23,2023-03-05 17:00:00,Ipswich,Everton,Portman Road,2,1,team_a,True,completed,90,47.7,52.3,11,13
+EPL-2022-1303,2022-23,2023-03-04 20:00:00,Everton,Manchester United,Goodison Park,1,0,team_a,True,completed,90,41.6,58.4,10,8
+EPL-2022-1304,2022-23,2023-03-04 20:00:00,Tottenham,Wolves,Tottenham Hotspur Stadium,3,1,team_a,True,completed,90,60.0,40.0,19,9
+EPL-2022-1305,2022-23,2023-03-05 15:00:00,Arsenal,Southampton,Emirates Stadium,1,2,team_b,True,completed,90,60.8,39.2,18,10
+EPL-2022-1306,2022-23,2023-03-05 15:00:00,Manchester United,Aston Villa,Old Trafford,0,0,draw,True,completed,90,59.1,40.9,19,16
+EPL-2022-1307,2022-23,2023-03-04 17:00:00,Chelsea,Fulham,Stamford Bridge,3,1,team_a,True,completed,90,56.9,43.1,13,11
+EPL-2022-1308,2022-23,2023-03-05 15:00:00,Brighton,Crystal Palace,Amex Stadium,2,1,team_a,True,completed,90,57.7,42.3,12,10
+EPL-2022-1309,2022-23,2023-03-05 20:00:00,Brighton,Ipswich,Amex Stadium,2,1,team_a,True,completed,90,59.0,41.0,14,9
+EPL-2022-1310,2022-23,2023-03-06 17:00:00,Tottenham,West Ham,Tottenham Hotspur Stadium,0,2,team_b,True,completed,90,57.3,42.7,14,13
+EPL-2022-1311,2022-23,2023-03-13 20:00:00,Brighton,Nottm Forest,Amex Stadium,0,0,draw,True,completed,90,62.0,38.0,16,12
+EPL-2022-1312,2022-23,2023-03-11 12:00:00,Wolves,Tottenham,Molineux Stadium,1,1,draw,True,completed,90,55.3,44.7,17,16
+EPL-2022-1313,2022-23,2023-03-11 15:00:00,Southampton,Aston Villa,St. Mary's Stadium,1,1,draw,True,completed,90,57.0,43.0,8,8
+EPL-2022-1314,2022-23,2023-03-12 20:00:00,Leicester,Nottm Forest,King Power Stadium,1,2,team_b,True,completed,90,49.2,50.8,15,9
+EPL-2022-1315,2022-23,2023-03-13 12:00:00,Liverpool,Everton,Anfield,3,3,draw,True,completed,90,69.2,30.8,21,8
+EPL-2022-1316,2022-23,2023-03-12 17:00:00,Ipswich,Arsenal,Portman Road,1,2,team_b,True,completed,90,49.2,50.8,12,10
+EPL-2022-1317,2022-23,2023-03-12 12:00:00,Leicester,Chelsea,King Power Stadium,1,1,draw,True,completed,90,48.8,51.2,11,14
+EPL-2022-1318,2022-23,2023-03-13 17:00:00,Manchester United,Nottm Forest,Old Trafford,2,3,team_b,True,completed,90,50.9,49.1,19,12
+EPL-2022-1319,2022-23,2023-03-13 17:00:00,Newcastle,Liverpool,St. James' Park,4,3,team_a,True,completed,90,58.9,41.1,20,13
+EPL-2022-1320,2022-23,2023-03-11 12:00:00,Arsenal,Chelsea,Emirates Stadium,4,0,team_a,True,completed,90,61.7,38.3,18,17
+EPL-2022-1321,2022-23,2023-03-19 15:00:00,Arsenal,Leicester,Emirates Stadium,1,1,draw,True,completed,90,59.4,40.6,21,11
+EPL-2022-1322,2022-23,2023-03-20 12:00:00,Chelsea,Aston Villa,Stamford Bridge,3,2,team_a,True,completed,90,54.5,45.5,14,13
+EPL-2022-1323,2022-23,2023-03-19 20:00:00,Brentford,Bournemouth,Gtech Community Stadium,4,1,team_a,True,completed,90,44.8,55.2,17,9
+EPL-2022-1324,2022-23,2023-03-19 17:00:00,Brighton,Brentford,Amex Stadium,5,0,team_a,True,completed,90,58.0,42.0,21,10
+EPL-2022-1325,2022-23,2023-03-20 17:00:00,Nottm Forest,Wolves,City Ground,0,0,draw,True,completed,90,45.1,54.9,16,14
+EPL-2022-1326,2022-23,2023-03-19 17:00:00,Nottm Forest,Southampton,City Ground,0,1,team_b,True,completed,90,44.7,55.3,8,10
+EPL-2022-1327,2022-23,2023-03-19 12:00:00,Manchester United,Southampton,Old Trafford,3,2,team_a,True,completed,90,61.8,38.2,20,9
+EPL-2022-1328,2022-23,2023-03-20 12:00:00,Everton,Leicester,Goodison Park,2,1,team_a,True,completed,90,45.2,54.8,13,8
+EPL-2022-1329,2022-23,2023-03-20 12:00:00,Liverpool,Aston Villa,Anfield,2,0,team_a,True,completed,90,66.0,34.0,17,16
+EPL-2022-1330,2022-23,2023-03-20 20:00:00,Bournemouth,Aston Villa,Vitality Stadium,0,3,team_b,True,completed,90,44.8,55.2,13,8
+EPL-2022-1331,2022-23,2023-03-27 12:00:00,Aston Villa,Manchester United,Villa Park,2,0,team_a,True,completed,90,53.3,46.7,18,13
+EPL-2022-1332,2022-23,2023-03-26 15:00:00,Everton,West Ham,Goodison Park,1,2,team_b,True,completed,90,43.0,57.0,12,12
+EPL-2022-1333,2022-23,2023-03-27 20:00:00,Wolves,Manchester United,Molineux Stadium,0,1,team_b,True,completed,90,54.5,45.5,9,10
+EPL-2022-1334,2022-23,2023-03-27 15:00:00,Arsenal,Tottenham,Emirates Stadium,0,1,team_b,True,completed,90,63.7,36.3,20,17
+EPL-2022-1335,2022-23,2023-03-26 17:00:00,Manchester United,Liverpool,Old Trafford,3,0,team_a,True,completed,90,61.5,38.5,18,20
+EPL-2022-1336,2022-23,2023-03-26 17:00:00,Nottm Forest,Chelsea,City Ground,1,1,draw,True,completed,90,47.1,52.9,12,16
+EPL-2022-1337,2022-23,2023-03-25 15:00:00,Brighton,Chelsea,Amex Stadium,4,2,team_a,True,completed,90,59.3,40.7,16,12
+EPL-2022-1338,2022-23,2023-03-26 17:00:00,Brighton,Fulham,Amex Stadium,0,2,team_b,True,completed,90,64.5,35.5,19,12
+EPL-2022-1339,2022-23,2023-03-26 17:00:00,Liverpool,Wolves,Anfield,4,0,team_a,True,completed,90,65.7,34.3,19,10
+EPL-2022-1340,2022-23,2023-03-25 20:00:00,Bournemouth,Tottenham,Vitality Stadium,2,0,team_a,True,completed,90,53.7,46.3,16,14
+EPL-2022-1341,2022-23,2023-04-01 17:00:00,Ipswich,Aston Villa,Portman Road,1,1,draw,True,completed,90,40.5,59.5,8,13
+EPL-2022-1342,2022-23,2023-04-02 17:00:00,Ipswich,Crystal Palace,Portman Road,0,0,draw,True,completed,90,49.0,51.0,10,9
+EPL-2022-1343,2022-23,2023-04-03 17:00:00,Brighton,Arsenal,Amex Stadium,4,3,team_a,True,completed,90,67.2,32.8,16,12
+EPL-2022-1344,2022-23,2023-04-01 15:00:00,Chelsea,Nottm Forest,Stamford Bridge,1,0,team_a,True,completed,90,56.9,43.1,20,8
+EPL-2022-1345,2022-23,2023-04-03 15:00:00,Tottenham,Aston Villa,Tottenham Hotspur Stadium,3,4,team_b,True,completed,90,55.6,44.4,18,13
+EPL-2022-1346,2022-23,2023-04-03 20:00:00,Southampton,West Ham,St. Mary's Stadium,0,1,team_b,True,completed,90,51.2,48.8,10,6
+EPL-2022-1347,2022-23,2023-04-03 15:00:00,Brighton,Aston Villa,Amex Stadium,2,3,team_b,True,completed,90,60.9,39.1,19,15
+EPL-2022-1348,2022-23,2023-04-03 15:00:00,Ipswich,Newcastle,Portman Road,3,1,team_a,True,completed,90,49.1,50.9,11,13
+EPL-2022-1349,2022-23,2023-04-02 12:00:00,Tottenham,Newcastle,Tottenham Hotspur Stadium,3,0,team_a,True,completed,90,65.9,34.1,13,11
+EPL-2022-1350,2022-23,2023-04-03 12:00:00,Manchester City,Tottenham,Etihad Stadium,2,0,team_a,True,completed,90,73.0,27.0,16,15
+EPL-2022-1351,2022-23,2023-04-08 12:00:00,Manchester United,Bournemouth,Old Trafford,3,1,team_a,True,completed,90,62.0,38.0,17,14
+EPL-2022-1352,2022-23,2023-04-08 17:00:00,Brentford,Leicester,Gtech Community Stadium,1,0,team_a,True,completed,90,53.5,46.5,9,9
+EPL-2022-1353,2022-23,2023-04-10 12:00:00,Wolves,Arsenal,Molineux Stadium,1,1,draw,True,completed,90,55.1,44.9,14,14
+EPL-2022-1354,2022-23,2023-04-09 20:00:00,Chelsea,Southampton,Stamford Bridge,0,0,draw,True,completed,90,64.7,35.3,14,13
+EPL-2022-1355,2022-23,2023-04-09 17:00:00,Crystal Palace,Chelsea,Selhurst Park,3,1,team_a,True,completed,90,44.3,55.7,10,14
+EPL-2022-1356,2022-23,2023-04-08 20:00:00,Ipswich,Brighton,Portman Road,0,2,team_b,True,completed,90,47.8,52.2,9,9
+EPL-2022-1357,2022-23,2023-04-10 17:00:00,Leicester,Brighton,King Power Stadium,1,2,team_b,True,completed,90,51.5,48.5,17,12
+EPL-2022-1358,2022-23,2023-04-08 20:00:00,Chelsea,Manchester United,Stamford Bridge,6,2,team_a,True,completed,90,63.9,36.1,20,13
+EPL-2022-1359,2022-23,2023-04-08 20:00:00,Brentford,Liverpool,Gtech Community Stadium,2,2,draw,True,completed,90,51.0,49.0,11,14
+EPL-2022-1360,2022-23,2023-04-09 17:00:00,Manchester City,Everton,Etihad Stadium,1,2,team_b,True,completed,90,73.2,26.8,14,10
+EPL-2022-1361,2022-23,2023-04-16 15:00:00,Nottm Forest,Tottenham,City Ground,4,3,team_a,True,completed,90,44.4,55.6,12,14
+EPL-2022-1362,2022-23,2023-04-16 12:00:00,Fulham,Crystal Palace,Craven Cottage,2,3,team_b,True,completed,90,51.1,48.9,15,9
+EPL-2022-1363,2022-23,2023-04-15 12:00:00,Newcastle,Chelsea,St. James' Park,1,2,team_b,True,completed,90,54.6,45.4,13,15
+EPL-2022-1364,2022-23,2023-04-17 17:00:00,Chelsea,Leicester,Stamford Bridge,4,1,team_a,True,completed,90,62.3,37.7,16,10
+EPL-2022-1365,2022-23,2023-04-17 15:00:00,Liverpool,Bournemouth,Anfield,5,1,team_a,True,completed,90,61.6,38.4,17,14
+EPL-2022-1366,2022-23,2023-04-15 20:00:00,Manchester City,Nottm Forest,Etihad Stadium,3,2,team_a,True,completed,90,71.0,29.0,23,10
+EPL-2022-1367,2022-23,2023-04-16 20:00:00,Manchester City,Leicester,Etihad Stadium,3,2,team_a,True,completed,90,71.1,28.9,17,8
+EPL-2022-1368,2022-23,2023-04-17 12:00:00,Crystal Palace,Manchester United,Selhurst Park,0,1,team_b,True,completed,90,48.3,51.7,17,13
+EPL-2022-1369,2022-23,2023-04-15 12:00:00,Brentford,Southampton,Gtech Community Stadium,1,1,draw,True,completed,90,43.7,56.3,17,13
+EPL-2022-1370,2022-23,2023-04-15 15:00:00,Liverpool,Manchester United,Anfield,2,3,team_b,True,completed,90,61.0,39.0,23,15
+EPL-2022-1371,2022-23,2023-04-22 15:00:00,Everton,Fulham,Goodison Park,3,1,team_a,True,completed,90,46.6,53.4,16,8
+EPL-2022-1372,2022-23,2023-04-24 20:00:00,Southampton,Tottenham,St. Mary's Stadium,0,1,team_b,True,completed,90,59.7,40.3,15,11
+EPL-2022-1373,2022-23,2023-04-24 20:00:00,Liverpool,Brentford,Anfield,1,2,team_b,True,completed,90,64.5,35.5,15,14
+EPL-2022-1374,2022-23,2023-04-23 17:00:00,Aston Villa,Brentford,Villa Park,0,2,team_b,True,completed,90,59.7,40.3,17,10
+EPL-2022-1375,2022-23,2023-04-22 15:00:00,Newcastle,Manchester City,St. James' Park,6,0,team_a,True,completed,90,55.9,44.1,11,17
+EPL-2022-1376,2022-23,2023-04-23 12:00:00,Newcastle,Wolves,St. James' Park,3,1,team_a,True,completed,90,55.5,44.5,11,7
+EPL-2022-1377,2022-23,2023-04-23 12:00:00,Manchester United,West Ham,Old Trafford,0,0,draw,True,completed,90,53.4,46.6,13,8
+EPL-2022-1378,2022-23,2023-04-24 20:00:00,Manchester City,Fulham,Etihad Stadium,1,1,draw,True,completed,90,66.5,33.5,20,14
+EPL-2022-1379,2022-23,2023-04-23 20:00:00,Aston Villa,Manchester City,Villa Park,7,3,team_a,True,completed,90,52.0,48.0,19,13
+EPL-2022-1380,2022-23,2023-04-24 17:00:00,Leicester,Tottenham,King Power Stadium,1,1,draw,True,completed,90,43.4,56.6,16,15
+EPL-2023-1381,2023-24,2023-08-12 17:00:00,Southampton,Brentford,St. Mary's Stadium,0,0,draw,True,completed,90,56.7,43.3,17,11
+EPL-2023-1382,2023-24,2023-08-13 12:00:00,Leicester,Crystal Palace,King Power Stadium,1,1,draw,True,completed,90,45.5,54.5,14,7
+EPL-2023-1383,2023-24,2023-08-14 15:00:00,Liverpool,Brighton,Anfield,5,2,team_a,True,completed,90,65.9,34.1,17,15
+EPL-2023-1384,2023-24,2023-08-12 15:00:00,Nottm Forest,Aston Villa,City Ground,0,0,draw,True,completed,90,42.2,57.8,12,15
+EPL-2023-1385,2023-24,2023-08-12 12:00:00,Arsenal,Brentford,Emirates Stadium,4,0,team_a,True,completed,90,59.0,41.0,17,12
+EPL-2023-1386,2023-24,2023-08-13 20:00:00,Manchester City,Everton,Etihad Stadium,5,0,team_a,True,completed,90,71.4,28.6,19,10
+EPL-2023-1387,2023-24,2023-08-12 20:00:00,Brighton,West Ham,Amex Stadium,1,0,team_a,True,completed,90,63.1,36.9,15,13
+EPL-2023-1388,2023-24,2023-08-12 15:00:00,Brentford,West Ham,Gtech Community Stadium,2,1,team_a,True,completed,90,46.7,53.3,15,11
+EPL-2023-1389,2023-24,2023-08-14 20:00:00,Leicester,Nottm Forest,King Power Stadium,1,1,draw,True,completed,90,51.6,48.4,13,12
+EPL-2023-1390,2023-24,2023-08-13 20:00:00,Ipswich,Manchester City,Portman Road,0,1,team_b,True,completed,90,49.8,50.2,16,13
+EPL-2023-1391,2023-24,2023-08-20 17:00:00,Wolves,Ipswich,Molineux Stadium,1,0,team_a,True,completed,90,51.2,48.8,12,11
+EPL-2023-1392,2023-24,2023-08-20 15:00:00,Ipswich,Brentford,Portman Road,1,2,team_b,True,completed,90,51.6,48.4,12,10
+EPL-2023-1393,2023-24,2023-08-21 20:00:00,Arsenal,Southampton,Emirates Stadium,1,1,draw,True,completed,90,68.6,31.4,16,10
+EPL-2023-1394,2023-24,2023-08-20 17:00:00,Crystal Palace,Arsenal,Selhurst Park,4,3,team_a,True,completed,90,51.8,48.2,15,15
+EPL-2023-1395,2023-24,2023-08-19 15:00:00,Brighton,Nottm Forest,Amex Stadium,1,0,team_a,True,completed,90,63.1,36.9,20,7
+EPL-2023-1396,2023-24,2023-08-21 12:00:00,Bournemouth,Manchester City,Vitality Stadium,2,2,draw,True,completed,90,54.4,45.6,17,14
+EPL-2023-1397,2023-24,2023-08-20 17:00:00,Fulham,Wolves,Craven Cottage,2,1,team_a,True,completed,90,58.0,42.0,11,12
+EPL-2023-1398,2023-24,2023-08-21 20:00:00,Manchester City,Arsenal,Etihad Stadium,3,6,team_b,True,completed,90,63.7,36.3,18,13
+EPL-2023-1399,2023-24,2023-08-20 15:00:00,Wolves,Arsenal,Molineux Stadium,0,2,team_b,True,completed,90,52.6,47.4,15,11
+EPL-2023-1400,2023-24,2023-08-20 20:00:00,Bournemouth,Brentford,Vitality Stadium,0,1,team_b,True,completed,90,50.0,50.0,18,14
+EPL-2023-1401,2023-24,2023-08-28 20:00:00,Wolves,Aston Villa,Molineux Stadium,1,1,draw,True,completed,90,50.5,49.5,14,16
+EPL-2023-1402,2023-24,2023-08-28 12:00:00,Bournemouth,Wolves,Vitality Stadium,1,3,team_b,True,completed,90,44.3,55.7,13,11
+EPL-2023-1403,2023-24,2023-08-26 12:00:00,Bournemouth,Ipswich,Vitality Stadium,3,0,team_a,True,completed,90,49.8,50.2,16,9
+EPL-2023-1404,2023-24,2023-08-27 12:00:00,Arsenal,Chelsea,Emirates Stadium,4,5,team_b,True,completed,90,57.1,42.9,17,12
+EPL-2023-1405,2023-24,2023-08-28 15:00:00,Everton,Aston Villa,Goodison Park,1,3,team_b,True,completed,90,43.3,56.7,15,15
+EPL-2023-1406,2023-24,2023-08-28 15:00:00,Bournemouth,Leicester,Vitality Stadium,2,0,team_a,True,completed,90,47.1,52.9,10,12
+EPL-2023-1407,2023-24,2023-08-26 17:00:00,Fulham,Manchester City,Craven Cottage,5,1,team_a,True,completed,90,53.0,47.0,11,12
+EPL-2023-1408,2023-24,2023-08-28 15:00:00,Ipswich,Wolves,Portman Road,0,0,draw,True,completed,90,44.2,55.8,12,13
+EPL-2023-1409,2023-24,2023-08-26 20:00:00,Chelsea,Tottenham,Stamford Bridge,2,2,draw,True,completed,90,58.2,41.8,13,16
+EPL-2023-1410,2023-24,2023-08-28 20:00:00,Arsenal,Everton,Emirates Stadium,8,2,team_a,True,completed,90,60.8,39.2,17,6
+EPL-2023-1411,2023-24,2023-09-04 12:00:00,Brighton,Bournemouth,Amex Stadium,0,1,team_b,True,completed,90,56.3,43.7,17,8
+EPL-2023-1412,2023-24,2023-09-04 15:00:00,Liverpool,Tottenham,Anfield,2,1,team_a,True,completed,90,70.2,29.8,18,17
+EPL-2023-1413,2023-24,2023-09-02 15:00:00,Manchester United,Brentford,Old Trafford,4,2,team_a,True,completed,90,54.0,46.0,17,13
+EPL-2023-1414,2023-24,2023-09-02 20:00:00,Brighton,Fulham,Amex Stadium,2,0,team_a,True,completed,90,63.6,36.4,14,13
+EPL-2023-1415,2023-24,2023-09-03 12:00:00,Tottenham,Arsenal,Tottenham Hotspur Stadium,3,1,team_a,True,completed,90,63.8,36.2,15,17
+EPL-2023-1416,2023-24,2023-09-04 20:00:00,West Ham,Crystal Palace,London Stadium,1,2,team_b,True,completed,90,45.7,54.3,12,9
+EPL-2023-1417,2023-24,2023-09-03 12:00:00,Fulham,Chelsea,Craven Cottage,2,2,draw,True,completed,90,54.9,45.1,18,11
+EPL-2023-1418,2023-24,2023-09-03 17:00:00,Crystal Palace,Everton,Selhurst Park,2,0,team_a,True,completed,90,44.4,55.6,10,10
+EPL-2023-1419,2023-24,2023-09-04 20:00:00,Everton,Southampton,Goodison Park,0,1,team_b,True,completed,90,44.3,55.7,14,11
+EPL-2023-1420,2023-24,2023-09-04 20:00:00,Wolves,Nottm Forest,Molineux Stadium,2,1,team_a,True,completed,90,51.0,49.0,14,10
+EPL-2023-1421,2023-24,2023-09-10 15:00:00,Manchester United,Crystal Palace,Old Trafford,1,0,team_a,True,completed,90,59.8,40.2,15,7
+EPL-2023-1422,2023-24,2023-09-11 15:00:00,Everton,Fulham,Goodison Park,1,4,team_b,True,completed,90,41.8,58.2,12,11
+EPL-2023-1423,2023-24,2023-09-09 15:00:00,Brentford,Fulham,Gtech Community Stadium,2,1,team_a,True,completed,90,47.5,52.5,11,15
+EPL-2023-1424,2023-24,2023-09-10 20:00:00,Brighton,Arsenal,Amex Stadium,4,1,team_a,True,completed,90,63.2,36.8,21,16
+EPL-2023-1425,2023-24,2023-09-10 15:00:00,Nottm Forest,Fulham,City Ground,1,2,team_b,True,completed,90,44.8,55.2,16,9
+EPL-2023-1426,2023-24,2023-09-11 15:00:00,Leicester,Wolves,King Power Stadium,1,3,team_b,True,completed,90,47.9,52.1,10,8
+EPL-2023-1427,2023-24,2023-09-10 20:00:00,Crystal Palace,Wolves,Selhurst Park,2,1,team_a,True,completed,90,49.4,50.6,14,6
+EPL-2023-1428,2023-24,2023-09-10 15:00:00,Manchester United,Everton,Old Trafford,1,1,draw,True,completed,90,52.3,47.7,17,14
+EPL-2023-1429,2023-24,2023-09-11 20:00:00,Leicester,Liverpool,King Power Stadium,0,0,draw,True,completed,90,46.9,53.1,15,18
+EPL-2023-1430,2023-24,2023-09-11 20:00:00,Nottm Forest,Brighton,City Ground,0,1,team_b,True,completed,90,44.9,55.1,9,9
+EPL-2023-1431,2023-24,2023-09-16 17:00:00,Liverpool,Leicester,Anfield,2,1,team_a,True,completed,90,59.4,40.6,18,13
+EPL-2023-1432,2023-24,2023-09-17 15:00:00,Wolves,Bournemouth,Molineux Stadium,5,0,team_a,True,completed,90,53.4,46.6,18,14
+EPL-2023-1433,2023-24,2023-09-18 12:00:00,Leicester,Bournemouth,King Power Stadium,0,1,team_b,True,completed,90,48.9,51.1,12,15
+EPL-2023-1434,2023-24,2023-09-17 12:00:00,Brentford,Tottenham,Gtech Community Stadium,4,2,team_a,True,completed,90,52.1,47.9,16,17
+EPL-2023-1435,2023-24,2023-09-16 20:00:00,Chelsea,Aston Villa,Stamford Bridge,2,3,team_b,True,completed,90,55.2,44.8,15,12
+EPL-2023-1436,2023-24,2023-09-16 20:00:00,Aston Villa,Southampton,Villa Park,1,0,team_a,True,completed,90,54.2,45.8,12,12
+EPL-2023-1437,2023-24,2023-09-16 15:00:00,Chelsea,Fulham,Stamford Bridge,4,2,team_a,True,completed,90,56.5,43.5,21,12
+EPL-2023-1438,2023-24,2023-09-18 20:00:00,Ipswich,Liverpool,Portman Road,1,0,team_a,True,completed,90,42.0,58.0,9,15
+EPL-2023-1439,2023-24,2023-09-16 12:00:00,Liverpool,Nottm Forest,Anfield,5,2,team_a,True,completed,90,65.8,34.2,23,9
+EPL-2023-1440,2023-24,2023-09-18 15:00:00,Manchester City,Brentford,Etihad Stadium,2,0,team_a,True,completed,90,65.9,34.1,18,10
+EPL-2023-1441,2023-24,2023-09-25 17:00:00,Newcastle,Ipswich,St. James' Park,0,0,draw,True,completed,90,60.4,39.6,19,5
+EPL-2023-1442,2023-24,2023-09-23 20:00:00,Manchester City,Manchester United,Etihad Stadium,3,2,team_a,True,completed,90,73.0,27.0,18,10
+EPL-2023-1443,2023-24,2023-09-25 15:00:00,Leicester,Arsenal,King Power Stadium,1,0,team_a,True,completed,90,45.0,55.0,13,13
+EPL-2023-1444,2023-24,2023-09-25 20:00:00,Liverpool,Manchester United,Anfield,1,0,team_a,True,completed,90,64.9,35.1,24,12
+EPL-2023-1445,2023-24,2023-09-25 20:00:00,Manchester United,Southampton,Old Trafford,2,1,team_a,True,completed,90,54.5,45.5,12,6
+EPL-2023-1446,2023-24,2023-09-24 17:00:00,Crystal Palace,Newcastle,Selhurst Park,2,1,team_a,True,completed,90,50.3,49.7,14,15
+EPL-2023-1447,2023-24,2023-09-24 17:00:00,Brighton,Manchester United,Amex Stadium,3,2,team_a,True,completed,90,63.0,37.0,13,15
+EPL-2023-1448,2023-24,2023-09-25 17:00:00,Nottm Forest,Southampton,City Ground,0,0,draw,True,completed,90,49.2,50.8,16,11
+EPL-2023-1449,2023-24,2023-09-23 20:00:00,Brighton,Southampton,Amex Stadium,1,2,team_b,True,completed,90,65.9,34.1,19,9
+EPL-2023-1450,2023-24,2023-09-24 17:00:00,Bournemouth,Fulham,Vitality Stadium,3,0,team_a,True,completed,90,47.1,52.9,19,9
+EPL-2023-1451,2023-24,2023-10-02 20:00:00,Brentford,Leicester,Gtech Community Stadium,1,0,team_a,True,completed,90,52.5,47.5,9,5
+EPL-2023-1452,2023-24,2023-09-30 20:00:00,Arsenal,Wolves,Emirates Stadium,0,2,team_b,True,completed,90,57.2,42.8,15,13
+EPL-2023-1453,2023-24,2023-10-01 12:00:00,Tottenham,Bournemouth,Tottenham Hotspur Stadium,2,0,team_a,True,completed,90,66.9,33.1,18,10
+EPL-2023-1454,2023-24,2023-10-02 15:00:00,Manchester United,Manchester City,Old Trafford,2,0,team_a,True,completed,90,60.6,39.4,15,13
+EPL-2023-1455,2023-24,2023-10-01 12:00:00,West Ham,Tottenham,London Stadium,3,1,team_a,True,completed,90,48.9,51.1,13,10
+EPL-2023-1456,2023-24,2023-10-01 15:00:00,West Ham,Brighton,London Stadium,0,3,team_b,True,completed,90,41.6,58.4,13,12
+EPL-2023-1457,2023-24,2023-10-01 12:00:00,Crystal Palace,Aston Villa,Selhurst Park,1,1,draw,True,completed,90,50.4,49.6,9,11
+EPL-2023-1458,2023-24,2023-10-01 12:00:00,Manchester City,Ipswich,Etihad Stadium,1,0,team_a,True,completed,90,63.6,36.4,17,12
+EPL-2023-1459,2023-24,2023-10-02 20:00:00,Wolves,Chelsea,Molineux Stadium,1,1,draw,True,completed,90,44.1,55.9,14,10
+EPL-2023-1460,2023-24,2023-10-01 15:00:00,Leicester,Everton,King Power Stadium,0,0,draw,True,completed,90,47.7,52.3,11,12
+EPL-2023-1461,2023-24,2023-10-07 12:00:00,Everton,Nottm Forest,Goodison Park,1,3,team_b,True,completed,90,39.2,60.8,14,9
+EPL-2023-1462,2023-24,2023-10-07 20:00:00,Everton,Brentford,Goodison Park,2,0,team_a,True,completed,90,47.3,52.7,11,8
+EPL-2023-1463,2023-24,2023-10-07 12:00:00,Leicester,Ipswich,King Power Stadium,2,3,team_b,True,completed,90,49.3,50.7,10,11
+EPL-2023-1464,2023-24,2023-10-08 15:00:00,Newcastle,Tottenham,St. James' Park,2,3,team_b,True,completed,90,56.5,43.5,13,15
+EPL-2023-1465,2023-24,2023-10-09 20:00:00,Brentford,Chelsea,Gtech Community Stadium,1,0,team_a,True,completed,90,53.3,46.7,10,10
+EPL-2023-1466,2023-24,2023-10-07 12:00:00,Tottenham,Southampton,Tottenham Hotspur Stadium,2,0,team_a,True,completed,90,62.1,37.9,18,10
+EPL-2023-1467,2023-24,2023-10-08 17:00:00,Aston Villa,Fulham,Villa Park,3,1,team_a,True,completed,90,60.5,39.5,14,11
+EPL-2023-1468,2023-24,2023-10-09 12:00:00,Brighton,Aston Villa,Amex Stadium,3,3,draw,True,completed,90,59.0,41.0,21,12
+EPL-2023-1469,2023-24,2023-10-09 12:00:00,Ipswich,Aston Villa,Portman Road,1,2,team_b,True,completed,90,50.2,49.8,11,11
+EPL-2023-1470,2023-24,2023-10-09 15:00:00,Manchester City,Bournemouth,Etihad Stadium,0,0,draw,True,completed,90,71.0,29.0,18,7
+EPL-2023-1471,2023-24,2023-10-14 20:00:00,Wolves,Crystal Palace,Molineux Stadium,1,0,team_a,True,completed,90,48.6,51.4,12,13
+EPL-2023-1472,2023-24,2023-10-16 12:00:00,Southampton,West Ham,St. Mary's Stadium,2,1,team_a,True,completed,90,56.3,43.7,8,11
+EPL-2023-1473,2023-24,2023-10-15 15:00:00,Chelsea,Southampton,Stamford Bridge,3,2,team_a,True,completed,90,58.6,41.4,21,11
+EPL-2023-1474,2023-24,2023-10-15 15:00:00,Chelsea,West Ham,Stamford Bridge,3,1,team_a,True,completed,90,63.2,36.8,13,6
+EPL-2023-1475,2023-24,2023-10-16 12:00:00,Tottenham,Fulham,Tottenham Hotspur Stadium,4,0,team_a,True,completed,90,55.2,44.8,15,7
+EPL-2023-1476,2023-24,2023-10-14 20:00:00,Crystal Palace,Southampton,Selhurst Park,0,0,draw,True,completed,90,48.1,51.9,17,11
+EPL-2023-1477,2023-24,2023-10-15 20:00:00,Brentford,Manchester United,Gtech Community Stadium,0,0,draw,True,completed,90,44.0,56.0,17,16
+EPL-2023-1478,2023-24,2023-10-16 15:00:00,Manchester City,Newcastle,Etihad Stadium,4,1,team_a,True,completed,90,65.3,34.7,18,9
+EPL-2023-1479,2023-24,2023-10-16 15:00:00,Aston Villa,Crystal Palace,Villa Park,5,2,team_a,True,completed,90,62.7,37.3,13,14
+EPL-2023-1480,2023-24,2023-10-15 20:00:00,Ipswich,Arsenal,Portman Road,1,1,draw,True,completed,90,47.0,53.0,8,14
+EPL-2023-1481,2023-24,2023-10-23 20:00:00,Fulham,Tottenham,Craven Cottage,3,2,team_a,True,completed,90,56.8,43.2,13,9
+EPL-2023-1482,2023-24,2023-10-21 12:00:00,Liverpool,Chelsea,Anfield,3,2,team_a,True,completed,90,70.1,29.9,16,16
+EPL-2023-1483,2023-24,2023-10-23 12:00:00,Chelsea,Newcastle,Stamford Bridge,5,1,team_a,True,completed,90,57.7,42.3,14,9
+EPL-2023-1484,2023-24,2023-10-21 15:00:00,Nottm Forest,Manchester United,City Ground,2,1,team_a,True,completed,90,47.4,52.6,10,15
+EPL-2023-1485,2023-24,2023-10-22 17:00:00,West Ham,Leicester,London Stadium,4,2,team_a,True,completed,90,43.0,57.0,11,9
+EPL-2023-1486,2023-24,2023-10-23 12:00:00,Aston Villa,Manchester United,Villa Park,2,2,draw,True,completed,90,60.3,39.7,11,13
+EPL-2023-1487,2023-24,2023-10-22 17:00:00,Brighton,Liverpool,Amex Stadium,5,3,team_a,True,completed,90,62.3,37.7,16,13
+EPL-2023-1488,2023-24,2023-10-22 20:00:00,Arsenal,Aston Villa,Emirates Stadium,2,2,draw,True,completed,90,63.1,36.9,13,15
+EPL-2023-1489,2023-24,2023-10-23 15:00:00,Southampton,Wolves,St. Mary's Stadium,1,3,team_b,True,completed,90,54.4,45.6,12,7
+EPL-2023-1490,2023-24,2023-10-23 12:00:00,Leicester,Tottenham,King Power Stadium,0,3,team_b,True,completed,90,44.7,55.3,16,9
+EPL-2023-1491,2023-24,2023-10-28 12:00:00,Wolves,Tottenham,Molineux Stadium,5,0,team_a,True,completed,90,46.9,53.1,16,14
+EPL-2023-1492,2023-24,2023-10-29 15:00:00,Fulham,Leicester,Craven Cottage,1,0,team_a,True,completed,90,50.1,49.9,10,13
+EPL-2023-1493,2023-24,2023-10-30 20:00:00,Fulham,Everton,Craven Cottage,1,0,team_a,True,completed,90,50.7,49.3,13,12
+EPL-2023-1494,2023-24,2023-10-30 17:00:00,Manchester United,Ipswich,Old Trafford,0,2,team_b,True,completed,90,53.3,46.7,12,9
+EPL-2023-1495,2023-24,2023-10-28 12:00:00,Brentford,Crystal Palace,Gtech Community Stadium,2,0,team_a,True,completed,90,45.2,54.8,17,6
+EPL-2023-1496,2023-24,2023-10-29 12:00:00,Liverpool,Crystal Palace,Anfield,3,0,team_a,True,completed,90,69.5,30.5,19,10
+EPL-2023-1497,2023-24,2023-10-29 12:00:00,Southampton,Manchester United,St. Mary's Stadium,1,0,team_a,True,completed,90,56.6,43.4,8,13
+EPL-2023-1498,2023-24,2023-10-28 17:00:00,Crystal Palace,Ipswich,Selhurst Park,0,2,team_b,True,completed,90,48.8,51.2,13,7
+EPL-2023-1499,2023-24,2023-10-29 17:00:00,Ipswich,Brighton,Portman Road,2,0,team_a,True,completed,90,47.1,52.9,14,12
+EPL-2023-1500,2023-24,2023-10-30 15:00:00,Southampton,Newcastle,St. Mary's Stadium,3,1,team_a,True,completed,90,51.8,48.2,14,8
+EPL-2023-1501,2023-24,2023-11-04 17:00:00,Fulham,West Ham,Craven Cottage,2,1,team_a,True,completed,90,55.6,44.4,10,11
+EPL-2023-1502,2023-24,2023-11-04 20:00:00,Chelsea,Brentford,Stamford Bridge,0,1,team_b,True,completed,90,64.2,35.8,16,7
+EPL-2023-1503,2023-24,2023-11-04 15:00:00,Tottenham,West Ham,Tottenham Hotspur Stadium,5,1,team_a,True,completed,90,60.0,40.0,12,8
+EPL-2023-1504,2023-24,2023-11-06 17:00:00,Manchester City,Crystal Palace,Etihad Stadium,2,1,team_a,True,completed,90,63.1,36.9,17,14
+EPL-2023-1505,2023-24,2023-11-05 17:00:00,Fulham,Nottm Forest,Craven Cottage,2,1,team_a,True,completed,90,53.5,46.5,11,6
+EPL-2023-1506,2023-24,2023-11-06 15:00:00,Fulham,Southampton,Craven Cottage,0,1,team_b,True,completed,90,55.6,44.4,16,6
+EPL-2023-1507,2023-24,2023-11-06 12:00:00,Tottenham,Wolves,Tottenham Hotspur Stadium,1,0,team_a,True,completed,90,60.2,39.8,14,9
+EPL-2023-1508,2023-24,2023-11-05 17:00:00,Brentford,Ipswich,Gtech Community Stadium,1,0,team_a,True,completed,90,53.2,46.8,15,9
+EPL-2023-1509,2023-24,2023-11-05 20:00:00,Southampton,Nottm Forest,St. Mary's Stadium,1,1,draw,True,completed,90,53.3,46.7,9,8
+EPL-2023-1510,2023-24,2023-11-04 12:00:00,Bournemouth,Southampton,Vitality Stadium,3,0,team_a,True,completed,90,44.9,55.1,12,12
+EPL-2023-1511,2023-24,2023-11-12 17:00:00,Wolves,Newcastle,Molineux Stadium,1,2,team_b,True,completed,90,48.9,51.1,17,13
+EPL-2023-1512,2023-24,2023-11-11 20:00:00,Chelsea,Brighton,Stamford Bridge,2,0,team_a,True,completed,90,57.7,42.3,16,10
+EPL-2023-1513,2023-24,2023-11-11 15:00:00,West Ham,Everton,London Stadium,6,0,team_a,True,completed,90,50.7,49.3,13,6
+EPL-2023-1514,2023-24,2023-11-11 17:00:00,Brentford,Newcastle,Gtech Community Stadium,2,2,draw,True,completed,90,44.8,55.2,12,13
+EPL-2023-1515,2023-24,2023-11-12 12:00:00,Chelsea,Manchester United,Stamford Bridge,2,1,team_a,True,completed,90,62.1,37.9,16,10
+EPL-2023-1516,2023-24,2023-11-11 20:00:00,Brentford,Arsenal,Gtech Community Stadium,0,3,team_b,True,completed,90,53.3,46.7,17,18
+EPL-2023-1517,2023-24,2023-11-11 12:00:00,Bournemouth,Arsenal,Vitality Stadium,2,1,team_a,True,completed,90,48.5,51.5,12,11
+EPL-2023-1518,2023-24,2023-11-11 12:00:00,Aston Villa,West Ham,Villa Park,3,2,team_a,True,completed,90,61.0,39.0,14,8
+EPL-2023-1519,2023-24,2023-11-11 20:00:00,Manchester United,Bournemouth,Old Trafford,2,0,team_a,True,completed,90,54.5,45.5,12,11
+EPL-2023-1520,2023-24,2023-11-11 12:00:00,Liverpool,Wolves,Anfield,3,0,team_a,True,completed,90,71.0,29.0,18,13
+EPL-2023-1521,2023-24,2023-11-18 12:00:00,Aston Villa,Chelsea,Villa Park,3,1,team_a,True,completed,90,61.9,38.1,16,10
+EPL-2023-1522,2023-24,2023-11-18 20:00:00,Fulham,Ipswich,Craven Cottage,0,0,draw,True,completed,90,48.6,51.4,19,10
+EPL-2023-1523,2023-24,2023-11-20 20:00:00,Brighton,Crystal Palace,Amex Stadium,2,1,team_a,True,completed,90,62.0,38.0,18,12
+EPL-2023-1524,2023-24,2023-11-18 17:00:00,Nottm Forest,Newcastle,City Ground,0,2,team_b,True,completed,90,41.6,58.4,10,12
+EPL-2023-1525,2023-24,2023-11-19 20:00:00,Arsenal,Brighton,Emirates Stadium,6,0,team_a,True,completed,90,67.6,32.4,13,12
+EPL-2023-1526,2023-24,2023-11-20 17:00:00,Liverpool,West Ham,Anfield,3,0,team_a,True,completed,90,65.0,35.0,23,13
+EPL-2023-1527,2023-24,2023-11-18 12:00:00,Chelsea,Nottm Forest,Stamford Bridge,2,0,team_a,True,completed,90,57.4,42.6,14,11
+EPL-2023-1528,2023-24,2023-11-18 15:00:00,Newcastle,Brentford,St. James' Park,1,1,draw,True,completed,90,56.6,43.4,19,6
+EPL-2023-1529,2023-24,2023-11-19 17:00:00,Leicester,Chelsea,King Power Stadium,2,3,team_b,True,completed,90,47.8,52.2,15,14
+EPL-2023-1530,2023-24,2023-11-20 17:00:00,Leicester,Manchester United,King Power Stadium,1,0,team_a,True,completed,90,46.7,53.3,10,8
+EPL-2023-1531,2023-24,2023-11-26 15:00:00,Everton,Manchester United,Goodison Park,1,2,team_b,True,completed,90,38.4,61.6,13,8
+EPL-2023-1532,2023-24,2023-11-26 17:00:00,Aston Villa,Everton,Villa Park,0,6,team_b,True,completed,90,60.2,39.8,14,8
+EPL-2023-1533,2023-24,2023-11-25 15:00:00,Manchester United,Liverpool,Old Trafford,2,0,team_a,True,completed,90,57.9,42.1,15,20
+EPL-2023-1534,2023-24,2023-11-27 12:00:00,West Ham,Manchester United,London Stadium,3,2,team_a,True,completed,90,50.2,49.8,12,14
+EPL-2023-1535,2023-24,2023-11-26 15:00:00,Manchester City,Tottenham,Etihad Stadium,4,3,team_a,True,completed,90,64.1,35.9,23,14
+EPL-2023-1536,2023-24,2023-11-27 17:00:00,Fulham,Brighton,Craven Cottage,0,0,draw,True,completed,90,59.0,41.0,10,14
+EPL-2023-1537,2023-24,2023-11-27 15:00:00,Crystal Palace,Bournemouth,Selhurst Park,2,2,draw,True,completed,90,48.8,51.2,12,14
+EPL-2023-1538,2023-24,2023-11-27 17:00:00,Fulham,Arsenal,Craven Cottage,2,2,draw,True,completed,90,50.1,49.9,10,11
+EPL-2023-1539,2023-24,2023-11-25 15:00:00,Nottm Forest,Chelsea,City Ground,2,0,team_a,True,completed,90,46.2,53.8,8,17
+EPL-2023-1540,2023-24,2023-11-26 12:00:00,Wolves,Everton,Molineux Stadium,1,0,team_a,True,completed,90,48.0,52.0,18,9
+EPL-2023-1541,2023-24,2023-12-02 17:00:00,Fulham,Crystal Palace,Craven Cottage,4,1,team_a,True,completed,90,56.6,43.4,15,6
+EPL-2023-1542,2023-24,2023-12-02 15:00:00,Brentford,Wolves,Gtech Community Stadium,5,0,team_a,True,completed,90,50.0,50.0,11,7
+EPL-2023-1543,2023-24,2023-12-04 17:00:00,West Ham,Chelsea,London Stadium,1,2,team_b,True,completed,90,52.5,47.5,14,15
+EPL-2023-1544,2023-24,2023-12-04 12:00:00,West Ham,Newcastle,London Stadium,7,2,team_a,True,completed,90,45.0,55.0,14,10
+EPL-2023-1545,2023-24,2023-12-02 20:00:00,Brighton,Wolves,Amex Stadium,2,2,draw,True,completed,90,65.5,34.5,19,11
+EPL-2023-1546,2023-24,2023-12-02 17:00:00,Chelsea,Manchester City,Stamford Bridge,0,0,draw,True,completed,90,56.7,43.3,21,13
+EPL-2023-1547,2023-24,2023-12-03 17:00:00,Newcastle,Liverpool,St. James' Park,4,3,team_a,True,completed,90,57.8,42.2,15,14
+EPL-2023-1548,2023-24,2023-12-02 12:00:00,Newcastle,Nottm Forest,St. James' Park,1,1,draw,True,completed,90,60.4,39.6,20,11
+EPL-2023-1549,2023-24,2023-12-04 12:00:00,Liverpool,Southampton,Anfield,0,0,draw,True,completed,90,61.2,38.8,20,8
+EPL-2023-1550,2023-24,2023-12-04 12:00:00,Manchester City,Aston Villa,Etihad Stadium,3,3,draw,True,completed,90,73.2,26.8,16,13
+EPL-2023-1551,2023-24,2023-12-11 12:00:00,Liverpool,Manchester City,Anfield,8,1,team_a,True,completed,90,61.9,38.1,20,13
+EPL-2023-1552,2023-24,2023-12-11 12:00:00,Southampton,Chelsea,St. Mary's Stadium,1,1,draw,True,completed,90,59.9,40.1,13,16
+EPL-2023-1553,2023-24,2023-12-09 17:00:00,Aston Villa,Liverpool,Villa Park,0,0,draw,True,completed,90,53.5,46.5,12,17
+EPL-2023-1554,2023-24,2023-12-10 12:00:00,West Ham,Bournemouth,London Stadium,0,1,team_b,True,completed,90,49.6,50.4,9,13
+EPL-2023-1555,2023-24,2023-12-10 20:00:00,Bournemouth,Newcastle,Vitality Stadium,4,1,team_a,True,completed,90,54.6,45.4,16,15
+EPL-2023-1556,2023-24,2023-12-10 17:00:00,Southampton,Tottenham,St. Mary's Stadium,2,2,draw,True,completed,90,56.6,43.4,9,16
+EPL-2023-1557,2023-24,2023-12-11 15:00:00,Ipswich,Everton,Portman Road,1,0,team_a,True,completed,90,42.0,58.0,8,6
+EPL-2023-1558,2023-24,2023-12-10 12:00:00,Manchester City,Fulham,Etihad Stadium,2,2,draw,True,completed,90,65.8,34.2,15,8
+EPL-2023-1559,2023-24,2023-12-10 15:00:00,Brighton,Manchester City,Amex Stadium,2,3,team_b,True,completed,90,66.7,33.3,14,12
+EPL-2023-1560,2023-24,2023-12-11 12:00:00,Arsenal,Manchester City,Emirates Stadium,6,1,team_a,True,completed,90,61.1,38.9,22,18
+EPL-2023-1561,2023-24,2023-12-18 12:00:00,Southampton,Crystal Palace,St. Mary's Stadium,0,1,team_b,True,completed,90,55.2,44.8,10,12
+EPL-2023-1562,2023-24,2023-12-16 12:00:00,Manchester United,Arsenal,Old Trafford,2,2,draw,True,completed,90,51.2,48.8,14,13
+EPL-2023-1563,2023-24,2023-12-17 17:00:00,Manchester City,Nottm Forest,Etihad Stadium,2,2,draw,True,completed,90,69.9,30.1,18,8
+EPL-2023-1564,2023-24,2023-12-16 12:00:00,Bournemouth,Manchester United,Vitality Stadium,4,0,team_a,True,completed,90,47.7,52.3,18,15
+EPL-2023-1565,2023-24,2023-12-16 12:00:00,Manchester United,Chelsea,Old Trafford,2,4,team_b,True,completed,90,54.3,45.7,17,10
+EPL-2023-1566,2023-24,2023-12-17 20:00:00,Everton,Crystal Palace,Goodison Park,1,1,draw,True,completed,90,40.4,59.6,9,9
+EPL-2023-1567,2023-24,2023-12-16 17:00:00,Bournemouth,Crystal Palace,Vitality Stadium,2,2,draw,True,completed,90,54.7,45.3,17,7
+EPL-2023-1568,2023-24,2023-12-17 20:00:00,Manchester United,Newcastle,Old Trafford,0,1,team_b,True,completed,90,55.7,44.3,15,9
+EPL-2023-1569,2023-24,2023-12-18 20:00:00,Crystal Palace,Manchester United,Selhurst Park,2,0,team_a,True,completed,90,44.2,55.8,15,13
+EPL-2023-1570,2023-24,2023-12-16 20:00:00,Arsenal,Leicester,Emirates Stadium,2,4,team_b,True,completed,90,57.5,42.5,20,12
+EPL-2023-1571,2023-24,2023-12-24 15:00:00,Ipswich,Newcastle,Portman Road,4,1,team_a,True,completed,90,50.0,50.0,16,8
+EPL-2023-1572,2023-24,2023-12-23 12:00:00,Tottenham,Brentford,Tottenham Hotspur Stadium,1,4,team_b,True,completed,90,56.0,44.0,17,14
+EPL-2023-1573,2023-24,2023-12-24 15:00:00,Brighton,Leicester,Amex Stadium,2,0,team_a,True,completed,90,62.6,37.4,18,13
+EPL-2023-1574,2023-24,2023-12-24 20:00:00,Liverpool,Newcastle,Anfield,3,1,team_a,True,completed,90,65.9,34.1,18,15
+EPL-2023-1575,2023-24,2023-12-24 12:00:00,Ipswich,Tottenham,Portman Road,3,2,team_a,True,completed,90,44.7,55.3,7,17
+EPL-2023-1576,2023-24,2023-12-25 15:00:00,Bournemouth,Brighton,Vitality Stadium,1,1,draw,True,completed,90,44.4,55.6,17,11
+EPL-2023-1577,2023-24,2023-12-23 15:00:00,Crystal Palace,Brentford,Selhurst Park,1,2,team_b,True,completed,90,51.7,48.3,11,6
+EPL-2023-1578,2023-24,2023-12-24 12:00:00,Leicester,Aston Villa,King Power Stadium,0,1,team_b,True,completed,90,53.9,46.1,14,11
+EPL-2023-1579,2023-24,2023-12-25 15:00:00,Brighton,Brentford,Amex Stadium,1,3,team_b,True,completed,90,66.0,34.0,16,11
+EPL-2023-1580,2023-24,2023-12-25 12:00:00,Southampton,Manchester City,St. Mary's Stadium,4,1,team_a,True,completed,90,51.0,49.0,16,17
+EPL-2023-1581,2023-24,2024-01-01 17:00:00,Nottm Forest,Tottenham,City Ground,1,1,draw,True,completed,90,49.3,50.7,16,16
+EPL-2023-1582,2023-24,2023-12-30 20:00:00,Ipswich,Leicester,Portman Road,1,1,draw,True,completed,90,41.4,58.6,9,7
+EPL-2023-1583,2023-24,2024-01-01 12:00:00,Tottenham,Crystal Palace,Tottenham Hotspur Stadium,0,1,team_b,True,completed,90,66.1,33.9,21,7
+EPL-2023-1584,2023-24,2023-12-31 17:00:00,Brighton,Tottenham,Amex Stadium,2,0,team_a,True,completed,90,66.5,33.5,16,15
+EPL-2023-1585,2023-24,2024-01-01 20:00:00,West Ham,Nottm Forest,London Stadium,3,1,team_a,True,completed,90,47.9,52.1,16,5
+EPL-2023-1586,2023-24,2023-12-30 17:00:00,Nottm Forest,Everton,City Ground,2,0,team_a,True,completed,90,43.8,56.2,17,12
+EPL-2023-1587,2023-24,2023-12-30 20:00:00,Wolves,Fulham,Molineux Stadium,1,1,draw,True,completed,90,54.7,45.3,14,10
+EPL-2023-1588,2023-24,2023-12-30 20:00:00,Aston Villa,Newcastle,Villa Park,3,2,team_a,True,completed,90,62.1,37.9,16,8
+EPL-2023-1589,2023-24,2023-12-31 17:00:00,Manchester United,Fulham,Old Trafford,1,1,draw,True,completed,90,53.7,46.3,18,8
+EPL-2023-1590,2023-24,2023-12-30 15:00:00,Fulham,Aston Villa,Craven Cottage,1,0,team_a,True,completed,90,51.6,48.4,17,13
+EPL-2023-1591,2023-24,2024-01-07 20:00:00,Aston Villa,Arsenal,Villa Park,4,0,team_a,True,completed,90,58.3,41.7,12,13
+EPL-2023-1592,2023-24,2024-01-07 15:00:00,Tottenham,Brighton,Tottenham Hotspur Stadium,2,2,draw,True,completed,90,66.0,34.0,18,16
+EPL-2023-1593,2023-24,2024-01-08 17:00:00,Liverpool,Fulham,Anfield,1,1,draw,True,completed,90,68.9,31.1,23,9
+EPL-2023-1594,2023-24,2024-01-06 17:00:00,Liverpool,Arsenal,Anfield,8,3,team_a,True,completed,90,67.5,32.5,21,12
+EPL-2023-1595,2023-24,2024-01-08 12:00:00,Aston Villa,Ipswich,Villa Park,1,2,team_b,True,completed,90,53.1,46.9,14,4
+EPL-2023-1596,2023-24,2024-01-06 12:00:00,Nottm Forest,Ipswich,City Ground,0,1,team_b,True,completed,90,44.5,55.5,13,7
+EPL-2023-1597,2023-24,2024-01-07 17:00:00,Wolves,West Ham,Molineux Stadium,2,1,team_a,True,completed,90,53.9,46.1,17,12
+EPL-2023-1598,2023-24,2024-01-08 12:00:00,Leicester,Brighton,King Power Stadium,2,0,team_a,True,completed,90,50.2,49.8,11,14
+EPL-2023-1599,2023-24,2024-01-07 20:00:00,Manchester United,Leicester,Old Trafford,1,2,team_b,True,completed,90,52.1,47.9,18,13
+EPL-2023-1600,2023-24,2024-01-07 17:00:00,Fulham,Manchester United,Craven Cottage,1,1,draw,True,completed,90,50.0,50.0,14,9
+EPL-2023-1601,2023-24,2024-01-14 12:00:00,Wolves,Leicester,Molineux Stadium,2,0,team_a,True,completed,90,48.6,51.4,11,8
+EPL-2023-1602,2023-24,2024-01-13 15:00:00,Manchester City,Chelsea,Etihad Stadium,2,2,draw,True,completed,90,70.1,29.9,18,15
+EPL-2023-1603,2023-24,2024-01-15 12:00:00,Ipswich,Southampton,Portman Road,0,0,draw,True,completed,90,50.4,49.6,7,12
+EPL-2023-1604,2023-24,2024-01-13 15:00:00,Ipswich,West Ham,Portman Road,0,0,draw,True,completed,90,47.2,52.8,7,9
+EPL-2023-1605,2023-24,2024-01-14 17:00:00,Liverpool,Ipswich,Anfield,0,2,team_b,True,completed,90,67.6,32.4,19,10
+EPL-2023-1606,2023-24,2024-01-14 17:00:00,Crystal Palace,Fulham,Selhurst Park,1,5,team_b,True,completed,90,47.5,52.5,12,14
+EPL-2023-1607,2023-24,2024-01-14 20:00:00,Manchester United,Wolves,Old Trafford,1,2,team_b,True,completed,90,57.0,43.0,11,14
+EPL-2023-1608,2023-24,2024-01-15 17:00:00,Ipswich,Fulham,Portman Road,0,0,draw,True,completed,90,46.7,53.3,16,11
+EPL-2023-1609,2023-24,2024-01-14 12:00:00,Southampton,Brighton,St. Mary's Stadium,2,0,team_a,True,completed,90,55.8,44.2,13,13
+EPL-2023-1610,2023-24,2024-01-15 17:00:00,Tottenham,Chelsea,Tottenham Hotspur Stadium,4,1,team_a,True,completed,90,65.3,34.7,16,13
+EPL-2023-1611,2023-24,2024-01-20 15:00:00,Brentford,Nottm Forest,Gtech Community Stadium,2,2,draw,True,completed,90,49.2,50.8,12,5
+EPL-2023-1612,2023-24,2024-01-22 20:00:00,Liverpool,Brentford,Anfield,3,1,team_a,True,completed,90,66.9,33.1,17,6
+EPL-2023-1613,2023-24,2024-01-22 20:00:00,Tottenham,Newcastle,Tottenham Hotspur Stadium,0,2,team_b,True,completed,90,67.0,33.0,16,14
+EPL-2023-1614,2023-24,2024-01-21 20:00:00,Southampton,Fulham,St. Mary's Stadium,1,1,draw,True,completed,90,58.8,41.2,17,10
+EPL-2023-1615,2023-24,2024-01-21 15:00:00,Ipswich,Chelsea,Portman Road,0,0,draw,True,completed,90,48.2,51.8,14,14
+EPL-2023-1616,2023-24,2024-01-22 17:00:00,Newcastle,Manchester United,St. James' Park,0,0,draw,True,completed,90,59.1,40.9,19,10
+EPL-2023-1617,2023-24,2024-01-21 12:00:00,Brighton,Everton,Amex Stadium,4,0,team_a,True,completed,90,61.6,38.4,16,14
+EPL-2023-1618,2023-24,2024-01-20 17:00:00,Leicester,Southampton,King Power Stadium,0,0,draw,True,completed,90,49.9,50.1,11,10
+EPL-2023-1619,2023-24,2024-01-20 17:00:00,Arsenal,Manchester United,Emirates Stadium,3,5,team_b,True,completed,90,62.0,38.0,18,13
+EPL-2023-1620,2023-24,2024-01-21 17:00:00,Fulham,Liverpool,Craven Cottage,4,2,team_a,True,completed,90,53.6,46.4,11,19
+EPL-2023-1621,2023-24,2024-01-27 12:00:00,Newcastle,Everton,St. James' Park,3,2,team_a,True,completed,90,54.7,45.3,14,14
+EPL-2023-1622,2023-24,2024-01-27 20:00:00,Crystal Palace,Leicester,Selhurst Park,1,1,draw,True,completed,90,48.4,51.6,15,5
+EPL-2023-1623,2023-24,2024-01-27 15:00:00,Newcastle,Southampton,St. James' Park,1,0,team_a,True,completed,90,60.9,39.1,16,11
+EPL-2023-1624,2023-24,2024-01-29 20:00:00,Tottenham,Leicester,Tottenham Hotspur Stadium,1,2,team_b,True,completed,90,56.7,43.3,14,6
+EPL-2023-1625,2023-24,2024-01-28 17:00:00,Aston Villa,Bournemouth,Villa Park,1,0,team_a,True,completed,90,58.6,41.4,13,12
+EPL-2023-1626,2023-24,2024-01-29 12:00:00,Tottenham,Liverpool,Tottenham Hotspur Stadium,2,1,team_a,True,completed,90,55.1,44.9,16,15
+EPL-2023-1627,2023-24,2024-01-27 15:00:00,Tottenham,Nottm Forest,Tottenham Hotspur Stadium,1,1,draw,True,completed,90,60.9,39.1,13,7
+EPL-2023-1628,2023-24,2024-01-29 20:00:00,West Ham,Brentford,London Stadium,0,1,team_b,True,completed,90,48.6,51.4,15,12
+EPL-2023-1629,2023-24,2024-01-28 20:00:00,Manchester United,Aston Villa,Old Trafford,3,1,team_a,True,completed,90,50.1,49.9,19,11
+EPL-2023-1630,2023-24,2024-01-29 17:00:00,Leicester,West Ham,King Power Stadium,3,1,team_a,True,completed,90,53.4,46.6,13,14
+EPL-2023-1631,2023-24,2024-02-03 12:00:00,Fulham,Brentford,Craven Cottage,3,1,team_a,True,completed,90,56.1,43.9,13,9
+EPL-2023-1632,2023-24,2024-02-05 17:00:00,Aston Villa,Nottm Forest,Villa Park,1,1,draw,True,completed,90,54.7,45.3,12,11
+EPL-2023-1633,2023-24,2024-02-05 17:00:00,Brentford,Aston Villa,Gtech Community Stadium,2,1,team_a,True,completed,90,45.0,55.0,9,12
+EPL-2023-1634,2023-24,2024-02-04 20:00:00,Tottenham,Manchester United,Tottenham Hotspur Stadium,0,1,team_b,True,completed,90,63.7,36.3,21,16
+EPL-2023-1635,2023-24,2024-02-04 20:00:00,Southampton,Ipswich,St. Mary's Stadium,1,1,draw,True,completed,90,60.7,39.3,10,9
+EPL-2023-1636,2023-24,2024-02-04 17:00:00,Newcastle,Brighton,St. James' Park,1,4,team_b,True,completed,90,58.0,42.0,13,15
+EPL-2023-1637,2023-24,2024-02-03 15:00:00,Bournemouth,Everton,Vitality Stadium,1,1,draw,True,completed,90,45.7,54.3,12,9
+EPL-2023-1638,2023-24,2024-02-05 12:00:00,Everton,Leicester,Goodison Park,0,2,team_b,True,completed,90,45.1,54.9,11,6
+EPL-2023-1639,2023-24,2024-02-04 12:00:00,Nottm Forest,West Ham,City Ground,0,0,draw,True,completed,90,43.5,56.5,12,14
+EPL-2023-1640,2023-24,2024-02-05 12:00:00,Everton,Arsenal,Goodison Park,3,4,team_b,True,completed,90,45.1,54.9,9,11
+EPL-2023-1641,2023-24,2024-02-12 12:00:00,Aston Villa,Tottenham,Villa Park,1,2,team_b,True,completed,90,51.6,48.4,12,15
+EPL-2023-1642,2023-24,2024-02-11 20:00:00,Brentford,Everton,Gtech Community Stadium,3,0,team_a,True,completed,90,44.5,55.5,13,13
+EPL-2023-1643,2023-24,2024-02-12 15:00:00,Chelsea,Everton,Stamford Bridge,1,0,team_a,True,completed,90,56.5,43.5,12,10
+EPL-2023-1644,2023-24,2024-02-11 12:00:00,Manchester City,West Ham,Etihad Stadium,4,1,team_a,True,completed,90,69.9,30.1,18,8
+EPL-2023-1645,2023-24,2024-02-11 12:00:00,West Ham,Aston Villa,London Stadium,1,3,team_b,True,completed,90,47.1,52.9,18,9
+EPL-2023-1646,2023-24,2024-02-11 12:00:00,West Ham,Ipswich,London Stadium,3,1,team_a,True,completed,90,50.4,49.6,16,7
+EPL-2023-1647,2023-24,2024-02-12 15:00:00,Chelsea,Wolves,Stamford Bridge,0,2,team_b,True,completed,90,63.3,36.7,20,9
+EPL-2023-1648,2023-24,2024-02-11 20:00:00,Wolves,Southampton,Molineux Stadium,0,0,draw,True,completed,90,47.5,52.5,9,13
+EPL-2023-1649,2023-24,2024-02-11 15:00:00,Leicester,Fulham,King Power Stadium,5,2,team_a,True,completed,90,50.3,49.7,15,12
+EPL-2023-1650,2023-24,2024-02-10 12:00:00,Southampton,Leicester,St. Mary's Stadium,0,0,draw,True,completed,90,50.2,49.8,9,6
+EPL-2023-1651,2023-24,2024-02-19 20:00:00,Arsenal,Ipswich,Emirates Stadium,2,1,team_a,True,completed,90,58.8,41.2,14,12
+EPL-2023-1652,2023-24,2024-02-17 12:00:00,Arsenal,Liverpool,Emirates Stadium,4,1,team_a,True,completed,90,67.9,32.1,16,19
+EPL-2023-1653,2023-24,2024-02-18 17:00:00,Bournemouth,Aston Villa,Vitality Stadium,4,1,team_a,True,completed,90,48.6,51.4,11,10
+EPL-2023-1654,2023-24,2024-02-17 17:00:00,Manchester United,Tottenham,Old Trafford,3,0,team_a,True,completed,90,54.3,45.7,16,15
+EPL-2023-1655,2023-24,2024-02-19 12:00:00,Arsenal,West Ham,Emirates Stadium,3,4,team_b,True,completed,90,58.1,41.9,13,6
+EPL-2023-1656,2023-24,2024-02-17 15:00:00,Chelsea,Liverpool,Stamford Bridge,2,1,team_a,True,completed,90,57.9,42.1,19,16
+EPL-2023-1657,2023-24,2024-02-19 12:00:00,Everton,West Ham,Goodison Park,1,1,draw,True,completed,90,42.5,57.5,14,8
+EPL-2023-1658,2023-24,2024-02-17 20:00:00,Liverpool,Bournemouth,Anfield,1,1,draw,True,completed,90,63.8,36.2,22,11
+EPL-2023-1659,2023-24,2024-02-18 20:00:00,Brighton,Ipswich,Amex Stadium,5,1,team_a,True,completed,90,65.6,34.4,14,5
+EPL-2023-1660,2023-24,2024-02-17 12:00:00,Wolves,Liverpool,Molineux Stadium,1,0,team_a,True,completed,90,55.8,44.2,11,13
+EPL-2023-1661,2023-24,2024-02-25 20:00:00,Liverpool,Aston Villa,Anfield,7,1,team_a,True,completed,90,68.6,31.4,22,10
+EPL-2023-1662,2023-24,2024-02-26 20:00:00,West Ham,Southampton,London Stadium,0,0,draw,True,completed,90,50.3,49.7,18,5
+EPL-2023-1663,2023-24,2024-02-26 15:00:00,Chelsea,Bournemouth,Stamford Bridge,2,1,team_a,True,completed,90,59.8,40.2,19,8
+EPL-2023-1664,2023-24,2024-02-25 20:00:00,Newcastle,Leicester,St. James' Park,0,2,team_b,True,completed,90,49.6,50.4,15,10
+EPL-2023-1665,2023-24,2024-02-24 15:00:00,Newcastle,Crystal Palace,St. James' Park,0,2,team_b,True,completed,90,60.7,39.3,16,14
+EPL-2023-1666,2023-24,2024-02-26 12:00:00,Bournemouth,West Ham,Vitality Stadium,3,2,team_a,True,completed,90,48.2,51.8,13,13
+EPL-2023-1667,2023-24,2024-02-25 20:00:00,Aston Villa,Wolves,Villa Park,2,3,team_b,True,completed,90,52.8,47.2,19,6
+EPL-2023-1668,2023-24,2024-02-24 15:00:00,Everton,Chelsea,Goodison Park,1,5,team_b,True,completed,90,44.1,55.9,16,16
+EPL-2023-1669,2023-24,2024-02-24 12:00:00,Nottm Forest,Wolves,City Ground,0,1,team_b,True,completed,90,48.0,52.0,13,9
+EPL-2023-1670,2023-24,2024-02-25 17:00:00,Nottm Forest,Arsenal,City Ground,3,3,draw,True,completed,90,39.6,60.4,11,18
+EPL-2023-1671,2023-24,2024-03-04 20:00:00,Nottm Forest,Leicester,City Ground,1,1,draw,True,completed,90,43.8,56.2,11,6
+EPL-2023-1672,2023-24,2024-03-03 20:00:00,Brentford,Liverpool,Gtech Community Stadium,2,2,draw,True,completed,90,52.6,47.4,16,13
+EPL-2023-1673,2023-24,2024-03-03 20:00:00,Arsenal,Crystal Palace,Emirates Stadium,0,4,team_b,True,completed,90,60.8,39.2,20,6
+EPL-2023-1674,2023-24,2024-03-02 20:00:00,Ipswich,Nottm Forest,Portman Road,2,0,team_a,True,completed,90,44.9,55.1,15,13
+EPL-2023-1675,2023-24,2024-03-02 12:00:00,Leicester,Manchester City,King Power Stadium,2,3,team_b,True,completed,90,51.5,48.5,17,15
+EPL-2023-1676,2023-24,2024-03-04 15:00:00,Nottm Forest,Crystal Palace,City Ground,0,0,draw,True,completed,90,46.9,53.1,15,11
+EPL-2023-1677,2023-24,2024-03-03 12:00:00,Newcastle,Arsenal,St. James' Park,2,3,team_b,True,completed,90,58.8,41.2,18,15
+EPL-2023-1678,2023-24,2024-03-04 20:00:00,Southampton,Bournemouth,St. Mary's Stadium,2,1,team_a,True,completed,90,58.6,41.4,13,14
+EPL-2023-1679,2023-24,2024-03-02 12:00:00,Wolves,Brentford,Molineux Stadium,2,3,team_b,True,completed,90,53.1,46.9,12,6
+EPL-2023-1680,2023-24,2024-03-03 17:00:00,Everton,Brighton,Goodison Park,1,1,draw,True,completed,90,48.0,52.0,13,17
+EPL-2023-1681,2023-24,2024-03-11 17:00:00,Tottenham,Ipswich,Tottenham Hotspur Stadium,4,0,team_a,True,completed,90,63.4,36.6,12,6
+EPL-2023-1682,2023-24,2024-03-10 15:00:00,Bournemouth,Liverpool,Vitality Stadium,0,0,draw,True,completed,90,52.9,47.1,16,13
+EPL-2023-1683,2023-24,2024-03-10 15:00:00,Nottm Forest,Brentford,City Ground,0,1,team_b,True,completed,90,41.3,58.7,14,9
+EPL-2023-1684,2023-24,2024-03-10 15:00:00,Tottenham,Manchester City,Tottenham Hotspur Stadium,1,0,team_a,True,completed,90,63.6,36.4,13,17
+EPL-2023-1685,2023-24,2024-03-09 12:00:00,Crystal Palace,Manchester City,Selhurst Park,6,1,team_a,True,completed,90,51.3,48.7,16,18
+EPL-2023-1686,2023-24,2024-03-11 15:00:00,Crystal Palace,Tottenham,Selhurst Park,0,0,draw,True,completed,90,53.6,46.4,9,17
+EPL-2023-1687,2023-24,2024-03-11 12:00:00,Leicester,Newcastle,King Power Stadium,2,0,team_a,True,completed,90,48.6,51.4,14,15
+EPL-2023-1688,2023-24,2024-03-11 15:00:00,Everton,Liverpool,Goodison Park,1,2,team_b,True,completed,90,46.3,53.7,11,14
+EPL-2023-1689,2023-24,2024-03-09 20:00:00,Bournemouth,Chelsea,Vitality Stadium,0,1,team_b,True,completed,90,50.9,49.1,19,14
+EPL-2023-1690,2023-24,2024-03-11 20:00:00,Brighton,Chelsea,Amex Stadium,2,2,draw,True,completed,90,61.0,39.0,21,12
+EPL-2023-1691,2023-24,2024-03-17 20:00:00,Southampton,Arsenal,St. Mary's Stadium,2,0,team_a,True,completed,90,61.6,38.4,12,17
+EPL-2023-1692,2023-24,2024-03-16 15:00:00,Fulham,Newcastle,Craven Cottage,2,0,team_a,True,completed,90,53.0,47.0,18,12
+EPL-2023-1693,2023-24,2024-03-18 17:00:00,Everton,Ipswich,Goodison Park,1,1,draw,True,completed,90,46.5,53.5,17,7
+EPL-2023-1694,2023-24,2024-03-16 15:00:00,Crystal Palace,Brighton,Selhurst Park,3,4,team_b,True,completed,90,49.5,50.5,13,14
+EPL-2023-1695,2023-24,2024-03-18 15:00:00,Tottenham,Everton,Tottenham Hotspur Stadium,2,1,team_a,True,completed,90,66.8,33.2,14,14
+EPL-2023-1696,2023-24,2024-03-18 17:00:00,Brentford,Southampton,Gtech Community Stadium,2,0,team_a,True,completed,90,51.5,48.5,14,13
+EPL-2023-1697,2023-24,2024-03-17 20:00:00,Brentford,Manchester City,Gtech Community Stadium,3,0,team_a,True,completed,90,51.1,48.9,17,15
+EPL-2023-1698,2023-24,2024-03-17 12:00:00,Arsenal,Fulham,Emirates Stadium,3,2,team_a,True,completed,90,63.3,36.7,13,13
+EPL-2023-1699,2023-24,2024-03-16 12:00:00,Manchester United,West Ham,Old Trafford,2,0,team_a,True,completed,90,58.0,42.0,14,10
+EPL-2023-1700,2023-24,2024-03-16 17:00:00,West Ham,Arsenal,London Stadium,2,1,team_a,True,completed,90,49.2,50.8,11,10
+EPL-2023-1701,2023-24,2024-03-25 17:00:00,Crystal Palace,Liverpool,Selhurst Park,5,2,team_a,True,completed,90,44.4,55.6,17,12
+EPL-2023-1702,2023-24,2024-03-24 20:00:00,Chelsea,Ipswich,Stamford Bridge,0,2,team_b,True,completed,90,55.2,44.8,20,7
+EPL-2023-1703,2023-24,2024-03-25 20:00:00,Everton,Manchester City,Goodison Park,2,2,draw,True,completed,90,40.9,59.1,13,11
+EPL-2023-1704,2023-24,2024-03-24 20:00:00,Aston Villa,Leicester,Villa Park,1,3,team_b,True,completed,90,56.0,44.0,16,13
+EPL-2023-1705,2023-24,2024-03-23 12:00:00,West Ham,Liverpool,London Stadium,1,1,draw,True,completed,90,49.9,50.1,12,19
+EPL-2023-1706,2023-24,2024-03-23 17:00:00,Newcastle,West Ham,St. James' Park,2,0,team_a,True,completed,90,58.1,41.9,19,9
+EPL-2023-1707,2023-24,2024-03-25 15:00:00,West Ham,Fulham,London Stadium,1,2,team_b,True,completed,90,44.5,55.5,11,8
+EPL-2023-1708,2023-24,2024-03-23 15:00:00,Southampton,Aston Villa,St. Mary's Stadium,1,1,draw,True,completed,90,58.8,41.2,9,14
+EPL-2023-1709,2023-24,2024-03-23 20:00:00,Brentford,Bournemouth,Gtech Community Stadium,3,1,team_a,True,completed,90,46.3,53.7,13,9
+EPL-2023-1710,2023-24,2024-03-23 17:00:00,West Ham,Wolves,London Stadium,0,0,draw,True,completed,90,41.1,58.9,16,8
+EPL-2023-1711,2023-24,2024-03-30 15:00:00,Brentford,Brighton,Gtech Community Stadium,2,2,draw,True,completed,90,54.1,45.9,18,9
+EPL-2023-1712,2023-24,2024-04-01 17:00:00,Southampton,Everton,St. Mary's Stadium,0,0,draw,True,completed,90,55.9,44.1,17,14
+EPL-2023-1713,2023-24,2024-03-31 12:00:00,Manchester United,Nottm Forest,Old Trafford,3,0,team_a,True,completed,90,59.4,40.6,16,13
+EPL-2023-1714,2023-24,2024-03-30 15:00:00,Fulham,Bournemouth,Craven Cottage,1,0,team_a,True,completed,90,54.2,45.8,18,9
+EPL-2023-1715,2023-24,2024-03-31 20:00:00,Aston Villa,Brentford,Villa Park,1,1,draw,True,completed,90,52.1,47.9,14,9
+EPL-2023-1716,2023-24,2024-04-01 17:00:00,Arsenal,Bournemouth,Emirates Stadium,1,3,team_b,True,completed,90,61.0,39.0,17,10
+EPL-2023-1717,2023-24,2024-04-01 20:00:00,Chelsea,Leicester,Stamford Bridge,2,2,draw,True,completed,90,66.0,34.0,12,6
+EPL-2023-1718,2023-24,2024-04-01 17:00:00,Everton,Bournemouth,Goodison Park,0,0,draw,True,completed,90,43.3,56.7,18,10
+EPL-2023-1719,2023-24,2024-03-30 17:00:00,Newcastle,Chelsea,St. James' Park,3,1,team_a,True,completed,90,53.6,46.4,12,15
+EPL-2023-1720,2023-24,2024-03-31 17:00:00,Crystal Palace,Nottm Forest,Selhurst Park,3,2,team_a,True,completed,90,42.3,57.7,17,10
+EPL-2023-1721,2023-24,2024-04-08 20:00:00,Bournemouth,Nottm Forest,Vitality Stadium,4,0,team_a,True,completed,90,48.8,51.2,14,8
+EPL-2023-1722,2023-24,2024-04-07 12:00:00,Arsenal,Tottenham,Emirates Stadium,1,4,team_b,True,completed,90,68.4,31.6,15,17
+EPL-2023-1723,2023-24,2024-04-08 12:00:00,Newcastle,Wolves,St. James' Park,1,1,draw,True,completed,90,56.5,43.5,14,9
+EPL-2023-1724,2023-24,2024-04-08 20:00:00,Arsenal,Newcastle,Emirates Stadium,4,1,team_a,True,completed,90,67.0,33.0,16,16
+EPL-2023-1725,2023-24,2024-04-08 20:00:00,Ipswich,Bournemouth,Portman Road,0,0,draw,True,completed,90,47.8,52.2,8,9
+EPL-2023-1726,2023-24,2024-04-06 20:00:00,Nottm Forest,Liverpool,City Ground,1,3,team_b,True,completed,90,47.6,52.4,8,13
+EPL-2023-1727,2023-24,2024-04-06 12:00:00,Wolves,Manchester City,Molineux Stadium,7,0,team_a,True,completed,90,46.1,53.9,13,19
+EPL-2023-1728,2023-24,2024-04-06 15:00:00,Manchester City,Southampton,Etihad Stadium,0,0,draw,True,completed,90,72.9,27.1,20,11
+EPL-2023-1729,2023-24,2024-04-07 20:00:00,Nottm Forest,Manchester City,City Ground,6,1,team_a,True,completed,90,44.2,55.8,8,17
+EPL-2023-1730,2023-24,2024-04-08 12:00:00,Liverpool,Everton,Anfield,1,1,draw,True,completed,90,65.4,34.6,24,7
+EPL-2023-1731,2023-24,2024-04-15 12:00:00,Arsenal,Nottm Forest,Emirates Stadium,2,1,team_a,True,completed,90,65.4,34.6,14,10
+EPL-2023-1732,2023-24,2024-04-15 12:00:00,Chelsea,Crystal Palace,Stamford Bridge,2,1,team_a,True,completed,90,57.5,42.5,16,7
+EPL-2023-1733,2023-24,2024-04-14 20:00:00,Newcastle,Bournemouth,St. James' Park,0,2,team_b,True,completed,90,53.6,46.4,11,14
+EPL-2023-1734,2023-24,2024-04-13 15:00:00,Manchester City,Brighton,Etihad Stadium,8,0,team_a,True,completed,90,63.6,36.4,20,17
+EPL-2023-1735,2023-24,2024-04-14 15:00:00,Nottm Forest,Bournemouth,City Ground,2,1,team_a,True,completed,90,42.6,57.4,13,7
+EPL-2023-1736,2023-24,2024-04-15 15:00:00,Crystal Palace,Chelsea,Selhurst Park,0,1,team_b,True,completed,90,43.5,56.5,9,15
+EPL-2023-1737,2023-24,2024-04-15 12:00:00,Leicester,Brentford,King Power Stadium,0,2,team_b,True,completed,90,45.7,54.3,13,9
+EPL-2023-1738,2023-24,2024-04-14 15:00:00,Manchester City,Leicester,Etihad Stadium,2,0,team_a,True,completed,90,63.9,36.1,17,9
+EPL-2023-1739,2023-24,2024-04-13 12:00:00,Aston Villa,Manchester City,Villa Park,7,1,team_a,True,completed,90,53.2,46.8,20,11
+EPL-2023-1740,2023-24,2024-04-15 20:00:00,Chelsea,Arsenal,Stamford Bridge,2,1,team_a,True,completed,90,61.7,38.3,13,14
+EPL-2023-1741,2023-24,2024-04-22 12:00:00,Manchester United,Brighton,Old Trafford,2,3,team_b,True,completed,90,53.0,47.0,14,16
+EPL-2023-1742,2023-24,2024-04-21 17:00:00,Tottenham,Aston Villa,Tottenham Hotspur Stadium,3,0,team_a,True,completed,90,56.5,43.5,15,9
+EPL-2023-1743,2023-24,2024-04-21 12:00:00,Brighton,Newcastle,Amex Stadium,3,2,team_a,True,completed,90,66.8,33.2,17,15
+EPL-2023-1744,2023-24,2024-04-21 17:00:00,Wolves,Manchester United,Molineux Stadium,1,0,team_a,True,completed,90,51.4,48.6,13,10
+EPL-2023-1745,2023-24,2024-04-22 17:00:00,Newcastle,Fulham,St. James' Park,1,3,team_b,True,completed,90,58.7,41.3,17,9
+EPL-2023-1746,2023-24,2024-04-20 17:00:00,Newcastle,Aston Villa,St. James' Park,2,4,team_b,True,completed,90,52.0,48.0,14,14
+EPL-2023-1747,2023-24,2024-04-21 17:00:00,Bournemouth,Tottenham,Vitality Stadium,1,3,team_b,True,completed,90,44.6,55.4,15,16
+EPL-2023-1748,2023-24,2024-04-21 20:00:00,Everton,Newcastle,Goodison Park,2,3,team_b,True,completed,90,42.3,57.7,13,15
+EPL-2023-1749,2023-24,2024-04-22 12:00:00,Crystal Palace,West Ham,Selhurst Park,1,0,team_a,True,completed,90,44.1,55.9,18,7
+EPL-2023-1750,2023-24,2024-04-21 15:00:00,Everton,Wolves,Goodison Park,1,1,draw,True,completed,90,48.7,51.3,12,10
+EPL-2023-1751,2023-24,2024-04-29 12:00:00,Ipswich,Manchester United,Portman Road,1,0,team_a,True,completed,90,48.7,51.3,7,16
+EPL-2023-1752,2023-24,2024-04-29 12:00:00,Southampton,Liverpool,St. Mary's Stadium,1,1,draw,True,completed,90,59.8,40.2,17,18
+EPL-2023-1753,2023-24,2024-04-29 15:00:00,Wolves,Brighton,Molineux Stadium,2,1,team_a,True,completed,90,54.9,45.1,17,13
+EPL-2023-1754,2023-24,2024-04-29 20:00:00,West Ham,Manchester City,London Stadium,7,3,team_a,True,completed,90,48.8,51.2,11,16
+EPL-2023-1755,2023-24,2024-04-28 15:00:00,Manchester City,Wolves,Etihad Stadium,4,2,team_a,True,completed,90,72.7,27.3,23,10
+EPL-2023-1756,2023-24,2024-04-27 20:00:00,Manchester City,Liverpool,Etihad Stadium,6,1,team_a,True,completed,90,68.0,32.0,15,18
+EPL-2023-1757,2023-24,2024-04-28 12:00:00,Newcastle,Manchester City,St. James' Park,1,4,team_b,True,completed,90,57.0,43.0,20,13
+EPL-2023-1758,2023-24,2024-04-29 15:00:00,Ipswich,Crystal Palace,Portman Road,3,1,team_a,True,completed,90,45.4,54.6,9,8
+EPL-2023-1759,2023-24,2024-04-29 20:00:00,Aston Villa,Brighton,Villa Park,1,3,team_b,True,completed,90,62.3,37.7,11,12
+EPL-2023-1760,2023-24,2024-04-28 15:00:00,Everton,Tottenham,Goodison Park,1,1,draw,True,completed,90,38.8,61.2,14,12
+EPL-2024-1761,2024-25,2024-08-17 12:00:00,Aston Villa,Manchester United,Villa Park,2,0,team_a,True,completed,90,52.4,47.6,12,15
+EPL-2024-1762,2024-25,2024-08-19 12:00:00,Arsenal,Fulham,Emirates Stadium,1,2,team_b,True,completed,90,66.2,33.8,21,7
+EPL-2024-1763,2024-25,2024-08-18 17:00:00,Southampton,Liverpool,St. Mary's Stadium,1,0,team_a,True,completed,90,57.4,42.6,15,16
+EPL-2024-1764,2024-25,2024-08-18 15:00:00,Liverpool,Nottm Forest,Anfield,2,0,team_a,True,completed,90,70.8,29.2,23,9
+EPL-2024-1765,2024-25,2024-08-18 15:00:00,Tottenham,Newcastle,Tottenham Hotspur Stadium,0,2,team_b,True,completed,90,64.0,36.0,14,8
+EPL-2024-1766,2024-25,2024-08-19 20:00:00,Brighton,Fulham,Amex Stadium,3,0,team_a,True,completed,90,61.7,38.3,20,7
+EPL-2024-1767,2024-25,2024-08-19 17:00:00,Wolves,Brentford,Molineux Stadium,0,1,team_b,True,completed,90,48.7,51.3,11,13
+EPL-2024-1768,2024-25,2024-08-17 20:00:00,Crystal Palace,Southampton,Selhurst Park,0,1,team_b,True,completed,90,45.8,54.2,9,5
+EPL-2024-1769,2024-25,2024-08-19 15:00:00,Ipswich,Arsenal,Portman Road,2,1,team_a,True,completed,90,44.6,55.4,8,15
+EPL-2024-1770,2024-25,2024-08-18 17:00:00,Aston Villa,Fulham,Villa Park,3,0,team_a,True,completed,90,53.2,46.8,15,10
+EPL-2024-1771,2024-25,2024-08-25 20:00:00,Crystal Palace,Ipswich,Selhurst Park,2,0,team_a,True,completed,90,53.5,46.5,14,9
+EPL-2024-1772,2024-25,2024-08-24 20:00:00,Liverpool,Chelsea,Anfield,4,2,team_a,True,completed,90,64.1,35.9,21,14
+EPL-2024-1773,2024-25,2024-08-25 20:00:00,Leicester,Nottm Forest,King Power Stadium,1,1,draw,True,completed,90,45.4,54.6,10,7
+EPL-2024-1774,2024-25,2024-08-26 15:00:00,Fulham,Everton,Craven Cottage,1,0,team_a,True,completed,90,57.8,42.2,14,9
+EPL-2024-1775,2024-25,2024-08-26 20:00:00,Manchester City,Ipswich,Etihad Stadium,2,1,team_a,True,completed,90,72.3,27.7,17,6
+EPL-2024-1776,2024-25,2024-08-26 15:00:00,Aston Villa,Chelsea,Villa Park,2,1,team_a,True,completed,90,56.7,43.3,11,11
+EPL-2024-1777,2024-25,2024-08-25 20:00:00,Chelsea,Ipswich,Stamford Bridge,0,0,draw,True,completed,90,55.6,44.4,20,12
+EPL-2024-1778,2024-25,2024-08-26 17:00:00,Manchester City,Manchester United,Etihad Stadium,3,0,team_a,True,completed,90,71.4,28.6,18,12
+EPL-2024-1779,2024-25,2024-08-26 12:00:00,West Ham,Crystal Palace,London Stadium,2,1,team_a,True,completed,90,45.8,54.2,11,6
+EPL-2024-1780,2024-25,2024-08-24 17:00:00,Liverpool,Manchester City,Anfield,5,5,draw,True,completed,90,64.7,35.3,16,18
+EPL-2024-1781,2024-25,2024-09-02 17:00:00,Crystal Palace,Newcastle,Selhurst Park,3,0,team_a,True,completed,90,45.1,54.9,14,16
+EPL-2024-1782,2024-25,2024-09-02 17:00:00,Manchester City,Newcastle,Etihad Stadium,8,3,team_a,True,completed,90,66.1,33.9,20,9
+EPL-2024-1783,2024-25,2024-09-01 15:00:00,Manchester City,Southampton,Etihad Stadium,3,4,team_b,True,completed,90,68.9,31.1,22,7
+EPL-2024-1784,2024-25,2024-09-01 17:00:00,Everton,Tottenham,Goodison Park,0,1,team_b,True,completed,90,41.9,58.1,17,16
+EPL-2024-1785,2024-25,2024-09-02 20:00:00,Manchester City,Crystal Palace,Etihad Stadium,4,2,team_a,True,completed,90,72.7,27.3,20,10
+EPL-2024-1786,2024-25,2024-09-01 15:00:00,Southampton,Leicester,St. Mary's Stadium,0,3,team_b,True,completed,90,60.4,39.6,13,11
+EPL-2024-1787,2024-25,2024-09-02 20:00:00,Newcastle,Liverpool,St. James' Park,5,2,team_a,True,completed,90,59.2,40.8,12,13
+EPL-2024-1788,2024-25,2024-08-31 17:00:00,Manchester City,Fulham,Etihad Stadium,4,0,team_a,True,completed,90,64.7,35.3,19,11
+EPL-2024-1789,2024-25,2024-09-02 17:00:00,Newcastle,Everton,St. James' Park,1,1,draw,True,completed,90,56.3,43.7,17,10
+EPL-2024-1790,2024-25,2024-09-01 17:00:00,Nottm Forest,Manchester City,City Ground,4,1,team_a,True,completed,90,48.0,52.0,16,18
+EPL-2024-1791,2024-25,2024-09-08 15:00:00,Manchester United,Nottm Forest,Old Trafford,0,0,draw,True,completed,90,52.2,47.8,11,7
+EPL-2024-1792,2024-25,2024-09-09 15:00:00,Liverpool,Aston Villa,Anfield,0,2,team_b,True,completed,90,66.9,33.1,16,11
+EPL-2024-1793,2024-25,2024-09-07 20:00:00,Nottm Forest,Newcastle,City Ground,1,2,team_b,True,completed,90,40.2,59.8,9,15
+EPL-2024-1794,2024-25,2024-09-09 12:00:00,Crystal Palace,Tottenham,Selhurst Park,3,0,team_a,True,completed,90,42.3,57.7,15,17
+EPL-2024-1795,2024-25,2024-09-07 12:00:00,Arsenal,West Ham,Emirates Stadium,1,2,team_b,True,completed,90,60.1,39.9,15,7
+EPL-2024-1796,2024-25,2024-09-09 20:00:00,Everton,Liverpool,Goodison Park,1,1,draw,True,completed,90,41.7,58.3,12,16
+EPL-2024-1797,2024-25,2024-09-08 15:00:00,Aston Villa,Newcastle,Villa Park,6,0,team_a,True,completed,90,52.6,47.4,13,8
+EPL-2024-1798,2024-25,2024-09-07 17:00:00,Fulham,Tottenham,Craven Cottage,1,2,team_b,True,completed,90,58.3,41.7,15,16
+EPL-2024-1799,2024-25,2024-09-08 17:00:00,Fulham,Newcastle,Craven Cottage,0,1,team_b,True,completed,90,54.6,45.4,12,16
+EPL-2024-1800,2024-25,2024-09-07 20:00:00,Newcastle,Wolves,St. James' Park,2,0,team_a,True,completed,90,56.6,43.4,20,12
+EPL-2024-1801,2024-25,2024-09-16 17:00:00,Aston Villa,Manchester City,Villa Park,4,3,team_a,True,completed,90,61.9,38.1,18,19
+EPL-2024-1802,2024-25,2024-09-14 12:00:00,Manchester City,West Ham,Etihad Stadium,0,2,team_b,True,completed,90,67.3,32.7,19,12
+EPL-2024-1803,2024-25,2024-09-15 15:00:00,Ipswich,Tottenham,Portman Road,0,3,team_b,True,completed,90,43.6,56.4,7,17
+EPL-2024-1804,2024-25,2024-09-14 17:00:00,Tottenham,Nottm Forest,Tottenham Hotspur Stadium,1,1,draw,True,completed,90,58.4,41.6,20,5
+EPL-2024-1805,2024-25,2024-09-16 20:00:00,Bournemouth,Arsenal,Vitality Stadium,2,0,team_a,True,completed,90,54.4,45.6,17,14
+EPL-2024-1806,2024-25,2024-09-14 20:00:00,Fulham,Wolves,Craven Cottage,1,0,team_a,True,completed,90,57.6,42.4,19,9
+EPL-2024-1807,2024-25,2024-09-14 17:00:00,Newcastle,Arsenal,St. James' Park,7,1,team_a,True,completed,90,51.3,48.7,19,16
+EPL-2024-1808,2024-25,2024-09-15 15:00:00,Southampton,Manchester United,St. Mary's Stadium,2,0,team_a,True,completed,90,52.0,48.0,14,14
+EPL-2024-1809,2024-25,2024-09-14 17:00:00,Wolves,Leicester,Molineux Stadium,1,1,draw,True,completed,90,45.0,55.0,12,13
+EPL-2024-1810,2024-25,2024-09-16 17:00:00,Bournemouth,Ipswich,Vitality Stadium,3,1,team_a,True,completed,90,46.4,53.6,18,8
+EPL-2024-1811,2024-25,2024-09-22 15:00:00,Manchester City,Nottm Forest,Etihad Stadium,1,1,draw,True,completed,90,72.2,27.8,16,7
+EPL-2024-1812,2024-25,2024-09-22 12:00:00,Ipswich,West Ham,Portman Road,2,0,team_a,True,completed,90,47.6,52.4,16,13
+EPL-2024-1813,2024-25,2024-09-22 20:00:00,Chelsea,Wolves,Stamford Bridge,1,1,draw,True,completed,90,56.3,43.7,12,8
+EPL-2024-1814,2024-25,2024-09-21 12:00:00,Tottenham,Aston Villa,Tottenham Hotspur Stadium,1,0,team_a,True,completed,90,57.2,42.8,13,12
+EPL-2024-1815,2024-25,2024-09-22 15:00:00,Crystal Palace,Manchester United,Selhurst Park,0,1,team_b,True,completed,90,50.6,49.4,9,11
+EPL-2024-1816,2024-25,2024-09-21 15:00:00,Everton,Manchester United,Goodison Park,1,1,draw,True,completed,90,38.2,61.8,12,13
+EPL-2024-1817,2024-25,2024-09-22 17:00:00,Nottm Forest,Arsenal,City Ground,2,1,team_a,True,completed,90,48.4,51.6,15,15
+EPL-2024-1818,2024-25,2024-09-22 12:00:00,Wolves,Manchester City,Molineux Stadium,6,0,team_a,True,completed,90,48.0,52.0,11,11
+EPL-2024-1819,2024-25,2024-09-22 20:00:00,Brighton,Southampton,Amex Stadium,2,1,team_a,True,completed,90,56.9,43.1,19,7
+EPL-2024-1820,2024-25,2024-09-21 17:00:00,Everton,Newcastle,Goodison Park,1,2,team_b,True,completed,90,47.8,52.2,9,9
+EPL-2024-1821,2024-25,2024-09-30 15:00:00,Fulham,Manchester United,Craven Cottage,3,2,team_a,True,completed,90,52.6,47.4,17,11
+EPL-2024-1822,2024-25,2024-09-30 12:00:00,Crystal Palace,Bournemouth,Selhurst Park,0,2,team_b,True,completed,90,44.4,55.6,10,15
+EPL-2024-1823,2024-25,2024-09-30 15:00:00,Fulham,Chelsea,Craven Cottage,0,1,team_b,True,completed,90,53.7,46.3,14,14
+EPL-2024-1824,2024-25,2024-09-28 12:00:00,Arsenal,Everton,Emirates Stadium,3,1,team_a,True,completed,90,65.9,34.1,21,14
+EPL-2024-1825,2024-25,2024-09-28 17:00:00,Newcastle,Southampton,St. James' Park,0,1,team_b,True,completed,90,54.8,45.2,15,8
+EPL-2024-1826,2024-25,2024-09-29 12:00:00,Brentford,Chelsea,Gtech Community Stadium,2,1,team_a,True,completed,90,53.4,46.6,12,10
+EPL-2024-1827,2024-25,2024-09-28 20:00:00,Bournemouth,Leicester,Vitality Stadium,4,1,team_a,True,completed,90,46.9,53.1,12,9
+EPL-2024-1828,2024-25,2024-09-30 12:00:00,Brentford,Manchester City,Gtech Community Stadium,3,1,team_a,True,completed,90,47.7,52.3,12,11
+EPL-2024-1829,2024-25,2024-09-28 20:00:00,Wolves,Brighton,Molineux Stadium,1,0,team_a,True,completed,90,52.3,47.7,11,14
+EPL-2024-1830,2024-25,2024-09-28 15:00:00,Brighton,Nottm Forest,Amex Stadium,4,2,team_a,True,completed,90,57.9,42.1,13,10
+EPL-2024-1831,2024-25,2024-10-07 12:00:00,Ipswich,Manchester United,Portman Road,2,0,team_a,True,completed,90,40.7,59.3,9,16
+EPL-2024-1832,2024-25,2024-10-05 15:00:00,Everton,Crystal Palace,Goodison Park,0,0,draw,True,completed,90,43.9,56.1,14,14
+EPL-2024-1833,2024-25,2024-10-07 17:00:00,Leicester,Brentford,King Power Stadium,1,0,team_a,True,completed,90,51.7,48.3,15,9
+EPL-2024-1834,2024-25,2024-10-05 20:00:00,Arsenal,Brentford,Emirates Stadium,4,4,draw,True,completed,90,61.3,38.7,15,10
+EPL-2024-1835,2024-25,2024-10-05 20:00:00,Southampton,Newcastle,St. Mary's Stadium,1,2,team_b,True,completed,90,58.5,41.5,16,12
+EPL-2024-1836,2024-25,2024-10-07 20:00:00,Brentford,Wolves,Gtech Community Stadium,1,0,team_a,True,completed,90,45.3,54.7,11,14
+EPL-2024-1837,2024-25,2024-10-06 17:00:00,Leicester,Tottenham,King Power Stadium,3,3,draw,True,completed,90,50.8,49.2,12,17
+EPL-2024-1838,2024-25,2024-10-05 12:00:00,West Ham,Newcastle,London Stadium,1,1,draw,True,completed,90,47.4,52.6,16,12
+EPL-2024-1839,2024-25,2024-10-06 17:00:00,Southampton,Wolves,St. Mary's Stadium,0,0,draw,True,completed,90,55.4,44.6,16,12
+EPL-2024-1840,2024-25,2024-10-07 15:00:00,Tottenham,Arsenal,Tottenham Hotspur Stadium,2,3,team_b,True,completed,90,65.6,34.4,21,15
+EPL-2024-1841,2024-25,2024-10-14 15:00:00,Brentford,Everton,Gtech Community Stadium,1,2,team_b,True,completed,90,46.8,53.2,10,14
+EPL-2024-1842,2024-25,2024-10-13 15:00:00,West Ham,Bournemouth,London Stadium,2,3,team_b,True,completed,90,47.3,52.7,16,15
+EPL-2024-1843,2024-25,2024-10-12 17:00:00,Brighton,Newcastle,Amex Stadium,4,2,team_a,True,completed,90,59.9,40.1,17,9
+EPL-2024-1844,2024-25,2024-10-12 12:00:00,Nottm Forest,Southampton,City Ground,0,1,team_b,True,completed,90,39.5,60.5,10,7
+EPL-2024-1845,2024-25,2024-10-12 15:00:00,Aston Villa,Southampton,Villa Park,1,1,draw,True,completed,90,52.3,47.7,14,6
+EPL-2024-1846,2024-25,2024-10-12 20:00:00,Leicester,Everton,King Power Stadium,1,0,team_a,True,completed,90,49.9,50.1,16,10
+EPL-2024-1847,2024-25,2024-10-12 17:00:00,West Ham,Leicester,London Stadium,0,0,draw,True,completed,90,43.6,56.4,10,5
+EPL-2024-1848,2024-25,2024-10-12 20:00:00,Fulham,Arsenal,Craven Cottage,0,1,team_b,True,completed,90,59.1,40.9,11,17
+EPL-2024-1849,2024-25,2024-10-14 12:00:00,Crystal Palace,West Ham,Selhurst Park,1,1,draw,True,completed,90,46.3,53.7,15,11
+EPL-2024-1850,2024-25,2024-10-14 12:00:00,Everton,Aston Villa,Goodison Park,1,0,team_a,True,completed,90,47.9,52.1,13,16
+EPL-2024-1851,2024-25,2024-10-19 12:00:00,Nottm Forest,Liverpool,City Ground,5,0,team_a,True,completed,90,49.0,51.0,9,15
+EPL-2024-1852,2024-25,2024-10-21 12:00:00,Manchester United,Everton,Old Trafford,0,0,draw,True,completed,90,51.2,48.8,14,14
+EPL-2024-1853,2024-25,2024-10-20 15:00:00,West Ham,Chelsea,London Stadium,2,2,draw,True,completed,90,43.3,56.7,12,11
+EPL-2024-1854,2024-25,2024-10-21 20:00:00,Newcastle,Nottm Forest,St. James' Park,0,0,draw,True,completed,90,58.0,42.0,20,10
+EPL-2024-1855,2024-25,2024-10-21 20:00:00,Southampton,Crystal Palace,St. Mary's Stadium,0,0,draw,True,completed,90,58.4,41.6,14,7
+EPL-2024-1856,2024-25,2024-10-19 15:00:00,Everton,West Ham,Goodison Park,1,2,team_b,True,completed,90,44.6,55.4,17,11
+EPL-2024-1857,2024-25,2024-10-21 15:00:00,Liverpool,Fulham,Anfield,2,1,team_a,True,completed,90,65.4,34.6,24,14
+EPL-2024-1858,2024-25,2024-10-20 17:00:00,Ipswich,Chelsea,Portman Road,0,2,team_b,True,completed,90,46.6,53.4,12,14
+EPL-2024-1859,2024-25,2024-10-20 20:00:00,West Ham,Ipswich,London Stadium,1,0,team_a,True,completed,90,50.9,49.1,14,7
+EPL-2024-1860,2024-25,2024-10-21 15:00:00,Liverpool,Everton,Anfield,2,3,team_b,True,completed,90,63.5,36.5,23,10
+EPL-2024-1861,2024-25,2024-10-27 20:00:00,West Ham,Wolves,London Stadium,1,0,team_a,True,completed,90,46.4,53.6,15,6
+EPL-2024-1862,2024-25,2024-10-28 12:00:00,West Ham,Brighton,London Stadium,0,2,team_b,True,completed,90,52.8,47.2,18,9
+EPL-2024-1863,2024-25,2024-10-28 15:00:00,Wolves,Crystal Palace,Molineux Stadium,2,0,team_a,True,completed,90,55.9,44.1,13,6
+EPL-2024-1864,2024-25,2024-10-27 15:00:00,Manchester United,Aston Villa,Old Trafford,3,2,team_a,True,completed,90,52.6,47.4,16,8
+EPL-2024-1865,2024-25,2024-10-28 17:00:00,Fulham,Aston Villa,Craven Cottage,3,1,team_a,True,completed,90,59.0,41.0,18,16
+EPL-2024-1866,2024-25,2024-10-28 15:00:00,Tottenham,West Ham,Tottenham Hotspur Stadium,5,0,team_a,True,completed,90,56.1,43.9,19,11
+EPL-2024-1867,2024-25,2024-10-26 15:00:00,West Ham,Manchester United,London Stadium,1,1,draw,True,completed,90,44.2,55.8,18,11
+EPL-2024-1868,2024-25,2024-10-26 17:00:00,Liverpool,Brighton,Anfield,3,2,team_a,True,completed,90,68.7,31.3,16,15
+EPL-2024-1869,2024-25,2024-10-28 15:00:00,Newcastle,Tottenham,St. James' Park,5,2,team_a,True,completed,90,57.8,42.2,16,16
+EPL-2024-1870,2024-25,2024-10-26 20:00:00,Manchester United,Ipswich,Old Trafford,1,1,draw,True,completed,90,59.9,40.1,20,5
+EPL-2024-1871,2024-25,2024-11-04 17:00:00,Crystal Palace,Nottm Forest,Selhurst Park,0,1,team_b,True,completed,90,42.4,57.6,18,11
+EPL-2024-1872,2024-25,2024-11-02 12:00:00,West Ham,Fulham,London Stadium,1,1,draw,True,completed,90,52.1,47.9,14,12
+EPL-2024-1873,2024-25,2024-11-03 20:00:00,Arsenal,Crystal Palace,Emirates Stadium,3,3,draw,True,completed,90,68.2,31.8,14,9
+EPL-2024-1874,2024-25,2024-11-04 12:00:00,Ipswich,Leicester,Portman Road,1,0,team_a,True,completed,90,47.6,52.4,13,5
+EPL-2024-1875,2024-25,2024-11-03 12:00:00,Newcastle,West Ham,St. James' Park,1,1,draw,True,completed,90,52.8,47.2,20,8
+EPL-2024-1876,2024-25,2024-11-03 15:00:00,Crystal Palace,Manchester City,Selhurst Park,1,1,draw,True,completed,90,43.8,56.2,15,18
+EPL-2024-1877,2024-25,2024-11-04 12:00:00,Brentford,Bournemouth,Gtech Community Stadium,1,2,team_b,True,completed,90,45.7,54.3,13,13
+EPL-2024-1878,2024-25,2024-11-02 15:00:00,Chelsea,Newcastle,Stamford Bridge,1,2,team_b,True,completed,90,58.0,42.0,19,8
+EPL-2024-1879,2024-25,2024-11-04 20:00:00,Manchester City,Chelsea,Etihad Stadium,3,5,team_b,True,completed,90,65.2,34.8,20,17
+EPL-2024-1880,2024-25,2024-11-03 15:00:00,Arsenal,Newcastle,Emirates Stadium,4,1,team_a,True,completed,90,66.1,33.9,20,16
+EPL-2024-1881,2024-25,2024-11-09 20:00:00,Arsenal,Southampton,Emirates Stadium,2,1,team_a,True,completed,90,61.7,38.3,22,8
+EPL-2024-1882,2024-25,2024-11-11 15:00:00,Ipswich,Everton,Portman Road,0,0,draw,True,completed,90,42.9,57.1,11,12
+EPL-2024-1883,2024-25,2024-11-10 12:00:00,Bournemouth,Brighton,Vitality Stadium,0,1,team_b,True,completed,90,44.4,55.6,16,15
+EPL-2024-1884,2024-25,2024-11-10 17:00:00,Newcastle,Chelsea,St. James' Park,2,0,team_a,True,completed,90,51.3,48.7,16,9
+EPL-2024-1885,2024-25,2024-11-10 15:00:00,Leicester,Wolves,King Power Stadium,4,0,team_a,True,completed,90,53.9,46.1,17,13
+EPL-2024-1886,2024-25,2024-11-11 15:00:00,Brighton,Wolves,Amex Stadium,3,4,team_b,True,completed,90,61.3,38.7,15,9
+EPL-2024-1887,2024-25,2024-11-11 17:00:00,West Ham,Aston Villa,London Stadium,1,0,team_a,True,completed,90,42.9,57.1,10,9
+EPL-2024-1888,2024-25,2024-11-11 12:00:00,Manchester City,Aston Villa,Etihad Stadium,3,3,draw,True,completed,90,64.9,35.1,23,10
+EPL-2024-1889,2024-25,2024-11-10 12:00:00,Everton,Ipswich,Goodison Park,2,0,team_a,True,completed,90,42.1,57.9,10,8
+EPL-2024-1890,2024-25,2024-11-10 20:00:00,Newcastle,Fulham,St. James' Park,3,0,team_a,True,completed,90,49.3,50.7,14,15
+EPL-2024-1891,2024-25,2024-11-16 15:00:00,Liverpool,Manchester United,Anfield,5,3,team_a,True,completed,90,65.6,34.4,19,16
+EPL-2024-1892,2024-25,2024-11-17 15:00:00,Manchester City,Brentford,Etihad Stadium,2,2,draw,True,completed,90,70.3,29.7,14,12
+EPL-2024-1893,2024-25,2024-11-18 12:00:00,Everton,Leicester,Goodison Park,1,0,team_a,True,completed,90,41.1,58.9,9,9
+EPL-2024-1894,2024-25,2024-11-16 17:00:00,West Ham,Manchester City,London Stadium,6,2,team_a,True,completed,90,41.6,58.4,9,12
+EPL-2024-1895,2024-25,2024-11-17 17:00:00,Chelsea,Aston Villa,Stamford Bridge,0,1,team_b,True,completed,90,62.0,38.0,17,9
+EPL-2024-1896,2024-25,2024-11-16 17:00:00,Brentford,Manchester United,Gtech Community Stadium,1,2,team_b,True,completed,90,53.4,46.6,15,11
+EPL-2024-1897,2024-25,2024-11-17 12:00:00,Nottm Forest,Bournemouth,City Ground,3,3,draw,True,completed,90,49.8,50.2,15,15
+EPL-2024-1898,2024-25,2024-11-16 15:00:00,Nottm Forest,Leicester,City Ground,2,0,team_a,True,completed,90,41.4,58.6,15,13
+EPL-2024-1899,2024-25,2024-11-18 12:00:00,Liverpool,Ipswich,Anfield,3,1,team_a,True,completed,90,59.5,40.5,23,8
+EPL-2024-1900,2024-25,2024-11-17 20:00:00,Everton,Chelsea,Goodison Park,4,1,team_a,True,completed,90,42.7,57.3,11,9
+EPL-2024-1901,2024-25,2024-11-24 17:00:00,Manchester City,Leicester,Etihad Stadium,4,0,team_a,True,completed,90,66.3,33.7,18,8
+EPL-2024-1902,2024-25,2024-11-25 17:00:00,Leicester,Southampton,King Power Stadium,0,1,team_b,True,completed,90,51.7,48.3,12,11
+EPL-2024-1903,2024-25,2024-11-23 17:00:00,Chelsea,Leicester,Stamford Bridge,2,2,draw,True,completed,90,56.7,43.3,17,11
+EPL-2024-1904,2024-25,2024-11-25 15:00:00,Newcastle,Manchester United,St. James' Park,4,2,team_a,True,completed,90,50.1,49.9,17,16
+EPL-2024-1905,2024-25,2024-11-25 15:00:00,Arsenal,Ipswich,Emirates Stadium,5,0,team_a,True,completed,90,62.0,38.0,22,6
+EPL-2024-1906,2024-25,2024-11-24 17:00:00,Ipswich,Bournemouth,Portman Road,2,2,draw,True,completed,90,50.9,49.1,12,14
+EPL-2024-1907,2024-25,2024-11-25 15:00:00,Fulham,Manchester City,Craven Cottage,3,2,team_a,True,completed,90,50.5,49.5,12,19
+EPL-2024-1908,2024-25,2024-11-25 15:00:00,Chelsea,Tottenham,Stamford Bridge,0,2,team_b,True,completed,90,64.4,35.6,16,17
+EPL-2024-1909,2024-25,2024-11-23 20:00:00,Brighton,West Ham,Amex Stadium,1,1,draw,True,completed,90,67.9,32.1,14,8
+EPL-2024-1910,2024-25,2024-11-24 12:00:00,Manchester City,Everton,Etihad Stadium,3,2,team_a,True,completed,90,68.7,31.3,15,8
+EPL-2024-1911,2024-25,2024-12-01 15:00:00,Ipswich,Liverpool,Portman Road,3,1,team_a,True,completed,90,48.7,51.3,12,18
+EPL-2024-1912,2024-25,2024-12-01 17:00:00,Tottenham,Crystal Palace,Tottenham Hotspur Stadium,4,1,team_a,True,completed,90,60.3,39.7,16,8
+EPL-2024-1913,2024-25,2024-11-30 12:00:00,Chelsea,West Ham,Stamford Bridge,3,1,team_a,True,completed,90,55.6,44.4,12,10
+EPL-2024-1914,2024-25,2024-12-02 15:00:00,Newcastle,Leicester,St. James' Park,0,0,draw,True,completed,90,56.2,43.8,14,5
+EPL-2024-1915,2024-25,2024-12-01 12:00:00,Liverpool,Leicester,Anfield,1,0,team_a,True,completed,90,67.3,32.7,22,7
+EPL-2024-1916,2024-25,2024-12-02 20:00:00,Crystal Palace,Fulham,Selhurst Park,3,0,team_a,True,completed,90,50.5,49.5,14,9
+EPL-2024-1917,2024-25,2024-12-01 20:00:00,Liverpool,Tottenham,Anfield,1,2,team_b,True,completed,90,64.7,35.3,17,12
+EPL-2024-1918,2024-25,2024-11-30 12:00:00,Southampton,Chelsea,St. Mary's Stadium,1,0,team_a,True,completed,90,54.9,45.1,8,13
+EPL-2024-1919,2024-25,2024-12-01 15:00:00,Wolves,Manchester United,Molineux Stadium,2,0,team_a,True,completed,90,52.9,47.1,12,11
+EPL-2024-1920,2024-25,2024-11-30 15:00:00,Bournemouth,Crystal Palace,Vitality Stadium,2,0,team_a,True,completed,90,54.1,45.9,17,13
+EPL-2024-1921,2024-25,2024-12-09 17:00:00,Everton,Brighton,Goodison Park,0,2,team_b,True,completed,90,48.4,51.6,12,15
+EPL-2024-1922,2024-25,2024-12-08 12:00:00,Leicester,Fulham,King Power Stadium,2,2,draw,True,completed,90,49.3,50.7,14,12
+EPL-2024-1923,2024-25,2024-12-08 12:00:00,Tottenham,Fulham,Tottenham Hotspur Stadium,6,3,team_a,True,completed,90,61.2,38.8,19,14
+EPL-2024-1924,2024-25,2024-12-07 15:00:00,Bournemouth,Brentford,Vitality Stadium,2,1,team_a,True,completed,90,49.2,50.8,16,6
+EPL-2024-1925,2024-25,2024-12-09 20:00:00,Tottenham,Liverpool,Tottenham Hotspur Stadium,3,1,team_a,True,completed,90,61.2,38.8,12,15
+EPL-2024-1926,2024-25,2024-12-08 20:00:00,Leicester,Liverpool,King Power Stadium,1,0,team_a,True,completed,90,46.8,53.2,12,16
+EPL-2024-1927,2024-25,2024-12-08 15:00:00,Brighton,Manchester City,Amex Stadium,3,3,draw,True,completed,90,61.1,38.9,21,11
+EPL-2024-1928,2024-25,2024-12-09 15:00:00,Brighton,Arsenal,Amex Stadium,2,1,team_a,True,completed,90,61.6,38.4,19,11
+EPL-2024-1929,2024-25,2024-12-09 12:00:00,Leicester,Manchester United,King Power Stadium,1,1,draw,True,completed,90,44.2,55.8,17,16
+EPL-2024-1930,2024-25,2024-12-07 20:00:00,Brentford,Liverpool,Gtech Community Stadium,1,0,team_a,True,completed,90,48.0,52.0,16,12
+EPL-2024-1931,2024-25,2024-12-14 20:00:00,Liverpool,West Ham,Anfield,4,1,team_a,True,completed,90,66.1,33.9,18,13
+EPL-2024-1932,2024-25,2024-12-14 17:00:00,Wolves,Chelsea,Molineux Stadium,1,1,draw,True,completed,90,47.9,52.1,11,10
+EPL-2024-1933,2024-25,2024-12-14 12:00:00,Manchester United,Bournemouth,Old Trafford,6,0,team_a,True,completed,90,58.5,41.5,16,8
+EPL-2024-1934,2024-25,2024-12-16 20:00:00,Manchester United,Brighton,Old Trafford,1,1,draw,True,completed,90,58.7,41.3,19,11
+EPL-2024-1935,2024-25,2024-12-15 20:00:00,Ipswich,Nottm Forest,Portman Road,0,1,team_b,True,completed,90,40.5,59.5,9,10
+EPL-2024-1936,2024-25,2024-12-16 15:00:00,Bournemouth,Chelsea,Vitality Stadium,1,3,team_b,True,completed,90,44.9,55.1,12,11
+EPL-2024-1937,2024-25,2024-12-16 12:00:00,Chelsea,Manchester United,Stamford Bridge,1,1,draw,True,completed,90,59.0,41.0,16,15
+EPL-2024-1938,2024-25,2024-12-15 15:00:00,Brighton,Aston Villa,Amex Stadium,0,2,team_b,True,completed,90,57.4,42.6,14,11
+EPL-2024-1939,2024-25,2024-12-14 17:00:00,Aston Villa,Everton,Villa Park,1,0,team_a,True,completed,90,51.1,48.9,18,13
+EPL-2024-1940,2024-25,2024-12-16 12:00:00,West Ham,Tottenham,London Stadium,2,1,team_a,True,completed,90,48.3,51.7,16,12
+EPL-2024-1941,2024-25,2024-12-21 20:00:00,Everton,Nottm Forest,Goodison Park,3,1,team_a,True,completed,90,43.4,56.6,16,6
+EPL-2024-1942,2024-25,2024-12-23 12:00:00,Manchester United,Wolves,Old Trafford,0,5,team_b,True,completed,90,52.9,47.1,19,10
+EPL-2024-1943,2024-25,2024-12-23 15:00:00,Crystal Palace,Wolves,Selhurst Park,1,1,draw,True,completed,90,42.6,57.4,11,6
+EPL-2024-1944,2024-25,2024-12-23 17:00:00,Manchester United,Tottenham,Old Trafford,1,2,team_b,True,completed,90,50.4,49.6,11,13
+EPL-2024-1945,2024-25,2024-12-22 12:00:00,Fulham,West Ham,Craven Cottage,0,0,draw,True,completed,90,48.6,51.4,16,8
+EPL-2024-1946,2024-25,2024-12-21 17:00:00,Aston Villa,West Ham,Villa Park,2,1,team_a,True,completed,90,58.3,41.7,20,14
+EPL-2024-1947,2024-25,2024-12-21 20:00:00,Manchester United,Leicester,Old Trafford,1,1,draw,True,completed,90,59.0,41.0,16,5
+EPL-2024-1948,2024-25,2024-12-21 17:00:00,Nottm Forest,Wolves,City Ground,0,0,draw,True,completed,90,42.9,57.1,14,7
+EPL-2024-1949,2024-25,2024-12-22 12:00:00,Wolves,West Ham,Molineux Stadium,2,0,team_a,True,completed,90,47.5,52.5,11,7
+EPL-2024-1950,2024-25,2024-12-23 17:00:00,Leicester,Bournemouth,King Power Stadium,1,0,team_a,True,completed,90,46.0,54.0,14,15
+EPL-2024-1951,2024-25,2024-12-28 15:00:00,Arsenal,Brighton,Emirates Stadium,2,0,team_a,True,completed,90,64.3,35.7,14,17
+EPL-2024-1952,2024-25,2024-12-28 20:00:00,Ipswich,Manchester City,Portman Road,1,0,team_a,True,completed,90,48.7,51.3,16,15
+EPL-2024-1953,2024-25,2024-12-29 17:00:00,Everton,Southampton,Goodison Park,1,1,draw,True,completed,90,41.1,58.9,18,10
+EPL-2024-1954,2024-25,2024-12-28 20:00:00,Leicester,Aston Villa,King Power Stadium,2,1,team_a,True,completed,90,48.2,51.8,15,15
+EPL-2024-1955,2024-25,2024-12-28 15:00:00,Southampton,Arsenal,St. Mary's Stadium,4,0,team_a,True,completed,90,58.5,41.5,11,10
+EPL-2024-1956,2024-25,2024-12-28 12:00:00,Ipswich,Newcastle,Portman Road,0,1,team_b,True,completed,90,45.6,54.4,8,11
+EPL-2024-1957,2024-25,2024-12-30 20:00:00,West Ham,Nottm Forest,London Stadium,2,2,draw,True,completed,90,46.0,54.0,14,10
+EPL-2024-1958,2024-25,2024-12-30 15:00:00,Chelsea,Arsenal,Stamford Bridge,2,1,team_a,True,completed,90,54.1,45.9,15,14
+EPL-2024-1959,2024-25,2024-12-29 12:00:00,Bournemouth,Everton,Vitality Stadium,3,1,team_a,True,completed,90,46.7,53.3,18,14
+EPL-2024-1960,2024-25,2024-12-29 12:00:00,Bournemouth,Wolves,Vitality Stadium,1,2,team_b,True,completed,90,44.4,55.6,15,11
+EPL-2024-1961,2024-25,2025-01-05 12:00:00,Arsenal,Wolves,Emirates Stadium,4,5,team_b,True,completed,90,67.0,33.0,16,11
+EPL-2024-1962,2024-25,2025-01-05 20:00:00,Everton,Brentford,Goodison Park,1,1,draw,True,completed,90,49.0,51.0,9,8
+EPL-2024-1963,2024-25,2025-01-05 15:00:00,Crystal Palace,Everton,Selhurst Park,2,1,team_a,True,completed,90,49.5,50.5,17,11
+EPL-2024-1964,2024-25,2025-01-05 20:00:00,Brentford,Brighton,Gtech Community Stadium,2,0,team_a,True,completed,90,54.1,45.9,9,17
+EPL-2024-1965,2024-25,2025-01-05 17:00:00,Everton,Bournemouth,Goodison Park,2,3,team_b,True,completed,90,44.7,55.3,9,10
+EPL-2024-1966,2024-25,2025-01-06 17:00:00,Bournemouth,Manchester City,Vitality Stadium,4,1,team_a,True,completed,90,52.6,47.4,15,12
+EPL-2024-1967,2024-25,2025-01-04 17:00:00,Brighton,Crystal Palace,Amex Stadium,1,0,team_a,True,completed,90,66.1,33.9,17,12
+EPL-2024-1968,2024-25,2025-01-06 15:00:00,Manchester City,Liverpool,Etihad Stadium,5,6,team_b,True,completed,90,68.9,31.1,20,14
+EPL-2024-1969,2024-25,2025-01-06 12:00:00,Liverpool,Crystal Palace,Anfield,1,1,draw,True,completed,90,69.4,30.6,19,11
+EPL-2024-1970,2024-25,2025-01-06 12:00:00,Crystal Palace,Brighton,Selhurst Park,2,1,team_a,True,completed,90,45.3,54.7,10,16
+EPL-2024-1971,2024-25,2025-01-11 17:00:00,Chelsea,Bournemouth,Stamford Bridge,3,2,team_a,True,completed,90,59.4,40.6,16,10
+EPL-2024-1972,2024-25,2025-01-13 17:00:00,Manchester United,Newcastle,Old Trafford,1,2,team_b,True,completed,90,52.1,47.9,16,8
+EPL-2024-1973,2024-25,2025-01-11 12:00:00,West Ham,Arsenal,London Stadium,1,0,team_a,True,completed,90,46.3,53.7,9,17
+EPL-2024-1974,2024-25,2025-01-13 15:00:00,Aston Villa,Nottm Forest,Villa Park,3,2,team_a,True,completed,90,53.3,46.7,18,13
+EPL-2024-1975,2024-25,2025-01-12 17:00:00,Ipswich,Southampton,Portman Road,2,0,team_a,True,completed,90,41.7,58.3,8,13
+EPL-2024-1976,2024-25,2025-01-13 15:00:00,Aston Villa,Liverpool,Villa Park,2,3,team_b,True,completed,90,53.5,46.5,11,19
+EPL-2024-1977,2024-25,2025-01-12 12:00:00,Wolves,Aston Villa,Molineux Stadium,4,2,team_a,True,completed,90,44.0,56.0,9,9
+EPL-2024-1978,2024-25,2025-01-12 20:00:00,Newcastle,Brighton,St. James' Park,4,1,team_a,True,completed,90,59.7,40.3,12,17
+EPL-2024-1979,2024-25,2025-01-13 17:00:00,Ipswich,Aston Villa,Portman Road,0,1,team_b,True,completed,90,40.3,59.7,11,11
+EPL-2024-1980,2024-25,2025-01-12 15:00:00,Arsenal,Nottm Forest,Emirates Stadium,1,2,team_b,True,completed,90,59.3,40.7,17,13
+EPL-2024-1981,2024-25,2025-01-19 20:00:00,Leicester,West Ham,King Power Stadium,1,2,team_b,True,completed,90,50.1,49.9,12,8
+EPL-2024-1982,2024-25,2025-01-18 17:00:00,Arsenal,Manchester United,Emirates Stadium,2,1,team_a,True,completed,90,58.4,41.6,22,16
+EPL-2024-1983,2024-25,2025-01-20 12:00:00,Manchester United,Brentford,Old Trafford,1,2,team_b,True,completed,90,52.5,47.5,16,14
+EPL-2024-1984,2024-25,2025-01-19 17:00:00,Wolves,Bournemouth,Molineux Stadium,0,2,team_b,True,completed,90,45.7,54.3,13,10
+EPL-2024-1985,2024-25,2025-01-18 12:00:00,Ipswich,Brentford,Portman Road,0,1,team_b,True,completed,90,43.7,56.3,12,14
+EPL-2024-1986,2024-25,2025-01-19 12:00:00,Bournemouth,Tottenham,Vitality Stadium,0,0,draw,True,completed,90,44.6,55.4,17,9
+EPL-2024-1987,2024-25,2025-01-18 20:00:00,Brighton,Ipswich,Amex Stadium,1,0,team_a,True,completed,90,56.6,43.4,18,10
+EPL-2024-1988,2024-25,2025-01-18 20:00:00,Wolves,Newcastle,Molineux Stadium,2,1,team_a,True,completed,90,51.4,48.6,13,13
+EPL-2024-1989,2024-25,2025-01-18 12:00:00,Manchester United,Southampton,Old Trafford,0,0,draw,True,completed,90,61.7,38.3,18,7
+EPL-2024-1990,2024-25,2025-01-18 20:00:00,Southampton,Nottm Forest,St. Mary's Stadium,1,0,team_a,True,completed,90,51.2,48.8,12,12
+EPL-2024-1991,2024-25,2025-01-26 15:00:00,Chelsea,Liverpool,Stamford Bridge,3,0,team_a,True,completed,90,65.4,34.6,14,16
+EPL-2024-1992,2024-25,2025-01-26 20:00:00,Bournemouth,Newcastle,Vitality Stadium,3,0,team_a,True,completed,90,45.2,54.8,15,13
+EPL-2024-1993,2024-25,2025-01-26 20:00:00,Bournemouth,Fulham,Vitality Stadium,0,0,draw,True,completed,90,43.4,56.6,17,8
+EPL-2024-1994,2024-25,2025-01-26 20:00:00,Newcastle,Bournemouth,St. James' Park,0,5,team_b,True,completed,90,54.5,45.5,13,11
+EPL-2024-1995,2024-25,2025-01-26 15:00:00,Bournemouth,Nottm Forest,Vitality Stadium,1,1,draw,True,completed,90,49.1,50.9,16,6
+EPL-2024-1996,2024-25,2025-01-26 12:00:00,Nottm Forest,Brentford,City Ground,1,0,team_a,True,completed,90,48.5,51.5,16,13
+EPL-2024-1997,2024-25,2025-01-26 20:00:00,Chelsea,Brentford,Stamford Bridge,1,2,team_b,True,completed,90,56.9,43.1,15,14
+EPL-2024-1998,2024-25,2025-01-25 20:00:00,Everton,Fulham,Goodison Park,1,1,draw,True,completed,90,42.6,57.4,14,10
+EPL-2024-1999,2024-25,2025-01-27 20:00:00,Brighton,Manchester United,Amex Stadium,2,0,team_a,True,completed,90,65.4,34.6,18,13
+EPL-2024-2000,2024-25,2025-01-27 15:00:00,Nottm Forest,Manchester United,City Ground,3,3,draw,True,completed,90,41.1,58.9,9,15
+EPL-2024-2001,2024-25,2025-02-01 20:00:00,Crystal Palace,Brentford,Selhurst Park,2,3,team_b,True,completed,90,45.9,54.1,10,13
+EPL-2024-2002,2024-25,2025-02-01 17:00:00,Tottenham,Ipswich,Tottenham Hotspur Stadium,0,0,draw,True,completed,90,66.5,33.5,13,5
+EPL-2024-2003,2024-25,2025-02-03 20:00:00,Nottm Forest,Crystal Palace,City Ground,0,3,team_b,True,completed,90,42.9,57.1,8,7
+EPL-2024-2004,2024-25,2025-02-01 15:00:00,Manchester United,Manchester City,Old Trafford,3,1,team_a,True,completed,90,60.6,39.4,11,13
+EPL-2024-2005,2024-25,2025-02-03 15:00:00,Brentford,Tottenham,Gtech Community Stadium,1,0,team_a,True,completed,90,48.4,51.6,13,15
+EPL-2024-2006,2024-25,2025-02-03 20:00:00,West Ham,Brentford,London Stadium,1,0,team_a,True,completed,90,43.3,56.7,14,10
+EPL-2024-2007,2024-25,2025-02-03 17:00:00,Brighton,Liverpool,Amex Stadium,2,1,team_a,True,completed,90,67.0,33.0,18,17
+EPL-2024-2008,2024-25,2025-02-01 12:00:00,Ipswich,Fulham,Portman Road,0,0,draw,True,completed,90,47.3,52.7,15,13
+EPL-2024-2009,2024-25,2025-02-01 17:00:00,Ipswich,Wolves,Portman Road,2,2,draw,True,completed,90,40.7,59.3,15,6
+EPL-2024-2010,2024-25,2025-02-01 17:00:00,Brentford,Leicester,Gtech Community Stadium,1,3,team_b,True,completed,90,44.3,55.7,13,5
+EPL-2024-2011,2024-25,2025-02-08 20:00:00,Manchester City,Arsenal,Etihad Stadium,7,2,team_a,True,completed,90,70.4,29.6,20,15
+EPL-2024-2012,2024-25,2025-02-10 20:00:00,Crystal Palace,Liverpool,Selhurst Park,1,3,team_b,True,completed,90,46.9,53.1,15,20
+EPL-2024-2013,2024-25,2025-02-08 15:00:00,Manchester United,Chelsea,Old Trafford,4,0,team_a,True,completed,90,55.7,44.3,14,17
+EPL-2024-2014,2024-25,2025-02-09 17:00:00,West Ham,Liverpool,London Stadium,2,2,draw,True,completed,90,51.1,48.9,11,16
+EPL-2024-2015,2024-25,2025-02-10 15:00:00,Wolves,Liverpool,Molineux Stadium,2,0,team_a,True,completed,90,45.6,54.4,10,12
+EPL-2024-2016,2024-25,2025-02-08 20:00:00,Aston Villa,Bournemouth,Villa Park,2,1,team_a,True,completed,90,58.9,41.1,13,8
+EPL-2024-2017,2024-25,2025-02-08 20:00:00,Brentford,Arsenal,Gtech Community Stadium,0,2,team_b,True,completed,90,53.3,46.7,18,16
+EPL-2024-2018,2024-25,2025-02-10 15:00:00,Liverpool,Bournemouth,Anfield,4,1,team_a,True,completed,90,64.5,35.5,21,15
+EPL-2024-2019,2024-25,2025-02-09 20:00:00,Leicester,Manchester City,King Power Stadium,2,2,draw,True,completed,90,46.3,53.7,10,17
+EPL-2024-2020,2024-25,2025-02-10 12:00:00,Fulham,Bournemouth,Craven Cottage,3,2,team_a,True,completed,90,54.9,45.1,13,15
+EPL-2024-2021,2024-25,2025-02-16 20:00:00,Arsenal,Manchester City,Emirates Stadium,6,1,team_a,True,completed,90,68.1,31.9,22,16
+EPL-2024-2022,2024-25,2025-02-15 12:00:00,Wolves,Nottm Forest,Molineux Stadium,2,2,draw,True,completed,90,50.8,49.2,14,6
+EPL-2024-2023,2024-25,2025-02-17 20:00:00,Tottenham,Brentford,Tottenham Hotspur Stadium,3,1,team_a,True,completed,90,66.5,33.5,13,8
+EPL-2024-2024,2024-25,2025-02-17 17:00:00,Liverpool,Wolves,Anfield,1,1,draw,True,completed,90,64.6,35.4,16,14
+EPL-2024-2025,2024-25,2025-02-17 12:00:00,Leicester,Chelsea,King Power Stadium,1,0,team_a,True,completed,90,44.9,55.1,9,17
+EPL-2024-2026,2024-25,2025-02-17 17:00:00,Crystal Palace,Chelsea,Selhurst Park,2,2,draw,True,completed,90,49.4,50.6,14,17
+EPL-2024-2027,2024-25,2025-02-15 20:00:00,Fulham,Crystal Palace,Craven Cottage,4,0,team_a,True,completed,90,53.4,46.6,17,11
+EPL-2024-2028,2024-25,2025-02-16 17:00:00,Everton,Arsenal,Goodison Park,2,0,team_a,True,completed,90,49.5,50.5,13,14
+EPL-2024-2029,2024-25,2025-02-15 12:00:00,Chelsea,Brighton,Stamford Bridge,0,1,team_b,True,completed,90,62.3,37.7,21,13
+EPL-2024-2030,2024-25,2025-02-17 17:00:00,Manchester City,Brighton,Etihad Stadium,3,1,team_a,True,completed,90,62.7,37.3,21,11
+EPL-2024-2031,2024-25,2025-02-24 12:00:00,Liverpool,Southampton,Anfield,4,1,team_a,True,completed,90,66.9,33.1,19,5
+EPL-2024-2032,2024-25,2025-02-23 20:00:00,Aston Villa,Crystal Palace,Villa Park,5,1,team_a,True,completed,90,52.0,48.0,19,7
+EPL-2024-2033,2024-25,2025-02-23 17:00:00,Bournemouth,Manchester United,Vitality Stadium,1,1,draw,True,completed,90,44.6,55.4,14,12
+EPL-2024-2034,2024-25,2025-02-23 12:00:00,Southampton,Fulham,St. Mary's Stadium,0,0,draw,True,completed,90,58.9,41.1,17,9
+EPL-2024-2035,2024-25,2025-02-24 15:00:00,Nottm Forest,Ipswich,City Ground,1,1,draw,True,completed,90,46.9,53.1,13,6
+EPL-2024-2036,2024-25,2025-02-23 15:00:00,Arsenal,Leicester,Emirates Stadium,1,1,draw,True,completed,90,62.8,37.2,21,5
+EPL-2024-2037,2024-25,2025-02-23 12:00:00,Ipswich,Crystal Palace,Portman Road,1,0,team_a,True,completed,90,51.6,48.4,16,8
+EPL-2024-2038,2024-25,2025-02-23 20:00:00,Brighton,Tottenham,Amex Stadium,5,2,team_a,True,completed,90,65.2,34.8,15,16
+EPL-2024-2039,2024-25,2025-02-24 15:00:00,Brentford,Fulham,Gtech Community Stadium,0,2,team_b,True,completed,90,45.5,54.5,14,7
+EPL-2024-2040,2024-25,2025-02-24 17:00:00,Manchester United,Liverpool,Old Trafford,3,2,team_a,True,completed,90,59.1,40.9,12,12
+EPL-2024-2041,2024-25,2025-03-01 20:00:00,Fulham,Brentford,Craven Cottage,1,0,team_a,True,completed,90,52.8,47.2,14,13
+EPL-2024-2042,2024-25,2025-03-03 15:00:00,Tottenham,Southampton,Tottenham Hotspur Stadium,4,1,team_a,True,completed,90,59.6,40.4,18,12
+EPL-2024-2043,2024-25,2025-03-02 15:00:00,Aston Villa,Leicester,Villa Park,3,1,team_a,True,completed,90,57.4,42.6,17,5
+EPL-2024-2044,2024-25,2025-03-02 20:00:00,Nottm Forest,West Ham,City Ground,1,1,draw,True,completed,90,43.6,56.4,13,14
+EPL-2024-2045,2024-25,2025-03-03 12:00:00,Chelsea,Southampton,Stamford Bridge,3,1,team_a,True,completed,90,55.2,44.8,20,10
+EPL-2024-2046,2024-25,2025-03-02 17:00:00,Tottenham,Wolves,Tottenham Hotspur Stadium,1,0,team_a,True,completed,90,59.0,41.0,16,7
+EPL-2024-2047,2024-25,2025-03-02 20:00:00,Nottm Forest,Everton,City Ground,0,1,team_b,True,completed,90,44.5,55.5,11,9
+EPL-2024-2048,2024-25,2025-03-03 17:00:00,Wolves,Everton,Molineux Stadium,4,2,team_a,True,completed,90,52.1,47.9,11,11
+EPL-2024-2049,2024-25,2025-03-03 12:00:00,Wolves,Arsenal,Molineux Stadium,2,1,team_a,True,completed,90,52.1,47.9,10,10
+EPL-2024-2050,2024-25,2025-03-02 12:00:00,Chelsea,Nottm Forest,Stamford Bridge,4,0,team_a,True,completed,90,60.3,39.7,19,10
+EPL-2024-2051,2024-25,2025-03-08 17:00:00,Liverpool,Newcastle,Anfield,6,1,team_a,True,completed,90,62.0,38.0,15,8
+EPL-2024-2052,2024-25,2025-03-10 12:00:00,Manchester United,Fulham,Old Trafford,0,1,team_b,True,completed,90,50.7,49.3,20,10
+EPL-2024-2053,2024-25,2025-03-10 12:00:00,Manchester City,Bournemouth,Etihad Stadium,2,1,team_a,True,completed,90,70.5,29.5,15,8
+EPL-2024-2054,2024-25,2025-03-10 15:00:00,Brentford,Aston Villa,Gtech Community Stadium,3,1,team_a,True,completed,90,47.5,52.5,18,10
+EPL-2024-2055,2024-25,2025-03-08 15:00:00,Southampton,Aston Villa,St. Mary's Stadium,3,1,team_a,True,completed,90,53.0,47.0,15,9
+EPL-2024-2056,2024-25,2025-03-10 20:00:00,Southampton,Tottenham,St. Mary's Stadium,2,1,team_a,True,completed,90,61.1,38.9,12,15
+EPL-2024-2057,2024-25,2025-03-10 17:00:00,Tottenham,Leicester,Tottenham Hotspur Stadium,2,0,team_a,True,completed,90,58.1,41.9,13,9
+EPL-2024-2058,2024-25,2025-03-08 20:00:00,Newcastle,Ipswich,St. James' Park,1,0,team_a,True,completed,90,53.7,46.3,11,8
+EPL-2024-2059,2024-25,2025-03-09 15:00:00,Tottenham,Bournemouth,Tottenham Hotspur Stadium,2,0,team_a,True,completed,90,60.3,39.7,19,10
+EPL-2024-2060,2024-25,2025-03-10 20:00:00,Arsenal,Bournemouth,Emirates Stadium,1,1,draw,True,completed,90,59.1,40.9,20,8
+EPL-2024-2061,2024-25,2025-03-15 20:00:00,Aston Villa,Ipswich,Villa Park,1,0,team_a,True,completed,90,53.6,46.4,12,11
+EPL-2024-2062,2024-25,2025-03-17 17:00:00,Nottm Forest,Aston Villa,City Ground,4,0,team_a,True,completed,90,40.2,59.8,9,9
+EPL-2024-2063,2024-25,2025-03-17 17:00:00,Ipswich,Brighton,Portman Road,1,1,draw,True,completed,90,49.3,50.7,7,16
+EPL-2024-2064,2024-25,2025-03-15 12:00:00,Fulham,Nottm Forest,Craven Cottage,3,0,team_a,True,completed,90,59.2,40.8,16,9
+EPL-2024-2065,2024-25,2025-03-15 17:00:00,Aston Villa,Wolves,Villa Park,0,1,team_b,True,completed,90,61.9,38.1,20,6
+EPL-2024-2066,2024-25,2025-03-17 20:00:00,Nottm Forest,Brighton,City Ground,1,2,team_b,True,completed,90,44.7,55.3,14,10
+EPL-2024-2067,2024-25,2025-03-17 15:00:00,Brentford,Ipswich,Gtech Community Stadium,1,0,team_a,True,completed,90,43.0,57.0,16,5
+EPL-2024-2068,2024-25,2025-03-17 17:00:00,Brentford,West Ham,Gtech Community Stadium,3,1,team_a,True,completed,90,47.0,53.0,13,12
+EPL-2024-2069,2024-25,2025-03-15 12:00:00,Aston Villa,Brighton,Villa Park,3,1,team_a,True,completed,90,55.4,44.6,16,10
+EPL-2024-2070,2024-25,2025-03-16 17:00:00,Arsenal,Tottenham,Emirates Stadium,4,1,team_a,True,completed,90,64.8,35.2,15,17
+EPL-2024-2071,2024-25,2025-03-22 20:00:00,Newcastle,Crystal Palace,St. James' Park,2,0,team_a,True,completed,90,56.9,43.1,15,12
+EPL-2024-2072,2024-25,2025-03-22 17:00:00,Manchester City,Wolves,Etihad Stadium,2,1,team_a,True,completed,90,67.8,32.2,21,9
+EPL-2024-2073,2024-25,2025-03-22 12:00:00,Crystal Palace,Arsenal,Selhurst Park,3,3,draw,True,completed,90,44.3,55.7,18,13
+EPL-2024-2074,2024-25,2025-03-23 20:00:00,Tottenham,Manchester United,Tottenham Hotspur Stadium,5,0,team_a,True,completed,90,55.8,44.2,20,12
+EPL-2024-2075,2024-25,2025-03-23 20:00:00,Brentford,Southampton,Gtech Community Stadium,1,0,team_a,True,completed,90,54.6,45.4,9,5
+EPL-2024-2076,2024-25,2025-03-23 12:00:00,Chelsea,Fulham,Stamford Bridge,2,2,draw,True,completed,90,58.1,41.9,12,13
+EPL-2024-2077,2024-25,2025-03-22 15:00:00,Nottm Forest,Fulham,City Ground,0,0,draw,True,completed,90,48.7,51.3,16,14
+EPL-2024-2078,2024-25,2025-03-24 15:00:00,Wolves,Southampton,Molineux Stadium,2,0,team_a,True,completed,90,52.9,47.1,12,6
+EPL-2024-2079,2024-25,2025-03-22 15:00:00,Leicester,Ipswich,King Power Stadium,3,0,team_a,True,completed,90,47.9,52.1,8,11
+EPL-2024-2080,2024-25,2025-03-24 12:00:00,Aston Villa,Arsenal,Villa Park,1,1,draw,True,completed,90,53.9,46.1,13,10
+EPL-2024-2081,2024-25,2025-03-29 12:00:00,West Ham,Southampton,London Stadium,0,0,draw,True,completed,90,51.9,48.1,10,12
+EPL-2024-2082,2024-25,2025-03-31 15:00:00,Crystal Palace,Aston Villa,Selhurst Park,4,1,team_a,True,completed,90,52.0,48.0,10,9
+EPL-2024-2083,2024-25,2025-03-29 20:00:00,Southampton,Bournemouth,St. Mary's Stadium,1,1,draw,True,completed,90,57.1,42.9,17,10
+EPL-2024-2084,2024-25,2025-03-29 15:00:00,Aston Villa,Tottenham,Villa Park,2,5,team_b,True,completed,90,56.1,43.9,17,14
+EPL-2024-2085,2024-25,2025-03-29 15:00:00,Nottm Forest,Tottenham,City Ground,3,3,draw,True,completed,90,42.9,57.1,11,9
+EPL-2024-2086,2024-25,2025-03-31 15:00:00,Brighton,Brentford,Amex Stadium,0,1,team_b,True,completed,90,60.0,40.0,13,10
+EPL-2024-2087,2024-25,2025-03-29 20:00:00,Tottenham,Chelsea,Tottenham Hotspur Stadium,2,1,team_a,True,completed,90,57.0,43.0,17,17
+EPL-2024-2088,2024-25,2025-03-29 20:00:00,Chelsea,Manchester City,Stamford Bridge,4,3,team_a,True,completed,90,56.9,43.1,21,11
+EPL-2024-2089,2024-25,2025-03-29 12:00:00,Tottenham,Manchester City,Tottenham Hotspur Stadium,5,1,team_a,True,completed,90,64.5,35.5,21,17
+EPL-2024-2090,2024-25,2025-03-29 12:00:00,Chelsea,Everton,Stamford Bridge,4,0,team_a,True,completed,90,64.6,35.4,13,6
+EPL-2024-2091,2024-25,2025-04-05 15:00:00,Manchester United,Crystal Palace,Old Trafford,2,1,team_a,True,completed,90,61.1,38.9,20,10
+EPL-2024-2092,2024-25,2025-04-06 20:00:00,Leicester,Newcastle,King Power Stadium,2,0,team_a,True,completed,90,50.3,49.7,11,10
+EPL-2024-2093,2024-25,2025-04-07 17:00:00,Fulham,Leicester,Craven Cottage,0,3,team_b,True,completed,90,54.3,45.7,16,8
+EPL-2024-2094,2024-25,2025-04-05 12:00:00,Southampton,Brighton,St. Mary's Stadium,2,1,team_a,True,completed,90,57.2,42.8,15,10
+EPL-2024-2095,2024-25,2025-04-07 17:00:00,Newcastle,Aston Villa,St. James' Park,3,0,team_a,True,completed,90,53.2,46.8,11,16
+EPL-2024-2096,2024-25,2025-04-05 15:00:00,Tottenham,Brighton,Tottenham Hotspur Stadium,0,2,team_b,True,completed,90,56.4,43.6,20,10
+EPL-2024-2097,2024-25,2025-04-07 17:00:00,Crystal Palace,Leicester,Selhurst Park,0,2,team_b,True,completed,90,52.4,47.6,17,13
+EPL-2024-2098,2024-25,2025-04-05 20:00:00,Aston Villa,Brentford,Villa Park,2,0,team_a,True,completed,90,60.2,39.8,14,10
+EPL-2024-2099,2024-25,2025-04-05 15:00:00,Fulham,Brighton,Craven Cottage,4,0,team_a,True,completed,90,49.4,50.6,12,16
+EPL-2024-2100,2024-25,2025-04-06 15:00:00,Manchester City,Tottenham,Etihad Stadium,1,1,draw,True,completed,90,63.9,36.1,14,9
+EPL-2024-2101,2024-25,2025-04-14 17:00:00,Nottm Forest,Chelsea,City Ground,3,0,team_a,True,completed,90,42.4,57.6,14,13
+EPL-2024-2102,2024-25,2025-04-13 20:00:00,Wolves,Ipswich,Molineux Stadium,2,2,draw,True,completed,90,44.5,55.5,9,12
+EPL-2024-2103,2024-25,2025-04-12 15:00:00,Fulham,Liverpool,Craven Cottage,0,2,team_b,True,completed,90,57.4,42.6,17,20
+EPL-2024-2104,2024-25,2025-04-12 12:00:00,Brighton,Chelsea,Amex Stadium,3,1,team_a,True,completed,90,66.7,33.3,19,14
+EPL-2024-2105,2024-25,2025-04-13 15:00:00,Brighton,Bournemouth,Amex Stadium,1,0,team_a,True,completed,90,65.0,35.0,17,10
+EPL-2024-2106,2024-25,2025-04-12 17:00:00,Bournemouth,Southampton,Vitality Stadium,2,0,team_a,True,completed,90,45.7,54.3,13,11
+EPL-2024-2107,2024-25,2025-04-12 20:00:00,Southampton,West Ham,St. Mary's Stadium,3,1,team_a,True,completed,90,60.7,39.3,9,13
+EPL-2024-2108,2024-25,2025-04-14 20:00:00,Newcastle,Manchester City,St. James' Park,4,3,team_a,True,completed,90,49.7,50.3,17,13
+EPL-2024-2109,2024-25,2025-04-12 20:00:00,Southampton,Brentford,St. Mary's Stadium,0,0,draw,True,completed,90,52.1,47.9,13,8
+EPL-2024-2110,2024-25,2025-04-13 15:00:00,Newcastle,Brentford,St. James' Park,1,1,draw,True,completed,90,56.6,43.4,15,9
+EPL-2024-2111,2024-25,2025-04-20 15:00:00,Fulham,Southampton,Craven Cottage,1,2,team_b,True,completed,90,48.4,51.6,19,5
+EPL-2024-2112,2024-25,2025-04-20 15:00:00,Liverpool,Arsenal,Anfield,6,0,team_a,True,completed,90,60.3,39.7,22,17
+EPL-2024-2113,2024-25,2025-04-20 15:00:00,Southampton,Everton,St. Mary's Stadium,0,0,draw,True,completed,90,59.1,40.9,11,10
+EPL-2024-2114,2024-25,2025-04-21 15:00:00,Brentford,Nottm Forest,Gtech Community Stadium,2,0,team_a,True,completed,90,52.5,47.5,18,7
+EPL-2024-2115,2024-25,2025-04-21 15:00:00,Brighton,Leicester,Amex Stadium,1,0,team_a,True,completed,90,57.0,43.0,20,12
+EPL-2024-2116,2024-25,2025-04-19 20:00:00,Bournemouth,Aston Villa,Vitality Stadium,2,1,team_a,True,completed,90,53.0,47.0,14,8
+EPL-2024-2117,2024-25,2025-04-21 20:00:00,Leicester,Crystal Palace,King Power Stadium,3,0,team_a,True,completed,90,50.8,49.2,11,9
+EPL-2024-2118,2024-25,2025-04-20 20:00:00,Bournemouth,Liverpool,Vitality Stadium,0,3,team_b,True,completed,90,50.0,50.0,19,14
+EPL-2024-2119,2024-25,2025-04-21 12:00:00,Tottenham,Everton,Tottenham Hotspur Stadium,3,3,draw,True,completed,90,60.0,40.0,12,6
+EPL-2024-2120,2024-25,2025-04-20 12:00:00,Brentford,Newcastle,Gtech Community Stadium,1,2,team_b,True,completed,90,48.1,51.9,15,15
+EPL-2024-2121,2024-25,2025-04-28 12:00:00,Everton,Wolves,Goodison Park,1,1,draw,True,completed,90,43.4,56.6,12,7
+EPL-2024-2122,2024-25,2025-04-28 12:00:00,Brentford,Crystal Palace,Gtech Community Stadium,3,2,team_a,True,completed,90,51.3,48.7,15,9
+EPL-2024-2123,2024-25,2025-04-26 17:00:00,Manchester United,Arsenal,Old Trafford,1,3,team_b,True,completed,90,53.5,46.5,12,10
+EPL-2024-2124,2024-25,2025-04-27 17:00:00,Manchester United,West Ham,Old Trafford,1,1,draw,True,completed,90,51.9,48.1,18,6
+EPL-2024-2125,2024-25,2025-04-27 20:00:00,Leicester,Arsenal,King Power Stadium,2,2,draw,True,completed,90,51.3,48.7,14,12
+EPL-2024-2126,2024-25,2025-04-27 20:00:00,Everton,Manchester City,Goodison Park,1,4,team_b,True,completed,90,46.4,53.6,9,12
+EPL-2024-2127,2024-25,2025-04-27 17:00:00,Southampton,Ipswich,St. Mary's Stadium,0,3,team_b,True,completed,90,56.4,43.6,12,10
+EPL-2024-2128,2024-25,2025-04-27 15:00:00,Liverpool,Brentford,Anfield,4,1,team_a,True,completed,90,68.5,31.5,16,11
+EPL-2024-2129,2024-25,2025-04-28 12:00:00,West Ham,Everton,London Stadium,2,0,team_a,True,completed,90,47.2,52.8,14,6
+EPL-2024-2130,2024-25,2025-04-26 20:00:00,Leicester,Brighton,King Power Stadium,2,1,team_a,True,completed,90,46.4,53.6,17,9
+EPL-2024-2131,2024-25,2025-05-04 17:00:00,Arsenal,Liverpool,Emirates Stadium,3,0,team_a,True,completed,90,59.1,40.9,21,13
+EPL-2024-2132,2024-25,2025-05-05 15:00:00,Arsenal,Chelsea,Emirates Stadium,3,4,team_b,True,completed,90,58.7,41.3,18,12
+EPL-2024-2133,2024-25,2025-05-05 12:00:00,Wolves,Tottenham,Molineux Stadium,2,1,team_a,True,completed,90,51.8,48.2,18,12
+EPL-2024-2134,2024-25,2025-05-05 15:00:00,Wolves,Fulham,Molineux Stadium,3,3,draw,True,completed,90,47.8,52.2,13,15
+EPL-2024-2135,2024-25,2025-05-05 20:00:00,Bournemouth,West Ham,Vitality Stadium,2,0,team_a,True,completed,90,46.3,53.7,11,11
+EPL-2024-2136,2024-25,2025-05-04 20:00:00,Brighton,Everton,Amex Stadium,0,0,draw,True,completed,90,61.8,38.2,20,7
+EPL-2024-2137,2024-25,2025-05-04 17:00:00,Fulham,Ipswich,Craven Cottage,1,0,team_a,True,completed,90,53.4,46.6,15,5
+EPL-2024-2138,2024-25,2025-05-03 20:00:00,Chelsea,Crystal Palace,Stamford Bridge,3,3,draw,True,completed,90,55.0,45.0,18,8
+EPL-2024-2139,2024-25,2025-05-04 12:00:00,Southampton,Manchester City,St. Mary's Stadium,1,0,team_a,True,completed,90,51.3,48.7,12,12
+EPL-2024-2140,2024-25,2025-05-05 15:00:00,Arsenal,Aston Villa,Emirates Stadium,0,3,team_b,True,completed,90,63.0,37.0,16,16
+EPL-2025-2141,2025-26,2025-08-16 20:00:00,Newcastle,Crystal Palace,St. James' Park,3,0,team_a,True,completed,90,57.6,42.4,13,10
+EPL-2025-2142,2025-26,2025-08-17 15:00:00,Brentford,Aston Villa,Gtech Community Stadium,2,0,team_a,True,completed,90,53.0,47.0,8,10
+EPL-2025-2143,2025-26,2025-08-16 20:00:00,Bournemouth,Liverpool,Vitality Stadium,3,3,draw,True,completed,90,52.5,47.5,16,18
+EPL-2025-2144,2025-26,2025-08-18 20:00:00,Arsenal,Brentford,Emirates Stadium,2,3,team_b,True,completed,90,59.9,40.1,13,9
+EPL-2025-2145,2025-26,2025-08-17 17:00:00,Liverpool,Crystal Palace,Anfield,6,1,team_a,True,completed,90,64.2,35.8,17,13
+EPL-2025-2146,2025-26,2025-08-16 17:00:00,Aston Villa,Manchester United,Villa Park,5,0,team_a,True,completed,90,53.2,46.8,11,11
+EPL-2025-2147,2025-26,2025-08-17 17:00:00,Fulham,Manchester United,Craven Cottage,1,1,draw,True,completed,90,56.0,44.0,9,10
+EPL-2025-2148,2025-26,2025-08-17 17:00:00,Aston Villa,Tottenham,Villa Park,2,3,team_b,True,completed,90,53.2,46.8,14,17
+EPL-2025-2149,2025-26,2025-08-18 20:00:00,Brighton,Brentford,Amex Stadium,1,2,team_b,True,completed,90,60.1,39.9,18,10
+EPL-2025-2150,2025-26,2025-08-18 17:00:00,Newcastle,Ipswich,St. James' Park,1,1,draw,True,completed,90,52.9,47.1,16,8
+EPL-2025-2151,2025-26,2025-08-23 17:00:00,Tottenham,Crystal Palace,Tottenham Hotspur Stadium,3,2,team_a,True,completed,90,65.4,34.6,16,9
+EPL-2025-2152,2025-26,2025-08-23 20:00:00,Aston Villa,Brighton,Villa Park,0,1,team_b,True,completed,90,56.9,43.1,11,16
+EPL-2025-2153,2025-26,2025-08-24 20:00:00,Brighton,Leicester,Amex Stadium,3,0,team_a,True,completed,90,63.6,36.4,12,7
+EPL-2025-2154,2025-26,2025-08-23 17:00:00,Newcastle,Everton,St. James' Park,1,1,draw,True,completed,90,54.0,46.0,11,9
+EPL-2025-2155,2025-26,2025-08-23 17:00:00,Manchester City,Nottm Forest,Etihad Stadium,0,3,team_b,True,completed,90,72.8,27.2,18,9
+EPL-2025-2156,2025-26,2025-08-25 17:00:00,Arsenal,Crystal Palace,Emirates Stadium,0,2,team_b,True,completed,90,59.2,40.8,18,14
+EPL-2025-2157,2025-26,2025-08-24 20:00:00,Arsenal,West Ham,Emirates Stadium,3,1,team_a,True,completed,90,65.7,34.3,16,13
+EPL-2025-2158,2025-26,2025-08-24 17:00:00,Fulham,Leicester,Craven Cottage,2,0,team_a,True,completed,90,55.7,44.3,15,13
+EPL-2025-2159,2025-26,2025-08-25 17:00:00,Brentford,Arsenal,Gtech Community Stadium,6,3,team_a,True,completed,90,45.5,54.5,15,12
+EPL-2025-2160,2025-26,2025-08-23 17:00:00,Newcastle,Arsenal,St. James' Park,4,1,team_a,True,completed,90,54.9,45.1,13,13
+EPL-2025-2161,2025-26,2025-08-30 15:00:00,Fulham,Southampton,Craven Cottage,2,1,team_a,True,completed,90,56.4,43.6,10,13
+EPL-2025-2162,2025-26,2025-09-01 15:00:00,Bournemouth,Manchester United,Vitality Stadium,0,0,draw,True,completed,90,53.7,46.3,15,14
+EPL-2025-2163,2025-26,2025-08-30 17:00:00,Bournemouth,Arsenal,Vitality Stadium,4,2,team_a,True,completed,90,50.2,49.8,10,12
+EPL-2025-2164,2025-26,2025-09-01 20:00:00,Arsenal,Manchester United,Emirates Stadium,1,3,team_b,True,completed,90,65.7,34.3,19,12
+EPL-2025-2165,2025-26,2025-08-31 20:00:00,Leicester,Brentford,King Power Stadium,1,2,team_b,True,completed,90,48.0,52.0,11,12
+EPL-2025-2166,2025-26,2025-09-01 20:00:00,Crystal Palace,Manchester City,Selhurst Park,2,1,team_a,True,completed,90,43.2,56.8,8,18
+EPL-2025-2167,2025-26,2025-08-30 17:00:00,Nottm Forest,Aston Villa,City Ground,4,1,team_a,True,completed,90,44.5,55.5,13,16
+EPL-2025-2168,2025-26,2025-08-31 15:00:00,Newcastle,Chelsea,St. James' Park,2,3,team_b,True,completed,90,50.3,49.7,14,12
+EPL-2025-2169,2025-26,2025-08-31 17:00:00,Nottm Forest,Ipswich,City Ground,0,0,draw,True,completed,90,41.3,58.7,13,12
+EPL-2025-2170,2025-26,2025-08-30 20:00:00,Fulham,Newcastle,Craven Cottage,1,1,draw,True,completed,90,55.8,44.2,16,16
+EPL-2025-2171,2025-26,2025-09-08 15:00:00,Fulham,Nottm Forest,Craven Cottage,2,0,team_a,True,completed,90,54.1,45.9,15,10
+EPL-2025-2172,2025-26,2025-09-07 20:00:00,Leicester,Nottm Forest,King Power Stadium,1,2,team_b,True,completed,90,52.7,47.3,12,10
+EPL-2025-2173,2025-26,2025-09-07 15:00:00,Fulham,Bournemouth,Craven Cottage,2,1,team_a,True,completed,90,49.3,50.7,9,10
+EPL-2025-2174,2025-26,2025-09-07 17:00:00,Newcastle,Aston Villa,St. James' Park,2,3,team_b,True,completed,90,58.1,41.9,10,14
+EPL-2025-2175,2025-26,2025-09-07 15:00:00,Wolves,Nottm Forest,Molineux Stadium,2,1,team_a,True,completed,90,49.3,50.7,13,12
+EPL-2025-2176,2025-26,2025-09-07 15:00:00,Ipswich,Aston Villa,Portman Road,2,1,team_a,True,completed,90,47.6,52.4,9,12
+EPL-2025-2177,2025-26,2025-09-08 17:00:00,West Ham,Fulham,London Stadium,1,1,draw,True,completed,90,47.9,52.1,9,12
+EPL-2025-2178,2025-26,2025-09-06 17:00:00,Ipswich,Bournemouth,Portman Road,2,0,team_a,True,completed,90,42.7,57.3,11,8
+EPL-2025-2179,2025-26,2025-09-07 20:00:00,Bournemouth,Fulham,Vitality Stadium,2,0,team_a,True,completed,90,52.6,47.4,15,12
+EPL-2025-2180,2025-26,2025-09-06 20:00:00,West Ham,Leicester,London Stadium,1,0,team_a,True,completed,90,46.7,53.3,8,11
+EPL-2025-2181,2025-26,2025-09-14 20:00:00,Manchester United,West Ham,Old Trafford,2,1,team_a,True,completed,90,54.9,45.1,11,14
+EPL-2025-2182,2025-26,2025-09-13 20:00:00,Fulham,Liverpool,Craven Cottage,2,1,team_a,True,completed,90,55.8,44.2,14,20
+EPL-2025-2183,2025-26,2025-09-15 20:00:00,Wolves,Ipswich,Molineux Stadium,1,1,draw,True,completed,90,48.4,51.6,12,10
+EPL-2025-2184,2025-26,2025-09-14 15:00:00,Leicester,Aston Villa,King Power Stadium,2,1,team_a,True,completed,90,48.0,52.0,8,12
+EPL-2025-2185,2025-26,2025-09-14 17:00:00,Ipswich,Fulham,Portman Road,1,1,draw,True,completed,90,41.5,58.5,12,11
+EPL-2025-2186,2025-26,2025-09-15 20:00:00,Brentford,Southampton,Gtech Community Stadium,2,0,team_a,True,completed,90,53.6,46.4,9,11
+EPL-2025-2187,2025-26,2025-09-14 15:00:00,Nottm Forest,Bournemouth,City Ground,1,0,team_a,True,completed,90,45.7,54.3,14,14
+EPL-2025-2188,2025-26,2025-09-13 17:00:00,Manchester City,Newcastle,Etihad Stadium,2,5,team_b,True,completed,90,71.0,29.0,17,13
+EPL-2025-2189,2025-26,2025-09-14 20:00:00,Liverpool,Fulham,Anfield,5,0,team_a,True,completed,90,65.4,34.6,17,14
+EPL-2025-2190,2025-26,2025-09-14 17:00:00,Tottenham,Brentford,Tottenham Hotspur Stadium,0,3,team_b,True,completed,90,62.2,37.8,18,9
+EPL-2025-2191,2025-26,2025-09-20 20:00:00,Brighton,Manchester United,Amex Stadium,1,0,team_a,True,completed,90,64.0,36.0,13,16
+EPL-2025-2192,2025-26,2025-09-20 20:00:00,West Ham,Brentford,London Stadium,2,0,team_a,True,completed,90,51.6,48.4,15,11
+EPL-2025-2193,2025-26,2025-09-22 20:00:00,Ipswich,Everton,Portman Road,0,0,draw,True,completed,90,49.1,50.9,12,7
+EPL-2025-2194,2025-26,2025-09-22 15:00:00,Nottm Forest,Fulham,City Ground,3,1,team_a,True,completed,90,43.6,56.4,9,11
+EPL-2025-2195,2025-26,2025-09-20 20:00:00,Crystal Palace,West Ham,Selhurst Park,0,2,team_b,True,completed,90,49.9,50.1,12,13
+EPL-2025-2196,2025-26,2025-09-21 17:00:00,Tottenham,Brighton,Tottenham Hotspur Stadium,4,1,team_a,True,completed,90,64.6,35.4,12,13
+EPL-2025-2197,2025-26,2025-09-21 17:00:00,Liverpool,Leicester,Anfield,0,0,draw,True,completed,90,68.2,31.8,16,10
+EPL-2025-2198,2025-26,2025-09-22 20:00:00,Manchester City,Brighton,Etihad Stadium,0,2,team_b,True,completed,90,65.4,34.6,16,11
+EPL-2025-2199,2025-26,2025-09-20 15:00:00,Everton,Ipswich,Goodison Park,1,0,team_a,True,completed,90,39.3,60.7,12,12
+EPL-2025-2200,2025-26,2025-09-21 20:00:00,Southampton,Leicester,St. Mary's Stadium,0,0,draw,True,completed,90,60.9,39.1,13,6
+EPL-2025-2201,2025-26,2025-09-27 15:00:00,Leicester,Liverpool,King Power Stadium,1,2,team_b,True,completed,90,45.7,54.3,7,17
+EPL-2025-2202,2025-26,2025-09-28 20:00:00,Southampton,Aston Villa,St. Mary's Stadium,0,0,draw,True,completed,90,56.5,43.5,7,16
+EPL-2025-2203,2025-26,2025-09-27 15:00:00,Fulham,Crystal Palace,Craven Cottage,1,2,team_b,True,completed,90,57.6,42.4,10,12
+EPL-2025-2204,2025-26,2025-09-29 17:00:00,Chelsea,Nottm Forest,Stamford Bridge,1,0,team_a,True,completed,90,63.7,36.3,17,11
+EPL-2025-2205,2025-26,2025-09-29 20:00:00,Bournemouth,Brentford,Vitality Stadium,1,0,team_a,True,completed,90,52.9,47.1,15,9
+EPL-2025-2206,2025-26,2025-09-27 15:00:00,Southampton,Nottm Forest,St. Mary's Stadium,0,1,team_b,True,completed,90,56.7,43.3,8,10
+EPL-2025-2207,2025-26,2025-09-28 15:00:00,Brentford,Nottm Forest,Gtech Community Stadium,3,0,team_a,True,completed,90,46.4,53.6,9,11
+EPL-2025-2208,2025-26,2025-09-28 20:00:00,Liverpool,Ipswich,Anfield,5,0,team_a,True,completed,90,67.4,32.6,17,11
+EPL-2025-2209,2025-26,2025-09-27 15:00:00,West Ham,Manchester United,London Stadium,2,1,team_a,True,completed,90,43.1,56.9,11,13
+EPL-2025-2210,2025-26,2025-09-28 17:00:00,Wolves,Bournemouth,Molineux Stadium,2,1,team_a,True,completed,90,47.5,52.5,8,15
+EPL-2025-2211,2025-26,2025-10-06 17:00:00,Southampton,Everton,St. Mary's Stadium,1,0,team_a,True,completed,90,58.0,42.0,8,12
+EPL-2025-2212,2025-26,2025-10-06 17:00:00,Bournemouth,West Ham,Vitality Stadium,1,0,team_a,True,completed,90,48.7,51.3,12,11
+EPL-2025-2213,2025-26,2025-10-04 17:00:00,Aston Villa,Chelsea,Villa Park,3,1,team_a,True,completed,90,56.8,43.2,15,14
+EPL-2025-2214,2025-26,2025-10-04 20:00:00,Brentford,Newcastle,Gtech Community Stadium,1,1,draw,True,completed,90,53.7,46.3,8,9
+EPL-2025-2215,2025-26,2025-10-06 20:00:00,Bournemouth,Ipswich,Vitality Stadium,1,1,draw,True,completed,90,46.4,53.6,15,9
+EPL-2025-2216,2025-26,2025-10-06 20:00:00,Brentford,Manchester United,Gtech Community Stadium,5,0,team_a,True,completed,90,47.6,52.4,9,12
+EPL-2025-2217,2025-26,2025-10-05 17:00:00,Manchester City,Bournemouth,Etihad Stadium,7,4,team_a,True,completed,90,63.1,36.9,19,12
+EPL-2025-2218,2025-26,2025-10-05 15:00:00,Aston Villa,Arsenal,Villa Park,3,1,team_a,True,completed,90,61.4,38.6,13,15
+EPL-2025-2219,2025-26,2025-10-04 15:00:00,Southampton,Bournemouth,St. Mary's Stadium,0,0,draw,True,completed,90,60.2,39.8,12,14
+EPL-2025-2220,2025-26,2025-10-04 17:00:00,Leicester,Bournemouth,King Power Stadium,2,1,team_a,True,completed,90,51.7,48.3,14,15
+EPL-2025-2221,2025-26,2025-10-13 17:00:00,West Ham,Brighton,London Stadium,0,1,team_b,True,completed,90,51.3,48.7,13,16
+EPL-2025-2222,2025-26,2025-10-11 15:00:00,Chelsea,Brighton,Stamford Bridge,4,1,team_a,True,completed,90,62.0,38.0,12,15
+EPL-2025-2223,2025-26,2025-10-12 20:00:00,Brighton,Aston Villa,Amex Stadium,2,2,draw,True,completed,90,64.3,35.7,16,16
+EPL-2025-2224,2025-26,2025-10-13 15:00:00,Wolves,Crystal Palace,Molineux Stadium,1,1,draw,True,completed,90,52.6,47.4,10,14
+EPL-2025-2225,2025-26,2025-10-13 15:00:00,Everton,Wolves,Goodison Park,3,0,team_a,True,completed,90,39.0,61.0,11,11
+EPL-2025-2226,2025-26,2025-10-12 20:00:00,Southampton,Fulham,St. Mary's Stadium,2,1,team_a,True,completed,90,51.8,48.2,9,11
+EPL-2025-2227,2025-26,2025-10-13 20:00:00,Southampton,Brentford,St. Mary's Stadium,0,0,draw,True,completed,90,60.7,39.3,9,13
+EPL-2025-2228,2025-26,2025-10-12 17:00:00,Leicester,Newcastle,King Power Stadium,4,0,team_a,True,completed,90,47.8,52.2,9,13
+EPL-2025-2229,2025-26,2025-10-11 20:00:00,Newcastle,Brentford,St. James' Park,3,2,team_a,True,completed,90,55.9,44.1,15,11
+EPL-2025-2230,2025-26,2025-10-11 15:00:00,Arsenal,Brighton,Emirates Stadium,2,2,draw,True,completed,90,62.1,37.9,14,16
+EPL-2025-2231,2025-26,2025-10-19 20:00:00,Manchester United,Aston Villa,Old Trafford,2,2,draw,True,completed,90,53.2,46.8,10,12
+EPL-2025-2232,2025-26,2025-10-18 17:00:00,Southampton,Liverpool,St. Mary's Stadium,2,2,draw,True,completed,90,53.0,47.0,9,13
+EPL-2025-2233,2025-26,2025-10-19 20:00:00,Liverpool,Newcastle,Anfield,1,2,team_b,True,completed,90,64.3,35.7,18,11
+EPL-2025-2234,2025-26,2025-10-18 17:00:00,Liverpool,Brentford,Anfield,1,0,team_a,True,completed,90,61.7,38.3,15,7
+EPL-2025-2235,2025-26,2025-10-20 20:00:00,Brighton,Arsenal,Amex Stadium,3,1,team_a,True,completed,90,61.4,38.6,18,18
+EPL-2025-2236,2025-26,2025-10-18 15:00:00,Nottm Forest,Arsenal,City Ground,2,1,team_a,True,completed,90,47.1,52.9,10,15
+EPL-2025-2237,2025-26,2025-10-19 20:00:00,Crystal Palace,Chelsea,Selhurst Park,3,0,team_a,True,completed,90,47.9,52.1,10,16
+EPL-2025-2238,2025-26,2025-10-18 20:00:00,Bournemouth,Tottenham,Vitality Stadium,3,1,team_a,True,completed,90,46.2,53.8,13,13
+EPL-2025-2239,2025-26,2025-10-19 15:00:00,West Ham,Newcastle,London Stadium,4,2,team_a,True,completed,90,46.1,53.9,10,9
+EPL-2025-2240,2025-26,2025-10-19 17:00:00,Bournemouth,Everton,Vitality Stadium,1,0,team_a,True,completed,90,46.4,53.6,16,10
+EPL-2025-2241,2025-26,2025-10-26 20:00:00,Manchester City,Ipswich,Etihad Stadium,2,0,team_a,True,completed,90,69.8,30.2,20,6
+EPL-2025-2242,2025-26,2025-10-25 17:00:00,West Ham,Everton,London Stadium,3,2,team_a,True,completed,90,43.3,56.7,13,13
+EPL-2025-2243,2025-26,2025-10-27 15:00:00,Newcastle,Nottm Forest,St. James' Park,0,4,team_b,True,completed,90,57.1,42.9,16,10
+EPL-2025-2244,2025-26,2025-10-25 15:00:00,Aston Villa,Wolves,Villa Park,1,0,team_a,True,completed,90,57.6,42.4,10,12
+EPL-2025-2245,2025-26,2025-10-25 17:00:00,Newcastle,Brighton,St. James' Park,4,1,team_a,True,completed,90,59.1,40.9,10,10
+EPL-2025-2246,2025-26,2025-10-26 20:00:00,Liverpool,Brighton,Anfield,5,1,team_a,True,completed,90,66.2,33.8,18,16
+EPL-2025-2247,2025-26,2025-10-27 17:00:00,Wolves,Everton,Molineux Stadium,3,1,team_a,True,completed,90,46.3,53.7,8,9
+EPL-2025-2248,2025-26,2025-10-26 15:00:00,Wolves,Fulham,Molineux Stadium,2,2,draw,True,completed,90,50.0,50.0,13,15
+EPL-2025-2249,2025-26,2025-10-25 15:00:00,Brentford,Leicester,Gtech Community Stadium,2,0,team_a,True,completed,90,47.2,52.8,14,8
+EPL-2025-2250,2025-26,2025-10-26 15:00:00,Manchester United,Newcastle,Old Trafford,4,2,team_a,True,completed,90,54.1,45.9,12,16
+EPL-2025-2251,2025-26,2025-11-02 20:00:00,Liverpool,Manchester City,Anfield,5,6,team_b,True,completed,90,63.6,36.4,20,16
+EPL-2025-2252,2025-26,2025-11-02 20:00:00,Chelsea,West Ham,Stamford Bridge,1,0,team_a,True,completed,90,63.3,36.7,15,12
+EPL-2025-2253,2025-26,2025-11-02 15:00:00,Leicester,Ipswich,King Power Stadium,1,0,team_a,True,completed,90,46.2,53.8,14,7
+EPL-2025-2254,2025-26,2025-11-03 20:00:00,Crystal Palace,Everton,Selhurst Park,1,1,draw,True,completed,90,49.4,50.6,15,7
+EPL-2025-2255,2025-26,2025-11-01 15:00:00,Nottm Forest,Manchester United,City Ground,2,3,team_b,True,completed,90,40.5,59.5,9,9
+EPL-2025-2256,2025-26,2025-11-02 17:00:00,Liverpool,Aston Villa,Anfield,3,1,team_a,True,completed,90,61.6,38.4,21,15
+EPL-2025-2257,2025-26,2025-11-01 17:00:00,West Ham,Manchester City,London Stadium,4,1,team_a,True,completed,90,42.4,57.6,13,19
+EPL-2025-2258,2025-26,2025-11-02 17:00:00,Manchester United,Tottenham,Old Trafford,1,6,team_b,True,completed,90,52.1,47.9,12,11
+EPL-2025-2259,2025-26,2025-11-02 15:00:00,Manchester United,Liverpool,Old Trafford,2,1,team_a,True,completed,90,53.0,47.0,14,15
+EPL-2025-2260,2025-26,2025-11-01 20:00:00,Nottm Forest,Brentford,City Ground,2,0,team_a,True,completed,90,45.1,54.9,11,10
+EPL-2025-2261,2025-26,2025-11-10 15:00:00,Fulham,Brentford,Craven Cottage,0,2,team_b,True,completed,90,54.3,45.7,11,13
+EPL-2025-2262,2025-26,2025-11-08 15:00:00,Everton,Leicester,Goodison Park,1,1,draw,True,completed,90,46.7,53.3,9,11
+EPL-2025-2263,2025-26,2025-11-08 17:00:00,Leicester,Fulham,King Power Stadium,1,1,draw,True,completed,90,49.8,50.2,8,14
+EPL-2025-2264,2025-26,2025-11-09 20:00:00,Wolves,Liverpool,Molineux Stadium,1,0,team_a,True,completed,90,54.3,45.7,9,18
+EPL-2025-2265,2025-26,2025-11-08 15:00:00,Arsenal,Chelsea,Emirates Stadium,2,1,team_a,True,completed,90,58.8,41.2,19,17
+EPL-2025-2266,2025-26,2025-11-10 17:00:00,Tottenham,Chelsea,Tottenham Hotspur Stadium,0,5,team_b,True,completed,90,61.9,38.1,11,15
+EPL-2025-2267,2025-26,2025-11-08 20:00:00,Southampton,Newcastle,St. Mary's Stadium,4,3,team_a,True,completed,90,57.2,42.8,14,14
+EPL-2025-2268,2025-26,2025-11-10 20:00:00,Liverpool,Wolves,Anfield,1,1,draw,True,completed,90,69.1,30.9,16,10
+EPL-2025-2269,2025-26,2025-11-08 20:00:00,Arsenal,Manchester City,Emirates Stadium,2,6,team_b,True,completed,90,60.8,39.2,12,13
+EPL-2025-2270,2025-26,2025-11-10 20:00:00,Newcastle,Leicester,St. James' Park,0,0,draw,True,completed,90,53.8,46.2,16,10
+EPL-2025-2271,2025-26,2025-11-15 15:00:00,Brighton,Southampton,Amex Stadium,3,0,team_a,True,completed,90,66.7,33.3,17,7
+EPL-2025-2272,2025-26,2025-11-15 15:00:00,Everton,Brighton,Goodison Park,2,1,team_a,True,completed,90,40.6,59.4,14,14
+EPL-2025-2273,2025-26,2025-11-17 20:00:00,Manchester United,Chelsea,Old Trafford,2,1,team_a,True,completed,90,52.5,47.5,14,17
+EPL-2025-2274,2025-26,2025-11-16 20:00:00,Chelsea,Fulham,Stamford Bridge,2,2,draw,True,completed,90,63.1,36.9,15,10
+EPL-2025-2275,2025-26,2025-11-16 20:00:00,Southampton,Manchester City,St. Mary's Stadium,0,2,team_b,True,completed,90,52.0,48.0,12,15
+EPL-2025-2276,2025-26,2025-11-16 17:00:00,Bournemouth,Crystal Palace,Vitality Stadium,1,1,draw,True,completed,90,52.9,47.1,16,11
+EPL-2025-2277,2025-26,2025-11-17 20:00:00,Manchester City,Everton,Etihad Stadium,4,1,team_a,True,completed,90,67.2,32.8,19,12
+EPL-2025-2278,2025-26,2025-11-17 15:00:00,Southampton,Brighton,St. Mary's Stadium,0,1,team_b,True,completed,90,55.3,44.7,13,11
+EPL-2025-2279,2025-26,2025-11-15 20:00:00,Tottenham,Nottm Forest,Tottenham Hotspur Stadium,3,3,draw,True,completed,90,59.4,40.6,18,9
+EPL-2025-2280,2025-26,2025-11-17 20:00:00,Arsenal,Nottm Forest,Emirates Stadium,1,1,draw,True,completed,90,65.1,34.9,19,7
+EPL-2025-2281,2025-26,2025-11-23 17:00:00,Brighton,West Ham,Amex Stadium,0,0,draw,True,completed,90,61.4,38.6,18,11
+EPL-2025-2282,2025-26,2025-11-22 15:00:00,Tottenham,Newcastle,Tottenham Hotspur Stadium,3,2,team_a,True,completed,90,62.8,37.2,15,12
+EPL-2025-2283,2025-26,2025-11-24 17:00:00,Fulham,Aston Villa,Craven Cottage,0,0,draw,True,completed,90,52.0,48.0,9,10
+EPL-2025-2284,2025-26,2025-11-22 20:00:00,Manchester City,Brentford,Etihad Stadium,4,2,team_a,True,completed,90,64.1,35.9,19,13
+EPL-2025-2285,2025-26,2025-11-22 17:00:00,Nottm Forest,Crystal Palace,City Ground,0,2,team_b,True,completed,90,46.6,53.4,11,12
+EPL-2025-2286,2025-26,2025-11-23 20:00:00,Brentford,Wolves,Gtech Community Stadium,2,0,team_a,True,completed,90,44.8,55.2,8,8
+EPL-2025-2287,2025-26,2025-11-24 20:00:00,Manchester City,Chelsea,Etihad Stadium,2,3,team_b,True,completed,90,67.6,32.4,15,16
+EPL-2025-2288,2025-26,2025-11-22 15:00:00,Newcastle,Southampton,St. James' Park,1,2,team_b,True,completed,90,54.2,45.8,14,11
+EPL-2025-2289,2025-26,2025-11-24 20:00:00,Wolves,Leicester,Molineux Stadium,3,0,team_a,True,completed,90,49.5,50.5,15,10
+EPL-2025-2290,2025-26,2025-11-23 15:00:00,West Ham,Bournemouth,London Stadium,0,1,team_b,True,completed,90,44.1,55.9,9,12
